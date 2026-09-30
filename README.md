@@ -19,6 +19,8 @@
 需要 Python 3.12+、支持 WebGL 2 的桌面浏览器。运行网页无需安装 Blender 或 npm 依赖。
 
 ```bash
+git clone https://github.com/zhengrui0207-png/beijing-3d-travel-map.git
+cd beijing-3d-travel-map
 python3 scripts/download_assets.py
 python3 server.py --open
 ```
