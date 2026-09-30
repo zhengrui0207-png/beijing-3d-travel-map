@@ -1,0 +1,2321 @@
+{
+  "tiles": [
+    {
+      "id": "infill--6_-5",
+      "bounds": [
+        -59.7694893769021,
+        -50.080860479999,
+        -49.82282599053844,
+        -39.93204623999721
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 451,
+      "url": "public/assets/urban-fill/detail/-6_-5.glb",
+      "minPpu": 300,
+      "bytes": 124932,
+      "revision": "570353cce220",
+      "triangles": 12591
+    },
+    {
+      "id": "infill--6_-4",
+      "bounds": [
+        -59.7694893769021,
+        -40.1425448399979,
+        -49.787307025432625,
+        -30.27570416000083
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 353,
+      "url": "public/assets/urban-fill/detail/-6_-4.glb",
+      "minPpu": 300,
+      "bytes": 97676,
+      "revision": "2d0c4e735d8c",
+      "triangles": 9957
+    },
+    {
+      "id": "infill--6_-3",
+      "bounds": [
+        -59.7694893769021,
+        -29.74470023999743,
+        -49.994358685058714,
+        -19.981832439997298
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 446,
+      "url": "public/assets/urban-fill/detail/-6_-3.glb",
+      "minPpu": 300,
+      "bytes": 109608,
+      "revision": "938757bec21b",
+      "triangles": 11454
+    },
+    {
+      "id": "infill--5_-4",
+      "bounds": [
+        -49.991101204199865,
+        -40.049815279997894,
+        -40.24201206129419,
+        -30.482759360000113
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 774,
+      "url": "public/assets/urban-fill/detail/-5_-4.glb",
+      "minPpu": 300,
+      "bytes": 461784,
+      "revision": "fa296ae41cc6",
+      "triangles": 59166
+    },
+    {
+      "id": "infill--5_-3",
+      "bounds": [
+        -50.169122940414816,
+        -29.863033399996077,
+        -40.148433249366086,
+        -19.964466520000013
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1765,
+      "url": "public/assets/urban-fill/detail/-5_-3.glb",
+      "minPpu": 300,
+      "bytes": 1014704,
+      "revision": "ce88b9376d80",
+      "triangles": 134196
+    },
+    {
+      "id": "infill--4_-3",
+      "bounds": [
+        -39.64620261434302,
+        -29.81572239999688,
+        -29.959698571025022,
+        -19.955226960002776
+      ],
+      "height": 0.07,
+      "buildings": 2017,
+      "url": "public/assets/urban-fill/detail/-4_-3.glb",
+      "minPpu": 300,
+      "bytes": 1246092,
+      "revision": "bb34877d53a3",
+      "triangles": 165729
+    },
+    {
+      "id": "infill--4_-4",
+      "bounds": [
+        -39.65260627391508,
+        -39.99571375999844,
+        -29.634221900310358,
+        -30.18887455999858
+      ],
+      "height": 0.07,
+      "buildings": 603,
+      "url": "public/assets/urban-fill/detail/-4_-4.glb",
+      "minPpu": 300,
+      "bytes": 378948,
+      "revision": "245d9993822a",
+      "triangles": 47148
+    },
+    {
+      "id": "infill--4_-5",
+      "bounds": [
+        -39.703750168393235,
+        -50.020079760000584,
+        -29.921447377825743,
+        -39.96944975999928
+      ],
+      "height": 0.07,
+      "buildings": 435,
+      "url": "public/assets/urban-fill/detail/-4_-5.glb",
+      "minPpu": 300,
+      "bytes": 279548,
+      "revision": "74304f462163",
+      "triangles": 34794
+    },
+    {
+      "id": "infill--5_-5",
+      "bounds": [
+        -50.2186445744784,
+        -50.08787364000185,
+        -40.3487397209054,
+        -40.0754263999959
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 533,
+      "url": "public/assets/urban-fill/detail/-5_-5.glb",
+      "minPpu": 300,
+      "bytes": 262748,
+      "revision": "a49e614580a8",
+      "triangles": 32393
+    },
+    {
+      "id": "infill--4_-6",
+      "bounds": [
+        -39.862646308014604,
+        -55.661999999996844,
+        -29.901894870582705,
+        -49.91477855999532
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 203,
+      "url": "public/assets/urban-fill/detail/-4_-6.glb",
+      "minPpu": 300,
+      "bytes": 64876,
+      "revision": "374e2b9321a4",
+      "triangles": 5865
+    },
+    {
+      "id": "infill--5_-6",
+      "bounds": [
+        -49.95524071057933,
+        -55.42154880000278,
+        -40.38502712516326,
+        -50.028213640000004
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 108,
+      "url": "public/assets/urban-fill/detail/-5_-6.glb",
+      "minPpu": 300,
+      "bytes": 35848,
+      "revision": "b9ff4b2e241c",
+      "triangles": 3045
+    },
+    {
+      "id": "infill--6_-6",
+      "bounds": [
+        -59.7143325224185,
+        -55.661999999996844,
+        -49.900438344603764,
+        -49.97433475999524
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 154,
+      "url": "public/assets/urban-fill/detail/-6_-6.glb",
+      "minPpu": 300,
+      "bytes": 48716,
+      "revision": "441c92337530",
+      "triangles": 4116
+    },
+    {
+      "id": "infill--3_-6",
+      "bounds": [
+        -30.01322020507647,
+        -55.661999999996844,
+        -19.948900246776287,
+        -50.46147108000084
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 163,
+      "url": "public/assets/urban-fill/detail/-3_-6.glb",
+      "minPpu": 300,
+      "bytes": 53360,
+      "revision": "352c9e51c0f2",
+      "triangles": 4557
+    },
+    {
+      "id": "infill--2_-6",
+      "bounds": [
+        -20.027182697865587,
+        -55.58752691999661,
+        -9.613222926707575,
+        -49.92479736000166
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 351,
+      "url": "public/assets/urban-fill/detail/-2_-6.glb",
+      "minPpu": 300,
+      "bytes": 103312,
+      "revision": "1ea062426b58",
+      "triangles": 10275
+    },
+    {
+      "id": "infill--3_-5",
+      "bounds": [
+        -30.35927396857831,
+        -49.08866531999982,
+        -20.22212305535817,
+        -39.950525359999595
+      ],
+      "height": 0.07,
+      "buildings": 309,
+      "url": "public/assets/urban-fill/detail/-3_-5.glb",
+      "minPpu": 300,
+      "bytes": 198360,
+      "revision": "2ff9728a5c69",
+      "triangles": 23276
+    },
+    {
+      "id": "infill--2_-5",
+      "bounds": [
+        -19.885960658680577,
+        -50.07551711999983,
+        -9.898484615293672,
+        -40.00384763999786
+      ],
+      "height": 0.07,
+      "buildings": 245,
+      "url": "public/assets/urban-fill/detail/-2_-5.glb",
+      "minPpu": 300,
+      "bytes": 156584,
+      "revision": "c366f81263e7",
+      "triangles": 18492
+    },
+    {
+      "id": "infill--3_-4",
+      "bounds": [
+        -30.05471591912915,
+        -40.045362480001224,
+        -19.922431787201248,
+        -29.89510107999835
+      ],
+      "height": 0.07,
+      "buildings": 1275,
+      "url": "public/assets/urban-fill/detail/-3_-4.glb",
+      "minPpu": 300,
+      "bytes": 781600,
+      "revision": "d291acbf5e1c",
+      "triangles": 102945
+    },
+    {
+      "id": "infill--3_-3",
+      "bounds": [
+        -30.11260500170621,
+        -30.05005099999849,
+        -19.980747780403505,
+        -19.957564679998455
+      ],
+      "height": 0.07,
+      "buildings": 2893,
+      "url": "public/assets/urban-fill/detail/-3_-3.glb",
+      "minPpu": 300,
+      "bytes": 1782208,
+      "revision": "98d603018c70",
+      "triangles": 232680
+    },
+    {
+      "id": "infill--2_-4",
+      "bounds": [
+        -20.066885387234212,
+        -40.032449360000605,
+        -9.888580288476103,
+        -29.93974039999797
+      ],
+      "height": 0.07,
+      "buildings": 590,
+      "url": "public/assets/urban-fill/detail/-2_-4.glb",
+      "minPpu": 300,
+      "bytes": 375796,
+      "revision": "0f380ad893cb",
+      "triangles": 48059
+    },
+    {
+      "id": "infill--2_-3",
+      "bounds": [
+        -20.10735651575488,
+        -30.0324624399986,
+        -9.937077336995534,
+        -19.87106904000011
+      ],
+      "height": 0.07,
+      "buildings": 1634,
+      "url": "public/assets/urban-fill/detail/-2_-3.glb",
+      "minPpu": 300,
+      "bytes": 1044840,
+      "revision": "2534dc0c253e",
+      "triangles": 131072
+    },
+    {
+      "id": "infill--1_-5",
+      "bounds": [
+        -9.667256853531098,
+        -49.931023759996044,
+        -0.36113018903138855,
+        -39.951193279999494
+      ],
+      "height": 0.07,
+      "buildings": 161,
+      "url": "public/assets/urban-fill/detail/-1_-5.glb",
+      "minPpu": 300,
+      "bytes": 105192,
+      "revision": "ed6573b8b647",
+      "triangles": 12222
+    },
+    {
+      "id": "infill--1_-4",
+      "bounds": [
+        -9.681771815236669,
+        -40.031336159995504,
+        0.01147741616810752,
+        -29.95309879999588
+      ],
+      "height": 0.07,
+      "buildings": 335,
+      "url": "public/assets/urban-fill/detail/-1_-4.glb",
+      "minPpu": 300,
+      "bytes": 223664,
+      "revision": "1a5bfb69631f",
+      "triangles": 26706
+    },
+    {
+      "id": "infill--1_-3",
+      "bounds": [
+        -10.107999396615673,
+        -30.08211116000139,
+        0.11769278300724252,
+        -19.962574080001627
+      ],
+      "height": 0.07,
+      "buildings": 1018,
+      "url": "public/assets/urban-fill/detail/-1_-3.glb",
+      "minPpu": 300,
+      "bytes": 664848,
+      "revision": "26242391c3de",
+      "triangles": 83220
+    },
+    {
+      "id": "infill-0_-4",
+      "bounds": [
+        -0.12341338557413889,
+        -40.11516012000218,
+        10.149324346398865,
+        -29.812278999995478
+      ],
+      "height": 0.07,
+      "buildings": 667,
+      "url": "public/assets/urban-fill/detail/0_-4.glb",
+      "minPpu": 300,
+      "bytes": 435236,
+      "revision": "7d363ec60c14",
+      "triangles": 52488
+    },
+    {
+      "id": "infill-0_-3",
+      "bounds": [
+        -0.11000839152319504,
+        -30.052945320000674,
+        10.006906957436614,
+        -20.38436556000294
+      ],
+      "height": 0.07,
+      "buildings": 950,
+      "url": "public/assets/urban-fill/detail/0_-3.glb",
+      "minPpu": 300,
+      "bytes": 612492,
+      "revision": "51c4a9bd2334",
+      "triangles": 78504
+    },
+    {
+      "id": "infill-1_-4",
+      "bounds": [
+        9.883115832289176,
+        -39.98524968000271,
+        20.036745496156307,
+        -30.083677159995247
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 345,
+      "url": "public/assets/urban-fill/detail/1_-4.glb",
+      "minPpu": 300,
+      "bytes": 217272,
+      "revision": "9a398fa48849",
+      "triangles": 24951
+    },
+    {
+      "id": "infill-0_-5",
+      "bounds": [
+        0.06357347404897488,
+        -49.260766040001926,
+        10.062319958300183,
+        -40.00362499999525
+      ],
+      "height": 0.07,
+      "buildings": 272,
+      "url": "public/assets/urban-fill/detail/0_-5.glb",
+      "minPpu": 300,
+      "bytes": 174884,
+      "revision": "f29c17810f81",
+      "triangles": 20811
+    },
+    {
+      "id": "infill-0_-6",
+      "bounds": [
+        -0.06543892087446565,
+        -55.661999999996844,
+        10.012712942113989,
+        -50.720401399997286
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 80,
+      "url": "public/assets/urban-fill/detail/0_-6.glb",
+      "minPpu": 300,
+      "bytes": 27428,
+      "revision": "e3de8b667e74",
+      "triangles": 2298
+    },
+    {
+      "id": "infill--1_-6",
+      "bounds": [
+        -10.23504800260983,
+        -55.661999999996844,
+        0.024113971067006565,
+        -50.032221159999374
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 350,
+      "url": "public/assets/urban-fill/detail/-1_-6.glb",
+      "minPpu": 300,
+      "bytes": 99712,
+      "revision": "1aa610e6d66b",
+      "triangles": 9684
+    },
+    {
+      "id": "infill-1_-6",
+      "bounds": [
+        10.020581057860843,
+        -55.661999999996844,
+        20.472792022218137,
+        -49.92535396000026
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 164,
+      "url": "public/assets/urban-fill/detail/1_-6.glb",
+      "minPpu": 300,
+      "bytes": 61688,
+      "revision": "a898306d6046",
+      "triangles": 5118
+    },
+    {
+      "id": "infill-2_-6",
+      "bounds": [
+        19.8772646416457,
+        -55.661999999996844,
+        30.05949731827451,
+        -49.964761240002005
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 296,
+      "url": "public/assets/urban-fill/detail/2_-6.glb",
+      "minPpu": 300,
+      "bytes": 93196,
+      "revision": "b5c81dd1d150",
+      "triangles": 8757
+    },
+    {
+      "id": "infill-3_-6",
+      "bounds": [
+        29.79661870714084,
+        -55.65743587999887,
+        39.70007873689037,
+        -50.06116435999749
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 135,
+      "url": "public/assets/urban-fill/detail/3_-6.glb",
+      "minPpu": 300,
+      "bytes": 45440,
+      "revision": "d8480146ae36",
+      "triangles": 3840
+    },
+    {
+      "id": "infill-4_-6",
+      "bounds": [
+        40.046145460385524,
+        -55.661999999996844,
+        50.04779493697542,
+        -50.18317107999951
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 191,
+      "url": "public/assets/urban-fill/detail/4_-6.glb",
+      "minPpu": 300,
+      "bytes": 57012,
+      "revision": "21703502946c",
+      "triangles": 5478
+    },
+    {
+      "id": "infill-5_-6",
+      "bounds": [
+        49.95824204503394,
+        -55.64185107999867,
+        59.76948937688997,
+        -50.67720923999877
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 91,
+      "url": "public/assets/urban-fill/detail/5_-6.glb",
+      "minPpu": 300,
+      "bytes": 32984,
+      "revision": "efd1b12e3709",
+      "triangles": 2780
+    },
+    {
+      "id": "infill-3_-5",
+      "bounds": [
+        29.90881082291471,
+        -49.92089363999631,
+        39.74985651733392,
+        -39.915793519997116
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 287,
+      "url": "public/assets/urban-fill/detail/3_-5.glb",
+      "minPpu": 300,
+      "bytes": 78960,
+      "revision": "2ad34908157e",
+      "triangles": 7764
+    },
+    {
+      "id": "infill-4_-5",
+      "bounds": [
+        39.9253297497182,
+        -49.902414520001834,
+        49.88667886203266,
+        -39.93126699999601
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 270,
+      "url": "public/assets/urban-fill/detail/4_-5.glb",
+      "minPpu": 300,
+      "bytes": 82104,
+      "revision": "6e141422059b",
+      "triangles": 7899
+    },
+    {
+      "id": "infill-5_-5",
+      "bounds": [
+        49.87798284500991,
+        -49.749794799998,
+        59.76948937688997,
+        -39.722764639995646
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 144,
+      "url": "public/assets/urban-fill/detail/5_-5.glb",
+      "minPpu": 300,
+      "bytes": 47348,
+      "revision": "6d8be8d353ad",
+      "triangles": 3990
+    },
+    {
+      "id": "infill-2_-5",
+      "bounds": [
+        19.66346779393283,
+        -50.17258815999521,
+        30.05275213018773,
+        -39.805252760002524
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 342,
+      "url": "public/assets/urban-fill/detail/2_-5.glb",
+      "minPpu": 300,
+      "bytes": 93240,
+      "revision": "ae9567523b7b",
+      "triangles": 9411
+    },
+    {
+      "id": "infill-1_-5",
+      "bounds": [
+        9.851865973568778,
+        -50.04913428,
+        20.066970769344692,
+        -39.83096768000246
+      ],
+      "height": 0.07,
+      "buildings": 209,
+      "url": "public/assets/urban-fill/detail/1_-5.glb",
+      "minPpu": 300,
+      "bytes": 135796,
+      "revision": "d79d694c72f7",
+      "triangles": 14271
+    },
+    {
+      "id": "infill-2_-4",
+      "bounds": [
+        20.566298412029077,
+        -40.314200280002716,
+        29.884207810140893,
+        -30.023230400000738
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 251,
+      "url": "public/assets/urban-fill/detail/2_-4.glb",
+      "minPpu": 300,
+      "bytes": 68968,
+      "revision": "f6b74b54f77d",
+      "triangles": 6654
+    },
+    {
+      "id": "infill-3_-4",
+      "bounds": [
+        30.030907265506148,
+        -40.1280732400028,
+        39.780135830215215,
+        -30.01499271999939
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 248,
+      "url": "public/assets/urban-fill/detail/3_-4.glb",
+      "minPpu": 300,
+      "bytes": 70440,
+      "revision": "22491534af61",
+      "triangles": 6804
+    },
+    {
+      "id": "infill-1_-3",
+      "bounds": [
+        9.995478712320402,
+        -30.01932667999538,
+        18.63383175621695,
+        -19.953000560000486
+      ],
+      "height": 0.07,
+      "buildings": 219,
+      "url": "public/assets/urban-fill/detail/1_-3.glb",
+      "minPpu": 300,
+      "bytes": 139980,
+      "revision": "20d1ec46bad8",
+      "triangles": 15993
+    },
+    {
+      "id": "infill-2_-3",
+      "bounds": [
+        19.925847072299877,
+        -30.032907719995894,
+        30.043872388914313,
+        -19.98873427999886
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 256,
+      "url": "public/assets/urban-fill/detail/2_-3.glb",
+      "minPpu": 300,
+      "bytes": 72484,
+      "revision": "81d8bcc32f74",
+      "triangles": 7116
+    },
+    {
+      "id": "infill-3_-3",
+      "bounds": [
+        29.912311490148085,
+        -29.954315800002906,
+        40.12485482211216,
+        -19.901570720000613
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 258,
+      "url": "public/assets/urban-fill/detail/3_-3.glb",
+      "minPpu": 300,
+      "bytes": 69628,
+      "revision": "cf4894e80806",
+      "triangles": 6798
+    },
+    {
+      "id": "infill-4_-4",
+      "bounds": [
+        39.948639070574586,
+        -40.11415823999838,
+        49.96207128077659,
+        -30.003526759999865
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 322,
+      "url": "public/assets/urban-fill/detail/4_-4.glb",
+      "minPpu": 300,
+      "bytes": 91536,
+      "revision": "14680961389d",
+      "triangles": 8976
+    },
+    {
+      "id": "infill-4_-3",
+      "bounds": [
+        39.858817072259825,
+        -30.08211116000139,
+        50.228292754891726,
+        -19.97493059999574
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 207,
+      "url": "public/assets/urban-fill/detail/4_-3.glb",
+      "minPpu": 300,
+      "bytes": 63328,
+      "revision": "7219a4c94e7f",
+      "triangles": 6120
+    },
+    {
+      "id": "infill-5_-3",
+      "bounds": [
+        49.70183951561376,
+        -30.039141639997556,
+        59.76948937688997,
+        -19.96980987999918
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 260,
+      "url": "public/assets/urban-fill/detail/5_-3.glb",
+      "minPpu": 300,
+      "bytes": 77248,
+      "revision": "feb2f76112bd",
+      "triangles": 7428
+    },
+    {
+      "id": "infill-5_-4",
+      "bounds": [
+        50.01023976079888,
+        -40.00884952000166,
+        59.76948937688997,
+        -29.8718351999954
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 310,
+      "url": "public/assets/urban-fill/detail/5_-4.glb",
+      "minPpu": 300,
+      "bytes": 90200,
+      "revision": "5ca48632a232",
+      "triangles": 8898
+    },
+    {
+      "id": "infill--6_1",
+      "bounds": [
+        -59.7694893769021,
+        9.94433067999984,
+        -49.924772250992156,
+        20.0958166000012
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 726,
+      "url": "public/assets/urban-fill/detail/-6_1.glb",
+      "minPpu": 300,
+      "bytes": 179124,
+      "revision": "446bf481941f",
+      "triangles": 19401
+    },
+    {
+      "id": "infill--6_2",
+      "bounds": [
+        -59.7694893769021,
+        19.90234996000181,
+        -49.39557382362742,
+        29.93706119999901
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 368,
+      "url": "public/assets/urban-fill/detail/-6_2.glb",
+      "minPpu": 300,
+      "bytes": 96324,
+      "revision": "7dafd1f7c454",
+      "triangles": 9768
+    },
+    {
+      "id": "infill--6_3",
+      "bounds": [
+        -59.7694893769021,
+        29.990613639999246,
+        -49.9907726356906,
+        39.97233656000209
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 266,
+      "url": "public/assets/urban-fill/detail/-6_3.glb",
+      "minPpu": 300,
+      "bytes": 85080,
+      "revision": "76ef360410aa",
+      "triangles": 8022
+    },
+    {
+      "id": "infill--5_2",
+      "bounds": [
+        -50.03088927570324,
+        19.825650479999297,
+        -39.93617327994517,
+        30.157029519998908
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1444,
+      "url": "public/assets/urban-fill/detail/-5_2.glb",
+      "minPpu": 300,
+      "bytes": 776808,
+      "revision": "a4280efa4ce0",
+      "triangles": 101298
+    },
+    {
+      "id": "infill--5_3",
+      "bounds": [
+        -50.04113513102339,
+        29.97079867999707,
+        -39.87563735142153,
+        40.04447191999873
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 300,
+      "url": "public/assets/urban-fill/detail/-5_3.glb",
+      "minPpu": 300,
+      "bytes": 168592,
+      "revision": "ddabb8c80876",
+      "triangles": 18024
+    },
+    {
+      "id": "infill--5_1",
+      "bounds": [
+        -50.03601220336331,
+        9.975611600001542,
+        -39.98475571059935,
+        20.048505600002002
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1764,
+      "url": "public/assets/urban-fill/detail/-5_1.glb",
+      "minPpu": 300,
+      "bytes": 911896,
+      "revision": "fe5aec1d73ec",
+      "triangles": 119022
+    },
+    {
+      "id": "infill--5_0",
+      "bounds": [
+        -50.064956744651845,
+        -0.012909360000931656,
+        -39.70453156755072,
+        10.196129000000663
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1136,
+      "url": "public/assets/urban-fill/detail/-5_0.glb",
+      "minPpu": 300,
+      "bytes": 646696,
+      "revision": "04c2a015278d",
+      "triangles": 84228
+    },
+    {
+      "id": "infill--6_0",
+      "bounds": [
+        -59.7694893769021,
+        -0.004894320002184259,
+        -49.905048979503896,
+        10.055123406877414
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 462,
+      "url": "public/assets/urban-fill/detail/-6_0.glb",
+      "minPpu": 300,
+      "bytes": 120652,
+      "revision": "2745427217d6",
+      "triangles": 12798
+    },
+    {
+      "id": "infill--5_-1",
+      "bounds": [
+        -50.35662209281001,
+        -9.64587424000097,
+        -39.89570215142451,
+        0.02070175999707726
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 225,
+      "url": "public/assets/urban-fill/detail/-5_-1.glb",
+      "minPpu": 300,
+      "bytes": 126648,
+      "revision": "21972c85b0b5",
+      "triangles": 13896
+    },
+    {
+      "id": "infill--6_-1",
+      "bounds": [
+        -59.7694893769021,
+        -9.78636007999747,
+        -49.97600152760506,
+        0.03183376000061071
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 164,
+      "url": "public/assets/urban-fill/detail/-6_-1.glb",
+      "minPpu": 300,
+      "bytes": 53420,
+      "revision": "f78c664a7ab7",
+      "triangles": 4548
+    },
+    {
+      "id": "infill--5_-2",
+      "bounds": [
+        -50.006128458677516,
+        -20.05151123999758,
+        -40.33132176684901,
+        -10.525198440001342
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1070,
+      "url": "public/assets/urban-fill/detail/-5_-2.glb",
+      "minPpu": 300,
+      "bytes": 537956,
+      "revision": "3bb881b39d83",
+      "triangles": 68351
+    },
+    {
+      "id": "infill--6_-2",
+      "bounds": [
+        -59.7694893769021,
+        -20.016222799996502,
+        -49.87157918544998,
+        -10.423563280000089
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 202,
+      "url": "public/assets/urban-fill/detail/-6_-2.glb",
+      "minPpu": 300,
+      "bytes": 63928,
+      "revision": "713a61fc0bbd",
+      "triangles": 6102
+    },
+    {
+      "id": "infill--5_5",
+      "bounds": [
+        -49.9970779531346,
+        49.695700799997915,
+        -40.039314890188265,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 191,
+      "url": "public/assets/urban-fill/detail/-5_5.glb",
+      "minPpu": 300,
+      "bytes": 61576,
+      "revision": "63b753dae04c",
+      "triangles": 5244
+    },
+    {
+      "id": "infill--6_5",
+      "bounds": [
+        -59.7694893769021,
+        49.9800120799983,
+        -49.9657556722849,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 114,
+      "url": "public/assets/urban-fill/detail/-6_5.glb",
+      "minPpu": 300,
+      "bytes": 38444,
+      "revision": "7f7912fe0dba",
+      "triangles": 3240
+    },
+    {
+      "id": "infill--6_4",
+      "bounds": [
+        -59.7694893769021,
+        40.032122920003985,
+        -49.8365725131041,
+        49.95851980000098
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 281,
+      "url": "public/assets/urban-fill/detail/-6_4.glb",
+      "minPpu": 300,
+      "bytes": 81424,
+      "revision": "504c747e7cd6",
+      "triangles": 7818
+    },
+    {
+      "id": "infill--5_4",
+      "bounds": [
+        -50.00109091314005,
+        39.96510828000391,
+        -39.842082175245,
+        49.56622812000428
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 245,
+      "url": "public/assets/urban-fill/detail/-5_4.glb",
+      "minPpu": 300,
+      "bytes": 68628,
+      "revision": "1ca1ac412567",
+      "triangles": 6504
+    },
+    {
+      "id": "infill--4_-2",
+      "bounds": [
+        -39.75207645266744,
+        -19.99807763999802,
+        -29.836492160778956,
+        -10.83444540000047
+      ],
+      "height": 0.07,
+      "buildings": 792,
+      "url": "public/assets/urban-fill/detail/-4_-2.glb",
+      "minPpu": 300,
+      "bytes": 491996,
+      "revision": "360bbd9bb554",
+      "triangles": 64566
+    },
+    {
+      "id": "infill--3_-2",
+      "bounds": [
+        -30.074524572752157,
+        -20.03971132000206,
+        -20.18361571577892,
+        -10.375310461378191
+      ],
+      "height": 0.07,
+      "buildings": 734,
+      "url": "public/assets/urban-fill/detail/-3_-2.glb",
+      "minPpu": 300,
+      "bytes": 462404,
+      "revision": "ff515f2314fc",
+      "triangles": 59874
+    },
+    {
+      "id": "infill--2_-2",
+      "bounds": [
+        -19.897743392292686,
+        -20.051956520002783,
+        -9.879785929325294,
+        -10.166414080000727
+      ],
+      "height": 0.07,
+      "buildings": 296,
+      "url": "public/assets/urban-fill/detail/-2_-2.glb",
+      "minPpu": 300,
+      "bytes": 195204,
+      "revision": "9da9d718c05a",
+      "triangles": 23292
+    },
+    {
+      "id": "infill--1_-2",
+      "bounds": [
+        -10.017665105528842,
+        -20.000971960000204,
+        0.12810940258475298,
+        -9.932864720000314
+      ],
+      "height": 0.07,
+      "buildings": 336,
+      "url": "public/assets/urban-fill/detail/-1_-2.glb",
+      "minPpu": 300,
+      "bytes": 221276,
+      "revision": "5de3dee373e1",
+      "triangles": 26970
+    },
+    {
+      "id": "infill--1_-1",
+      "bounds": [
+        -10.029960131913024,
+        -10.025698080002252,
+        0.04127577873129509,
+        0.06801276000418466
+      ],
+      "height": 0.07,
+      "buildings": 270,
+      "url": "public/assets/urban-fill/detail/-1_-1.glb",
+      "minPpu": 300,
+      "bytes": 172224,
+      "revision": "48fa111b3109",
+      "triangles": 21180
+    },
+    {
+      "id": "infill--2_-1",
+      "bounds": [
+        -20.068678411918274,
+        -9.955677799998693,
+        -9.903009868059062,
+        -0.12100859999791386
+      ],
+      "height": 0.07,
+      "buildings": 182,
+      "url": "public/assets/urban-fill/detail/-2_-1.glb",
+      "minPpu": 300,
+      "bytes": 119760,
+      "revision": "bf4998d459a6",
+      "triangles": 14628
+    },
+    {
+      "id": "infill--3_-1",
+      "bounds": [
+        -30.02295376763668,
+        -9.791592119995334,
+        -20.877772413822377,
+        -0.0037886399964587557
+      ],
+      "height": 0.07,
+      "buildings": 132,
+      "url": "public/assets/urban-fill/detail/-3_-1.glb",
+      "minPpu": 300,
+      "bytes": 90324,
+      "revision": "312fe0159f02",
+      "triangles": 10482
+    },
+    {
+      "id": "infill--4_-1",
+      "bounds": [
+        -40.17557180596511,
+        -9.75652631999686,
+        -30.08322472204023,
+        0.08148248000339789
+      ],
+      "height": 0.07,
+      "buildings": 451,
+      "url": "public/assets/urban-fill/detail/-4_-1.glb",
+      "minPpu": 300,
+      "bytes": 288212,
+      "revision": "97a0f8528ef1",
+      "triangles": 36522
+    },
+    {
+      "id": "infill--4_0",
+      "bounds": [
+        -40.14910334637794,
+        -0.08693715999595396,
+        -30.07103686552423,
+        9.96580791999843
+      ],
+      "height": 0.07,
+      "buildings": 464,
+      "url": "public/assets/urban-fill/detail/-4_0.glb",
+      "minPpu": 300,
+      "bytes": 299792,
+      "revision": "24a0e8cf5746",
+      "triangles": 37649
+    },
+    {
+      "id": "infill--3_0",
+      "bounds": [
+        -29.926984256117695,
+        0.10386532000322962,
+        -20.09319604255734,
+        10.18611020000223
+      ],
+      "height": 0.07,
+      "buildings": 170,
+      "url": "public/assets/urban-fill/detail/-3_0.glb",
+      "minPpu": 300,
+      "bytes": 115220,
+      "revision": "3a3b5753cf33",
+      "triangles": 13452
+    },
+    {
+      "id": "infill--3_1",
+      "bounds": [
+        -30.303519439200027,
+        9.990305839999246,
+        -19.885546708036568,
+        20.0644243599982
+      ],
+      "height": 0.07,
+      "buildings": 856,
+      "url": "public/assets/urban-fill/detail/-3_1.glb",
+      "minPpu": 300,
+      "bytes": 533016,
+      "revision": "47a1dc137938",
+      "triangles": 69564
+    },
+    {
+      "id": "infill--4_1",
+      "bounds": [
+        -40.064062747208546,
+        9.870859480003412,
+        -29.9813856314547,
+        20.098599600002085
+      ],
+      "height": 0.07,
+      "buildings": 506,
+      "url": "public/assets/urban-fill/detail/-4_1.glb",
+      "minPpu": 300,
+      "bytes": 325340,
+      "revision": "d8e0142f02e6",
+      "triangles": 40794
+    },
+    {
+      "id": "infill--4_2",
+      "bounds": [
+        -40.06875876423129,
+        19.92839883999774,
+        -29.917178271440324,
+        30.04660007999771
+      ],
+      "height": 0.07,
+      "buildings": 2368,
+      "url": "public/assets/urban-fill/detail/-4_2.glb",
+      "minPpu": 300,
+      "bytes": 1447692,
+      "revision": "5d2e64026cd5",
+      "triangles": 191694
+    },
+    {
+      "id": "infill--3_2",
+      "bounds": [
+        -30.11209270893414,
+        19.914706480003836,
+        -19.809898142912665,
+        30.125971239999807
+      ],
+      "height": 0.07,
+      "buildings": 1875,
+      "url": "public/assets/urban-fill/detail/-3_2.glb",
+      "minPpu": 300,
+      "bytes": 1194280,
+      "revision": "79adb5429c5b",
+      "triangles": 153098
+    },
+    {
+      "id": "infill--2_1",
+      "bounds": [
+        -20.13519108937665,
+        9.734158520003684,
+        -9.879273636565353,
+        20.13255220000337
+      ],
+      "height": 0.07,
+      "buildings": 1764,
+      "url": "public/assets/urban-fill/detail/-2_1.glb",
+      "minPpu": 300,
+      "bytes": 1071220,
+      "revision": "fbe190fb3bc5",
+      "triangles": 143860
+    },
+    {
+      "id": "infill--2_2",
+      "bounds": [
+        -20.18155358470944,
+        19.926395079998052,
+        -9.84264470378064,
+        30.03947560000146
+      ],
+      "height": 0.07,
+      "buildings": 3040,
+      "url": "public/assets/urban-fill/detail/-2_2.glb",
+      "minPpu": 300,
+      "bytes": 1781688,
+      "revision": "be07ba9e5ef8",
+      "triangles": 245029
+    },
+    {
+      "id": "infill--1_1",
+      "bounds": [
+        -10.118672162573155,
+        9.891008400001581,
+        0.07799009362648535,
+        20.21570824000224
+      ],
+      "height": 0.07,
+      "buildings": 1892,
+      "url": "public/assets/urban-fill/detail/-1_1.glb",
+      "minPpu": 300,
+      "bytes": 1141500,
+      "revision": "4acf056d8f4a",
+      "triangles": 155445
+    },
+    {
+      "id": "infill--1_2",
+      "bounds": [
+        -10.110731624697003,
+        19.809843040004402,
+        0.06116981447691307,
+        30.098475200002785
+      ],
+      "height": 0.07,
+      "buildings": 2319,
+      "url": "public/assets/urban-fill/detail/-1_2.glb",
+      "minPpu": 300,
+      "bytes": 1387068,
+      "revision": "fb522975dac9",
+      "triangles": 189564
+    },
+    {
+      "id": "infill--1_0",
+      "bounds": [
+        -10.063088397452228,
+        -0.12311615999952791,
+        0.12401106045669205,
+        10.048852640003906
+      ],
+      "height": 0.07,
+      "buildings": 890,
+      "url": "public/assets/urban-fill/detail/-1_0.glb",
+      "minPpu": 300,
+      "bytes": 542624,
+      "revision": "8b72376a701a",
+      "triangles": 72426
+    },
+    {
+      "id": "infill--2_0",
+      "bounds": [
+        -20.700676921011382,
+        -0.025377199996346578,
+        -9.734721694392192,
+        10.05408468000177
+      ],
+      "height": 0.07,
+      "buildings": 613,
+      "url": "public/assets/urban-fill/detail/-2_0.glb",
+      "minPpu": 300,
+      "bytes": 383228,
+      "revision": "62141ac243f8",
+      "triangles": 49314
+    },
+    {
+      "id": "infill-0_-1",
+      "bounds": [
+        -0.054510008524880825,
+        -10.200804439999933,
+        10.02765481445689,
+        0.026935679998739602
+      ],
+      "height": 0.07,
+      "buildings": 659,
+      "url": "public/assets/urban-fill/detail/0_-1.glb",
+      "minPpu": 300,
+      "bytes": 408296,
+      "revision": "0b2e34c93b6a",
+      "triangles": 52587
+    },
+    {
+      "id": "infill-0_0",
+      "bounds": [
+        -0.165165246006793,
+        -0.069237280002675,
+        10.108170160860897,
+        10.0657732800039
+      ],
+      "height": 0.07,
+      "buildings": 1345,
+      "url": "public/assets/urban-fill/detail/0_0.glb",
+      "minPpu": 300,
+      "bytes": 817828,
+      "revision": "be5b9b9c8c3b",
+      "triangles": 109836
+    },
+    {
+      "id": "infill-1_-1",
+      "bounds": [
+        9.730794116509356,
+        -10.120208759999347,
+        20.074313632326156,
+        0.010126360000048294
+      ],
+      "height": 0.07,
+      "buildings": 161,
+      "url": "public/assets/urban-fill/detail/1_-1.glb",
+      "minPpu": 300,
+      "bytes": 102872,
+      "revision": "689d3c0fc1f8",
+      "triangles": 11792
+    },
+    {
+      "id": "infill-1_0",
+      "bounds": [
+        10.024850164246262,
+        0.018816839998065008,
+        20.09454919658649,
+        10.025809400003553
+      ],
+      "height": 0.07,
+      "buildings": 197,
+      "url": "public/assets/urban-fill/detail/1_0.glb",
+      "minPpu": 300,
+      "bytes": 124616,
+      "revision": "72a5cf52b0db",
+      "triangles": 14580
+    },
+    {
+      "id": "infill-1_1",
+      "bounds": [
+        9.85391514463281,
+        9.888336720002,
+        20.05262657189648,
+        20.08234688000199
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 209,
+      "url": "public/assets/urban-fill/detail/1_1.glb",
+      "minPpu": 300,
+      "bytes": 129248,
+      "revision": "3b2b7ee112d9",
+      "triangles": 14844
+    },
+    {
+      "id": "infill-0_1",
+      "bounds": [
+        -0.10240938216175986,
+        9.938319400000779,
+        10.026203318287546,
+        20.030917040002116
+      ],
+      "height": 0.07,
+      "buildings": 1123,
+      "url": "public/assets/urban-fill/detail/0_1.glb",
+      "minPpu": 300,
+      "bytes": 681592,
+      "revision": "0e70af5ff0f8",
+      "triangles": 91136
+    },
+    {
+      "id": "infill-0_2",
+      "bounds": [
+        -0.037689729375308546,
+        19.999198360002495,
+        9.903936111450884,
+        30.039141639997556
+      ],
+      "height": 0.07,
+      "buildings": 1491,
+      "url": "public/assets/urban-fill/detail/0_2.glb",
+      "minPpu": 300,
+      "bytes": 886904,
+      "revision": "125f40787201",
+      "triangles": 120537
+    },
+    {
+      "id": "infill-1_2",
+      "bounds": [
+        9.94715242805833,
+        19.94954963999971,
+        20.15901270299297,
+        30.030903960004117
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 268,
+      "url": "public/assets/urban-fill/detail/1_2.glb",
+      "minPpu": 300,
+      "bytes": 164956,
+      "revision": "e7b957a25dca",
+      "triangles": 19362
+    },
+    {
+      "id": "infill-2_1",
+      "bounds": [
+        19.92166334803707,
+        9.92295724000318,
+        30.09569934040976,
+        19.99106448000307
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 322,
+      "url": "public/assets/urban-fill/detail/2_1.glb",
+      "minPpu": 300,
+      "bytes": 95464,
+      "revision": "945eada2a7a2",
+      "triangles": 9360
+    },
+    {
+      "id": "infill-2_2",
+      "bounds": [
+        19.986724529326104,
+        19.950774159998197,
+        29.90854171652929,
+        30.0641886399976
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 274,
+      "url": "public/assets/urban-fill/detail/2_2.glb",
+      "minPpu": 300,
+      "bytes": 79428,
+      "revision": "7a57fba85ec7",
+      "triangles": 7713
+    },
+    {
+      "id": "infill-3_2",
+      "bounds": [
+        29.896515796530526,
+        20.028030239999307,
+        39.963567982924175,
+        29.937283840001612
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 234,
+      "url": "public/assets/urban-fill/detail/3_2.glb",
+      "minPpu": 300,
+      "bytes": 67320,
+      "revision": "8e37457ee1d7",
+      "triangles": 6570
+    },
+    {
+      "id": "infill-3_1",
+      "bounds": [
+        29.96806601952637,
+        9.828223920003484,
+        40.23849843405537,
+        20.077448800000116
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 271,
+      "url": "public/assets/urban-fill/detail/3_1.glb",
+      "minPpu": 300,
+      "bytes": 76792,
+      "revision": "dc16037344e6",
+      "triangles": 7602
+    },
+    {
+      "id": "infill-3_0",
+      "bounds": [
+        29.96311385612365,
+        -0.1321330800020736,
+        40.126989375298805,
+        10.121099320001843
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 276,
+      "url": "public/assets/urban-fill/detail/3_0.glb",
+      "minPpu": 300,
+      "bytes": 79388,
+      "revision": "272b403d479a",
+      "triangles": 7563
+    },
+    {
+      "id": "infill-2_0",
+      "bounds": [
+        19.874532413552235,
+        0.056331680001430184,
+        30.079732882534845,
+        10.199023320002848
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 240,
+      "url": "public/assets/urban-fill/detail/2_0.glb",
+      "minPpu": 300,
+      "bytes": 67864,
+      "revision": "57931e236aa2",
+      "triangles": 6666
+    },
+    {
+      "id": "infill-2_-1",
+      "bounds": [
+        20.04410131913109,
+        -10.060652559999426,
+        30.087673420410997,
+        0.01313200000353345
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 228,
+      "url": "public/assets/urban-fill/detail/2_-1.glb",
+      "minPpu": 300,
+      "bytes": 65344,
+      "revision": "6185cb286fe9",
+      "triangles": 6438
+    },
+    {
+      "id": "infill-3_-1",
+      "bounds": [
+        29.756403725012277,
+        -10.134791679995748,
+        40.09300728848494,
+        0.0559901999981538
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 155,
+      "url": "public/assets/urban-fill/detail/3_-1.glb",
+      "minPpu": 300,
+      "bytes": 51960,
+      "revision": "87abaf7b288f",
+      "triangles": 4440
+    },
+    {
+      "id": "infill-3_-2",
+      "bounds": [
+        29.94458593441263,
+        -20.055630079998252,
+        40.00864974633284,
+        -9.998877479996588
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 191,
+      "url": "public/assets/urban-fill/detail/3_-2.glb",
+      "minPpu": 300,
+      "bytes": 61300,
+      "revision": "228c0b922031",
+      "triangles": 5295
+    },
+    {
+      "id": "infill-2_-2",
+      "bounds": [
+        19.964525176136487,
+        -20.056520640000752,
+        30.083916606785518,
+        -10.002773680002571
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 263,
+      "url": "public/assets/urban-fill/detail/2_-2.glb",
+      "minPpu": 300,
+      "bytes": 74756,
+      "revision": "da6a946942ca",
+      "triangles": 7062
+    },
+    {
+      "id": "infill-1_-2",
+      "bounds": [
+        9.90668129953766,
+        -20.02301331999676,
+        20.167209387249095,
+        -9.946000479995625
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 254,
+      "url": "public/assets/urban-fill/detail/1_-2.glb",
+      "minPpu": 300,
+      "bytes": 159772,
+      "revision": "44ed10547991",
+      "triangles": 18534
+    },
+    {
+      "id": "infill-0_-2",
+      "bounds": [
+        -0.056729943846269414,
+        -20.03815283999967,
+        10.031582392327593,
+        -10.029490479998396
+      ],
+      "height": 0.07,
+      "buildings": 368,
+      "url": "public/assets/urban-fill/detail/0_-2.glb",
+      "minPpu": 300,
+      "bytes": 240040,
+      "revision": "240ac091c1fc",
+      "triangles": 29351
+    },
+    {
+      "id": "infill-4_-2",
+      "bounds": [
+        39.986890263773866,
+        -20.249660839995613,
+        50.13462856082888,
+        -9.96336640000082
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 287,
+      "url": "public/assets/urban-fill/detail/4_-2.glb",
+      "minPpu": 300,
+      "bytes": 84600,
+      "revision": "a40ba3fc0a04",
+      "triangles": 8205
+    },
+    {
+      "id": "infill-5_-2",
+      "bounds": [
+        49.98095369099564,
+        -20.143461559996393,
+        59.76948937688997,
+        -9.584433120002036
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 321,
+      "url": "public/assets/urban-fill/detail/5_-2.glb",
+      "minPpu": 300,
+      "bytes": 98620,
+      "revision": "7ebbd40328af",
+      "triangles": 9564
+    },
+    {
+      "id": "infill-5_-1",
+      "bounds": [
+        49.897108441615615,
+        -10.288747239999372,
+        58.456312253154884,
+        0.01992252000379051
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 291,
+      "url": "public/assets/urban-fill/detail/5_-1.glb",
+      "minPpu": 300,
+      "bytes": 85396,
+      "revision": "bb90d754bfb7",
+      "triangles": 8544
+    },
+    {
+      "id": "infill-4_-1",
+      "bounds": [
+        39.800671843302794,
+        -10.021133959996373,
+        50.05274710037814,
+        -0.025830000000923864
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 195,
+      "url": "public/assets/urban-fill/detail/4_-1.glb",
+      "minPpu": 300,
+      "bytes": 58144,
+      "revision": "5d76851a96a7",
+      "triangles": 5514
+    },
+    {
+      "id": "infill-4_0",
+      "bounds": [
+        39.90680182800718,
+        -0.040664232754478266,
+        50.09501125358287,
+        10.122323840000334
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 291,
+      "url": "public/assets/urban-fill/detail/4_0.glb",
+      "minPpu": 300,
+      "bytes": 76888,
+      "revision": "638b5c6a84ed",
+      "triangles": 7554
+    },
+    {
+      "id": "infill-5_0",
+      "bounds": [
+        49.94304402631107,
+        -0.008790520000257061,
+        59.76948937688997,
+        10.315464040003107
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 304,
+      "url": "public/assets/urban-fill/detail/5_0.glb",
+      "minPpu": 300,
+      "bytes": 80756,
+      "revision": "c8d4230514d2",
+      "triangles": 8028
+    },
+    {
+      "id": "infill-5_1",
+      "bounds": [
+        49.9804413982357,
+        9.914051640001937,
+        57.81014031085879,
+        20.039266040004765
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 194,
+      "url": "public/assets/urban-fill/detail/5_1.glb",
+      "minPpu": 300,
+      "bytes": 59548,
+      "revision": "59e456f89fb4",
+      "triangles": 5580
+    },
+    {
+      "id": "infill-4_1",
+      "bounds": [
+        39.981511189733816,
+        10.043071519998911,
+        49.97453707141813,
+        20.032364200003208
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 213,
+      "url": "public/assets/urban-fill/detail/4_1.glb",
+      "minPpu": 300,
+      "bytes": 57448,
+      "revision": "07d458efc8b7",
+      "triangles": 5508
+    },
+    {
+      "id": "infill-4_2",
+      "bounds": [
+        39.78291236074382,
+        19.980496599997508,
+        49.97769621014893,
+        30.139663600001622
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 179,
+      "url": "public/assets/urban-fill/detail/4_2.glb",
+      "minPpu": 300,
+      "bytes": 60144,
+      "revision": "e757e096103f",
+      "triangles": 5118
+    },
+    {
+      "id": "infill-5_2",
+      "bounds": [
+        50.03363446377788,
+        19.936413880004398,
+        59.76948937688997,
+        29.939621559997292
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 130,
+      "url": "public/assets/urban-fill/detail/5_2.glb",
+      "minPpu": 300,
+      "bytes": 49488,
+      "revision": "73491c3a12b4",
+      "triangles": 4374
+    },
+    {
+      "id": "infill--4_3",
+      "bounds": [
+        -40.11230364934801,
+        29.932281959997816,
+        -29.964906880819843,
+        40.35772639999723
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 902,
+      "url": "public/assets/urban-fill/detail/-4_3.glb",
+      "minPpu": 300,
+      "bytes": 535192,
+      "revision": "a8e18be62fb4",
+      "triangles": 64839
+    },
+    {
+      "id": "infill--3_3",
+      "bounds": [
+        -30.328280256225753,
+        29.870388040002215,
+        -19.940703562520163,
+        40.13530904000035
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1306,
+      "url": "public/assets/urban-fill/detail/-3_3.glb",
+      "minPpu": 300,
+      "bytes": 779160,
+      "revision": "87b0efbf5ec7",
+      "triangles": 100745
+    },
+    {
+      "id": "infill--4_4",
+      "bounds": [
+        -40.12297641530549,
+        39.809705559999195,
+        -29.970029808479918,
+        50.08631515999946
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 492,
+      "url": "public/assets/urban-fill/detail/-4_4.glb",
+      "minPpu": 300,
+      "bytes": 137228,
+      "revision": "4afd36f62ac2",
+      "triangles": 14009
+    },
+    {
+      "id": "infill--4_5",
+      "bounds": [
+        -40.01727334123843,
+        49.850212960000135,
+        -30.08273421701373,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 252,
+      "url": "public/assets/urban-fill/detail/-4_5.glb",
+      "minPpu": 300,
+      "bytes": 101024,
+      "revision": "ed6db8bd090b",
+      "triangles": 9792
+    },
+    {
+      "id": "infill--3_4",
+      "bounds": [
+        -29.985471013589443,
+        39.92670287999805,
+        -19.822193169296845,
+        49.91143144000438
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 263,
+      "url": "public/assets/urban-fill/detail/-3_4.glb",
+      "minPpu": 300,
+      "bytes": 76720,
+      "revision": "016000f16d34",
+      "triangles": 7371
+    },
+    {
+      "id": "infill--3_5",
+      "bounds": [
+        -30.04634847061567,
+        49.91822948000401,
+        -20.048285043406032,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 153,
+      "url": "public/assets/urban-fill/detail/-3_5.glb",
+      "minPpu": 300,
+      "bytes": 47732,
+      "revision": "caa7b67256ce",
+      "triangles": 4080
+    },
+    {
+      "id": "infill--2_4",
+      "bounds": [
+        -20.091133911499995,
+        39.976128959998235,
+        -9.784841003338327,
+        49.98902148000148
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 240,
+      "url": "public/assets/urban-fill/detail/-2_4.glb",
+      "minPpu": 300,
+      "bytes": 67604,
+      "revision": "033f185d5b0a",
+      "triangles": 6500
+    },
+    {
+      "id": "infill--2_5",
+      "bounds": [
+        -20.04553985531925,
+        49.89173532000287,
+        -10.039023597449251,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 121,
+      "url": "public/assets/urban-fill/detail/-2_5.glb",
+      "minPpu": 300,
+      "bytes": 38088,
+      "revision": "72751f943f8e",
+      "triangles": 3234
+    },
+    {
+      "id": "infill--2_3",
+      "bounds": [
+        -20.09693989617737,
+        29.92204052000469,
+        -9.927429156570069,
+        40.03512104000019
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1615,
+      "url": "public/assets/urban-fill/detail/-2_3.glb",
+      "minPpu": 300,
+      "bytes": 925468,
+      "revision": "dc3a6c443d3e",
+      "triangles": 124218
+    },
+    {
+      "id": "infill--1_3",
+      "bounds": [
+        -10.03841296256125,
+        29.953878039997075,
+        0.22271280004487062,
+        40.08632823999746
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 1503,
+      "url": "public/assets/urban-fill/detail/-1_3.glb",
+      "minPpu": 300,
+      "bytes": 863860,
+      "revision": "eb1c1de12ae1",
+      "triangles": 116358
+    },
+    {
+      "id": "infill-0_3",
+      "bounds": [
+        -0.1526994553652521,
+        29.911576440001053,
+        9.876528448466443,
+        40.011743840003845
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 724,
+      "url": "public/assets/urban-fill/detail/0_3.glb",
+      "minPpu": 300,
+      "bytes": 408560,
+      "revision": "02874909dec2",
+      "triangles": 50457
+    },
+    {
+      "id": "infill--1_4",
+      "bounds": [
+        -10.016384373616855,
+        39.974013879997244,
+        0.32764743497202,
+        49.90575412000131
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 280,
+      "url": "public/assets/urban-fill/detail/-1_4.glb",
+      "minPpu": 300,
+      "bytes": 79456,
+      "revision": "5397976c8e03",
+      "triangles": 7751
+    },
+    {
+      "id": "infill-0_4",
+      "bounds": [
+        -0.06390204257037604,
+        39.84632984000006,
+        9.968143471465261,
+        50.08987740000154
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 510,
+      "url": "public/assets/urban-fill/detail/0_4.glb",
+      "minPpu": 300,
+      "bytes": 137472,
+      "revision": "dcef1fc790a1",
+      "triangles": 14088
+    },
+    {
+      "id": "infill-0_5",
+      "bounds": [
+        -0.14535659238378734,
+        49.75291928000216,
+        9.943126508059565,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 290,
+      "url": "public/assets/urban-fill/detail/0_5.glb",
+      "minPpu": 300,
+      "bytes": 88440,
+      "revision": "87cb8095a970",
+      "triangles": 8535
+    },
+    {
+      "id": "infill--1_5",
+      "bounds": [
+        -9.938772019551536,
+        50.00594964000084,
+        0.2233104749395573,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 125,
+      "url": "public/assets/urban-fill/detail/-1_5.glb",
+      "minPpu": 300,
+      "bytes": 40864,
+      "revision": "9864e53cac1c",
+      "triangles": 3492
+    },
+    {
+      "id": "infill-4_5",
+      "bounds": [
+        39.93899089014912,
+        49.92579923999755,
+        50.12233353443256,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 148,
+      "url": "public/assets/urban-fill/detail/4_5.glb",
+      "minPpu": 300,
+      "bytes": 56916,
+      "revision": "b6e9c4fb1be1",
+      "triangles": 4854
+    },
+    {
+      "id": "infill-3_5",
+      "bounds": [
+        29.63570577062011,
+        49.938489720003474,
+        40.056890648472304,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 155,
+      "url": "public/assets/urban-fill/detail/3_5.glb",
+      "minPpu": 300,
+      "bytes": 55856,
+      "revision": "ab001aa976da",
+      "triangles": 4758
+    },
+    {
+      "id": "infill-2_5",
+      "bounds": [
+        19.882899862065717,
+        49.921457760002184,
+        30.40734410644828,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 224,
+      "url": "public/assets/urban-fill/detail/2_5.glb",
+      "minPpu": 300,
+      "bytes": 81724,
+      "revision": "5bd14966a1b2",
+      "triangles": 6966
+    },
+    {
+      "id": "infill-1_5",
+      "bounds": [
+        9.801832046745258,
+        50.04656472773646,
+        20.11282097191754,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 167,
+      "url": "public/assets/urban-fill/detail/1_5.glb",
+      "minPpu": 300,
+      "bytes": 55256,
+      "revision": "9a172ed29a52",
+      "triangles": 4677
+    },
+    {
+      "id": "infill-2_4",
+      "bounds": [
+        19.881021455259045,
+        39.89108048000098,
+        30.043957771036922,
+        50.06360588000301
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 249,
+      "url": "public/assets/urban-fill/detail/2_4.glb",
+      "minPpu": 300,
+      "bytes": 86796,
+      "revision": "f8a5e5a15b47",
+      "triangles": 7392
+    },
+    {
+      "id": "infill-1_4",
+      "bounds": [
+        9.863307178678305,
+        39.93839148000018,
+        20.14475388766737,
+        50.14219780000391
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 385,
+      "url": "public/assets/urban-fill/detail/1_4.glb",
+      "minPpu": 300,
+      "bytes": 118176,
+      "revision": "939f08955b19",
+      "triangles": 11691
+    },
+    {
+      "id": "infill-2_3",
+      "bounds": [
+        20.057164784667318,
+        30.000187160000387,
+        30.1254123208382,
+        40.02176264000228
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 254,
+      "url": "public/assets/urban-fill/detail/2_3.glb",
+      "minPpu": 300,
+      "bytes": 78832,
+      "revision": "6c6e90a3789b",
+      "triangles": 7320
+    },
+    {
+      "id": "infill-1_3",
+      "bounds": [
+        9.93852883316488,
+        29.987051399997167,
+        20.027951137005502,
+        40.067626480000385
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 267,
+      "url": "public/assets/urban-fill/detail/1_3.glb",
+      "minPpu": 300,
+      "bytes": 144456,
+      "revision": "51da0bda42c3",
+      "triangles": 14991
+    },
+    {
+      "id": "infill-3_3",
+      "bounds": [
+        29.95269723654614,
+        29.94452715999854,
+        40.06414812933116,
+        40.03578896000008
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 184,
+      "url": "public/assets/urban-fill/detail/3_3.glb",
+      "minPpu": 300,
+      "bytes": 60604,
+      "revision": "28277f74d46c",
+      "triangles": 5202
+    },
+    {
+      "id": "infill-3_4",
+      "bounds": [
+        30.034237168482164,
+        40.017317359997065,
+        40.0931780527423,
+        50.02019108000189
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 272,
+      "url": "public/assets/urban-fill/detail/3_4.glb",
+      "minPpu": 300,
+      "bytes": 92548,
+      "revision": "e582e88faef3",
+      "triangles": 7962
+    },
+    {
+      "id": "infill-4_4",
+      "bounds": [
+        39.97732746547101,
+        40.075092439999906,
+        50.09005909018015,
+        50.06026628000353
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 594,
+      "url": "public/assets/urban-fill/detail/4_4.glb",
+      "minPpu": 300,
+      "bytes": 171468,
+      "revision": "c8c8652ca38d",
+      "triangles": 17625
+    },
+    {
+      "id": "infill-4_3",
+      "bounds": [
+        39.76540902457695,
+        30.010985200000018,
+        50.05582085697419,
+        40.06128123999742
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 205,
+      "url": "public/assets/urban-fill/detail/4_3.glb",
+      "minPpu": 300,
+      "bytes": 67572,
+      "revision": "e446aa843bff",
+      "triangles": 5868
+    },
+    {
+      "id": "infill-5_3",
+      "bounds": [
+        50.15496246721727,
+        29.887228824528837,
+        59.34633555210701,
+        40.05849824000445
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 54,
+      "url": "public/assets/urban-fill/detail/5_3.glb",
+      "minPpu": 300,
+      "bytes": 24304,
+      "revision": "2b46e43428bf",
+      "triangles": 1995
+    },
+    {
+      "id": "infill-5_4",
+      "bounds": [
+        49.95491214205793,
+        40.342371759999,
+        59.76948937688997,
+        50.16546367999896
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 221,
+      "url": "public/assets/urban-fill/detail/5_4.glb",
+      "minPpu": 300,
+      "bytes": 77664,
+      "revision": "43a53cfb83e9",
+      "triangles": 6597
+    },
+    {
+      "id": "infill-5_5",
+      "bounds": [
+        49.94995997865521,
+        49.81225283999947,
+        59.76948937688997,
+        55.66200000000475
+      ],
+      "height": 0.10200000000000001,
+      "buildings": 201,
+      "url": "public/assets/urban-fill/detail/5_5.glb",
+      "minPpu": 300,
+      "bytes": 65960,
+      "revision": "548abf6831a4",
+      "triangles": 5514
+    }
+  ],
+  "stats": {
+    "parapetTriangles": 896594,
+    "unspecified-flat": 28405,
+    "fasciaTriangles": 3452268,
+    "ridgeTriangles": 573732,
+    "inferred-gabled": 47733
+  },
+  "method": "Illustrative roof construction: 20 cm thick / 45 cm high flat parapets, 24 cm fascia and 20 cm ridge trim. Footprints retained; these details are estimates, not field measurements.",
+  "completed": 144,
+  "bytes": 39646884,
+  "triangles": 4922594,
+  "source": "Overture Maps 2026-09-23.1 / East Asian Buildings; derived from the attributed infill footprints",
+  "attribution": "public/assets/urban-fill/ATTRIBUTION.html"
+}

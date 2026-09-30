@@ -1,0 +1,3287 @@
+{
+  "repository": null,
+  "tag": "assets-2026-09-30",
+  "bundles": [
+    {
+      "name": "beijing-models.tar.gz",
+      "optional": false,
+      "bytes": 527169729,
+      "sha256": "cfa4f989153d31a44d1b8b3ed80eacab247adb36974f3c114b8bc504bbad907d",
+      "files": [
+        {
+          "path": "public/assets/axis-courts/axis-ne-detail.glb",
+          "bytes": 2367528,
+          "sha256": "c76586ce4291abe293964109dced499e1917c9222d94e0608c30007c6c8da3fd"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-ne-preview.glb",
+          "bytes": 475800,
+          "sha256": "05e3cb367781bd54043e95d7d82fd3c01e3d7ada32674410ba4219ce9ffd5df3"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-nw-detail.glb",
+          "bytes": 2386684,
+          "sha256": "15aa55b4902a5910b4674e8d76389eadc2a0be7b37e50bf61ee2cc30366c0560"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-nw-preview.glb",
+          "bytes": 474752,
+          "sha256": "9107e8306eb1d3d92cf30d858645c150d6ff6e5e9ebb3746b341780b821e6300"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-se-detail.glb",
+          "bytes": 1517440,
+          "sha256": "336d52fb6d299e39997ea0a5fd0b568db09ddce3b04d3d796b99e42d2ae8c3c0"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-se-preview.glb",
+          "bytes": 297008,
+          "sha256": "f55b5a13e13ea30ce1cf730f24f5591abb6b55b630c13c54093335a37dcee38c"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-sw-detail.glb",
+          "bytes": 1514752,
+          "sha256": "fb7a609e8d3bb4009014528bd7aa59b6e388235a8011b24ef388cf9165fc3a95"
+        },
+        {
+          "path": "public/assets/axis-courts/axis-sw-preview.glb",
+          "bytes": 296372,
+          "sha256": "3e7cc13ad2a5a90fadb5a6d5a4f59f95c2ad39b8d97f980429765bcdd7fc24c6"
+        },
+        {
+          "path": "public/assets/beihai-detail/detail.glb",
+          "bytes": 1095812,
+          "sha256": "71df6e49630bfb4f4b86d32b7356318c31ecaa2fdd0cb6076a812345dd398c35"
+        },
+        {
+          "path": "public/assets/beihai-detail/preview.glb",
+          "bytes": 151872,
+          "sha256": "eaefd8bfd32461251f280186c410e923dc1a0d1f6f19ec4ae0dae0f340919b4b"
+        },
+        {
+          "path": "public/assets/beihai-temples/qingxiao-plaque.png",
+          "bytes": 23357,
+          "sha256": "3abb0d52a4a27f8bf9f99896154f9f8936f662181f12eec95f61bf65fd68f6f1"
+        },
+        {
+          "path": "public/assets/beihai-temples/temples.glb",
+          "bytes": 5953160,
+          "sha256": "2e3d627bb61cda6346973df383ed7895b1b3370fd056d26f4845930ea39f986d"
+        },
+        {
+          "path": "public/assets/beihai-temples/yuexin-plaque.png",
+          "bytes": 22767,
+          "sha256": "0b93c32721fe1433b209e5c098034382ce7ea062227fcfbe82212c4c7d103b1e"
+        },
+        {
+          "path": "public/assets/beihai-terrain/terrain.glb",
+          "bytes": 4918040,
+          "sha256": "157cc0bc02cf6fd4a7d1dd9e3fe71818f162ebfd862069845010e4f9d8216598"
+        },
+        {
+          "path": "public/assets/beijing.glb",
+          "bytes": 41944528,
+          "sha256": "1e0135468eea8f50653301b526c7ed9ed226be3350d20201cd5cb6cfcb8b508f"
+        },
+        {
+          "path": "public/assets/cartographic/botanical-tree.glb",
+          "bytes": 1552928,
+          "sha256": "dc0ec2ec120708068d7b49317d72551d45a5c570f4a3dbc3e4725e648a5e6f5b"
+        },
+        {
+          "path": "public/assets/circular-mound/detail.glb",
+          "bytes": 4419112,
+          "sha256": "eb5c0101a676b73a42f714d9ba9765879422f4b27b1a55a2e9debb24cf8c3b9d"
+        },
+        {
+          "path": "public/assets/circular-mound/preview.glb",
+          "bytes": 2008292,
+          "sha256": "fc4d5579846c5efee8b1629b8e21d69a18d3095d3d2ff98abede6c3bf95c8d46"
+        },
+        {
+          "path": "public/assets/duanmen-detail/detail.glb",
+          "bytes": 7040812,
+          "sha256": "f6f929d27cf661c1f0711b3458e51d3741b8b92b8da4524a33a92b6f80b70db3"
+        },
+        {
+          "path": "public/assets/duanmen-detail/preview.glb",
+          "bytes": 4191952,
+          "sha256": "e6c51e005883a9f95884ce3a7ec60505a875097c79c1c3a8ad7498497b660ee2"
+        },
+        {
+          "path": "public/assets/echo-court/detail.glb",
+          "bytes": 3665656,
+          "sha256": "474f043fcf222e95b86c37acc151bc0bd61992b0d7cb44a7ffb71cd1df69ae27"
+        },
+        {
+          "path": "public/assets/echo-court/preview.glb",
+          "bytes": 1120080,
+          "sha256": "c6a66b0a11ae9a9b80396ddf7efec9a955430217089d41d4d7a3f24b93502fdd"
+        },
+        {
+          "path": "public/assets/imperial-vault/detail.glb",
+          "bytes": 1996200,
+          "sha256": "40ad7aa55f78654279c4cc35f9a028fe10454a195ec734e2ce8bbdb588470919"
+        },
+        {
+          "path": "public/assets/imperial-vault/preview.glb",
+          "bytes": 1134240,
+          "sha256": "376cbc5d55dff1e0a28dc861f6fea1862d3085d54a29a7ab6fca682c7afff888"
+        },
+        {
+          "path": "public/assets/palace/central-high-taihe-v2.glb",
+          "bytes": 26508696,
+          "sha256": "3a3a570d8f828dea4dce78aeed2e4c587b978542efea5c8ff7c2add9d2b6e67a"
+        },
+        {
+          "path": "public/assets/palace/central-high-taihe.glb",
+          "bytes": 26508696,
+          "sha256": "019286db82f7ca619f5ce102c1a07634c75425a7d8743356c0f089b134684756"
+        },
+        {
+          "path": "public/assets/palace/central-high.glb",
+          "bytes": 26504600,
+          "sha256": "753b651b3ba4b71f8964378e3a3803277cefe0e20a71e286089a9752a0f44ec9"
+        },
+        {
+          "path": "public/assets/palace/central-medium-taihe-v2.glb",
+          "bytes": 9811048,
+          "sha256": "84962b4cb3397115f0e4cd0bd01bc49a45dab0fc46c534540623872e22b15c8c"
+        },
+        {
+          "path": "public/assets/palace/central-medium-taihe.glb",
+          "bytes": 9811048,
+          "sha256": "84962b4cb3397115f0e4cd0bd01bc49a45dab0fc46c534540623872e22b15c8c"
+        },
+        {
+          "path": "public/assets/palace/central-medium.glb",
+          "bytes": 9807240,
+          "sha256": "3c3864bfb5d4556546602068f42f652e97249fe7b7f2db76088fc97cf56b2939"
+        },
+        {
+          "path": "public/assets/palace/courtyard-stone.png",
+          "bytes": 3279953,
+          "sha256": "eb74a66e4de7d0e06322adc92ab486046cbddb1e04711ecdf790f7b45221d720"
+        },
+        {
+          "path": "public/assets/palace/east-high.glb",
+          "bytes": 20622340,
+          "sha256": "c966dcbd0daa803cb0a593992925e44579636758ef160397cec28505dae1a729"
+        },
+        {
+          "path": "public/assets/palace/east-medium.glb",
+          "bytes": 5086816,
+          "sha256": "11cf11d8268ab29226693807d1fe995f8586eb03eb56ca6bdd56365525c6baa8"
+        },
+        {
+          "path": "public/assets/palace/foliage.png",
+          "bytes": 1537725,
+          "sha256": "9130d158902378aae04bff2e965576703147e6a13f2ad73d39f8659e162c06db"
+        },
+        {
+          "path": "public/assets/palace/glazed-ochre.png",
+          "bytes": 2391618,
+          "sha256": "a227755ccf3fbb2d2a6d7de4b979368210dcdadcb3e1b78921966a71dd88eb8f"
+        },
+        {
+          "path": "public/assets/palace/marble.png",
+          "bytes": 2550942,
+          "sha256": "437cab77b57c81220e3d88aeee46803f06c9db1299ac94739ec063eb00a9db42"
+        },
+        {
+          "path": "public/assets/palace/north-central-high.glb",
+          "bytes": 13516480,
+          "sha256": "6843272b2b9fe3cb66c30622af078e2732672054b4f23fed20ed4d0ec4b37dda"
+        },
+        {
+          "path": "public/assets/palace/north-central-medium.glb",
+          "bytes": 4483748,
+          "sha256": "8c3fb6d8e2b15d69f12984e3a28b39737cb7dd1874db95d572d5cb0517f4dbd0"
+        },
+        {
+          "path": "public/assets/palace/north-east-high.glb",
+          "bytes": 21968760,
+          "sha256": "cf61087012ee8e5a0d567964d32c7208c01a82b73bf6af185e5ee05e340dd461"
+        },
+        {
+          "path": "public/assets/palace/north-east-medium.glb",
+          "bytes": 4736040,
+          "sha256": "02b5cde3aa73303ebb444fc170252a301ce080a2ea27420ee524b6fc97996c3e"
+        },
+        {
+          "path": "public/assets/palace/north-west-high.glb",
+          "bytes": 17851952,
+          "sha256": "d78859170cffa982c5bcbc869bb5474af35d2068f48144304a0a45b7ef711021"
+        },
+        {
+          "path": "public/assets/palace/north-west-medium.glb",
+          "bytes": 3063208,
+          "sha256": "0454aec2ff88f9a22859d54d84b151c4917b5907268049236f2f854a82f94c6d"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-0.glb",
+          "bytes": 296884,
+          "sha256": "ee3e5717fe5a5ce40d93825b9df77d4171cdad39ab7a612293b9e50e663b959c"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-1.glb",
+          "bytes": 4091584,
+          "sha256": "b3f16e57eb799ae02556ab87d052396c1583ec93fba3a4cee2efeb1d84bca036"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-10.glb",
+          "bytes": 1567748,
+          "sha256": "99bef2d7573fd8c3abbb9b7a21a4d2b142e1c6659d8459cf3612c5a106465576"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-2.glb",
+          "bytes": 3146608,
+          "sha256": "b162e17830757ff29e1f14be3a863143a7a2f929e722b43e8d442531b273aa4f"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-3.glb",
+          "bytes": 3505748,
+          "sha256": "19247116da5db4251be2b2803be92ae97dbaa78b378d93507d36be6b65ab153d"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-4.glb",
+          "bytes": 1539596,
+          "sha256": "40e6ef827c9d117d9727f9ee9c7e7882f4a837f739da32a1224a20b03c6a3e36"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-5.glb",
+          "bytes": 4389620,
+          "sha256": "d7d21edd7edfc699ea65e506c4e48381819cdc3f559d11d9dcfe95a25f7785a7"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-6.glb",
+          "bytes": 2100284,
+          "sha256": "27991f46f2104a4418dd74e412af99f6a37931396a9e08d32cc3fadf5611c137"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-7.glb",
+          "bytes": 3638492,
+          "sha256": "042c630e7a71af00d7ac3221ba8609c2a8c0dea4c5aa75420c99fec2308c7a00"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-8.glb",
+          "bytes": 2563468,
+          "sha256": "2a7bbc0007b00702101a129dbaf347726153871602a68056cab3c08157a11ce2"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-0-9.glb",
+          "bytes": 4210220,
+          "sha256": "a5d8187fcc5a7a08f9975ff053a8a62859b63c346147b7f8fd4e399dab0caefd"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-0.glb",
+          "bytes": 4698456,
+          "sha256": "515d27a735c7ca9fafd96eac3e239a0b83194eb18568245a34b264ce2a5626b9"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-1.glb",
+          "bytes": 5148504,
+          "sha256": "27bdca09e55f2e20c831f98a552365cf55eec6582bd2f61a90693b564f639fff"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-10.glb",
+          "bytes": 1697600,
+          "sha256": "ca0db0b16a4e0552a17d4323d5dbf3e7fb2873855a7680ebc1bf2d8fedccadd1"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-2.glb",
+          "bytes": 1881736,
+          "sha256": "fdbd028a7fc595d517cae6f9e79a5d210be2193e1e4158bbcb757ba3d742bb3b"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-3.glb",
+          "bytes": 3563444,
+          "sha256": "60d7897c037a277eece9b50422e0e2f7760e337d334b40762ba2e37c9a70dd2c"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-4.glb",
+          "bytes": 943500,
+          "sha256": "20d97afb9bc65eb7aca616413c3b43de26354ff7cf0671de53a2983cd835f3aa"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-5.glb",
+          "bytes": 2055028,
+          "sha256": "8436673b850d5793aa262f8a6b54fc940aab198f0528f4131a9d8cc816620f87"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-6.glb",
+          "bytes": 4216292,
+          "sha256": "4650e26318ac92f07053da144928a72b185a8e42223771f17431b664f4ebcca7"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-7.glb",
+          "bytes": 6201148,
+          "sha256": "8804207eb8d537e89497859d5d083d61c50c35640e1b2993b5f56f089ffa1951"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-8.glb",
+          "bytes": 4578312,
+          "sha256": "643b6c7f957e7607eafcc0aa9b2c25c2890cc645cb91fd2601efed9a8e502383"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-1-9.glb",
+          "bytes": 4905676,
+          "sha256": "2e4300c5a58d3afcadb6dc6d4c7d6a2570d0b036ab716dc86a5b341c7b8b0c7f"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-0.glb",
+          "bytes": 397140,
+          "sha256": "85c31ce25a164ea1e321ac83879863f1896274233f25e98c2a6305e39b686c5e"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-1.glb",
+          "bytes": 3774160,
+          "sha256": "8f54a2552d27fd840079ee93febfb8566ff3b3378d14f655441cb7e739674ac3"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-10.glb",
+          "bytes": 7339996,
+          "sha256": "5e6ba5bed8e623bd8b2e00e090189eee943ec2acc55dfa357630b31cd9637790"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-2.glb",
+          "bytes": 2406688,
+          "sha256": "1004a1b84a01fcce7fcd6793285c0b9d0a53ad2784521e52150dbab44898a81a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-3.glb",
+          "bytes": 2106332,
+          "sha256": "9b74e73b6adc96664358aa3554b3b7bee375638ae8d6720d64374b8bd0d70a9b"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-4.glb",
+          "bytes": 2244356,
+          "sha256": "dc0b6f9feff4aadd070cabb3fb059ea0c59975440d5fd5d67641c61d65b89b5a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-5.glb",
+          "bytes": 4381872,
+          "sha256": "8f49a63c26e134634db352135838b08e19ff801315848b8d5a0e29afd85f6562"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-6.glb",
+          "bytes": 4762252,
+          "sha256": "2877bc4b354af19d735af580701504fc35e6aca1e0b630f59dd8922ba17ab2d1"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-7.glb",
+          "bytes": 11511508,
+          "sha256": "c8b9e6767f201b4c10acc1923265deca0fe5e3e033ad94daebc45ae0a8ccef3e"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-8.glb",
+          "bytes": 8499580,
+          "sha256": "4788bd462476f53b3ee0c5e83f6e57ce843cfd97bfbfd26d09cc2872fdc32a92"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-2-9.glb",
+          "bytes": 9266016,
+          "sha256": "b24380565a9f9b792c79a450a254b59819c8a1e532c77fee0a9ee45095134643"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-0.glb",
+          "bytes": 2562668,
+          "sha256": "6bee2f975b8ea06fb0577c0d0b25775d11156030ba2a86a8fdd1a73c3ebcd5b8"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-1.glb",
+          "bytes": 5768904,
+          "sha256": "5740c54938b3f42c4d74269d758647da9e40f60baa9c81240fab0fb14fe6f079"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-10.glb",
+          "bytes": 4624440,
+          "sha256": "8659535953a9660f98eb9031cb5ce7f227c930e70960cfb9bd0d719909a649aa"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-2.glb",
+          "bytes": 3233308,
+          "sha256": "4c039139b833cceeeab4d7f24c27fbc3a4538367ea521617804d23a2a6ace3c3"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-3.glb",
+          "bytes": 14437372,
+          "sha256": "a2a289be3b0993a7c2765d2611ad03aa3f328e98b0d7ad660846062fe6d88e4a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-4.glb",
+          "bytes": 834052,
+          "sha256": "444cb54c9be2dc4e59bfe6de0340bdf0c03f7d2f4d0fa3706f4bfa4d09bbd49b"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-5-taihe.glb",
+          "bytes": 2724956,
+          "sha256": "2845f63659b4a4212d8837c311752aaa9cbb65d85488d8a4a9ede1043b6e8359"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-5.glb",
+          "bytes": 3302428,
+          "sha256": "4aeec510eccde827ad779a717a93d4a5869d69668993c6a6762e756256af9d9a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-6.glb",
+          "bytes": 2348364,
+          "sha256": "abcf835bb150249dbbe7d3bfd279c1ac2ebbe1ed4534b8b8cc1bdc045086ab65"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-7.glb",
+          "bytes": 4131620,
+          "sha256": "d7cf7f61002350833830cef1fdfba59b716adce97ee44aae1b9fe53e64188aae"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-8.glb",
+          "bytes": 11498928,
+          "sha256": "ea36a1812367595dc8ba656276b833d239e80cc5cdfdb032943c311249d50438"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-3-9.glb",
+          "bytes": 5243352,
+          "sha256": "d313b3636a44c499b8d246056a56140740a17d189a3eda1146cb3c53c2d0c2bd"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-0.glb",
+          "bytes": 2584220,
+          "sha256": "4cbe886b780dd6a672372db4103a6f15bd89867d4dc994e889b7441a260134e8"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-1.glb",
+          "bytes": 2401016,
+          "sha256": "ec9410a829a6864b5cb9ffdf3c72e3845797ce8b5e121c34ff372efd244731ad"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-10.glb",
+          "bytes": 7554604,
+          "sha256": "d8566b5e36eb57a7d493429389bb16d889bb6d1b2854abe6f464db19c7c57bef"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-2.glb",
+          "bytes": 4543516,
+          "sha256": "1e2da80ee1fdcc26a8680a2226b5c327b7bd2f522ccd46e5cc808121315fac5f"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-3.glb",
+          "bytes": 2233408,
+          "sha256": "856d73266e5706285d485876ad50d12871bf9bd8613af329cdc5201c076149bd"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-4.glb",
+          "bytes": 1947260,
+          "sha256": "2a41d52d5bf645942753f688d65b96c7cb4ac42170fc463dff606ff83315f7d6"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-5.glb",
+          "bytes": 1882380,
+          "sha256": "2376d1d663a996aba1645bf118dab52f2def00e078bca366cd2098549c91e713"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-6.glb",
+          "bytes": 3859800,
+          "sha256": "fb60f5fa1edbd24141a475185b7411126213409de93f189b713b2df435f9a8c2"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-7.glb",
+          "bytes": 10514472,
+          "sha256": "96e0f2acf1a4f660832a8d40562a95cac31046b466565f73aa5b08ba8c8a2c51"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-8.glb",
+          "bytes": 12070392,
+          "sha256": "93c8942adcab9ce67e3f279744220d1b9a65c6dbb50326a02383cfe475e2636d"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-4-9.glb",
+          "bytes": 10091928,
+          "sha256": "18dc5b4f91faedc3498a1725f9824e4cadf0a840988a68afd17cbfadfc7541b4"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-1.glb",
+          "bytes": 3462784,
+          "sha256": "454b58fef4bbc4a02def98eb8d9688e48326d69d44f1c847d88ea1ee84340277"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-10.glb",
+          "bytes": 3792792,
+          "sha256": "59f0fd68acb6e1e0e42cb298436d905ebbd7ea18d29c2ae914872ab080357c1b"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-2.glb",
+          "bytes": 1164208,
+          "sha256": "23f9466217d6cd90a791681089d7d6145ab58b4379650abe26f1f28e21f1540c"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-3.glb",
+          "bytes": 1029844,
+          "sha256": "009cb12e162b6f3080b86ebb83b10d440ca3620ec9f791c5f875e03a22b94f17"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-4.glb",
+          "bytes": 1222184,
+          "sha256": "fc5e66fb83353fbb474b7de0279c8e52a70bac5a1cead006cd10258e0eb9340a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-5.glb",
+          "bytes": 3278084,
+          "sha256": "9bb04ae73763df138eca930c17a8330ef80dc90152781100c35a8b7f9f40f7c5"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-6.glb",
+          "bytes": 3055652,
+          "sha256": "6f85a5c0290bbb15db086c3ea11812510b1a2bea29e9e373907803d51490563c"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-7.glb",
+          "bytes": 11417428,
+          "sha256": "5b86a514cc0ab6c7622ded10d0297f36e17668b659fc7579794e9823435c02f8"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-8.glb",
+          "bytes": 11856600,
+          "sha256": "b3bfefdba98def71414669696337a871ff7f6f7ad98d5bd7bc5c838ebf5760a7"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-5-9.glb",
+          "bytes": 11239036,
+          "sha256": "34609baf4bcc9d66dc62b9e782076d908d791bdbfd098f96a3d71d5cda9202eb"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-1.glb",
+          "bytes": 1109296,
+          "sha256": "f6746447688bea2df83b7924e63de27ef597167b2a41eaea8d15740c4136bce5"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-10.glb",
+          "bytes": 5372716,
+          "sha256": "6e0f2c6b2e5486a4d059c1d93b065e3f4223a7e74833d0685421162317b04e6f"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-2.glb",
+          "bytes": 310468,
+          "sha256": "06b46239ee2e69f75eaf4baa9b2c7b5587d0a663e8c8945a375c3ee79b826694"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-3.glb",
+          "bytes": 3368972,
+          "sha256": "4f5ddb99f387cd4617706ee4ffcd6f32fe5b425dc0deb8ef698977d0bddd5af3"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-4.glb",
+          "bytes": 894520,
+          "sha256": "3968f0f63a43c60046d6c2b025fc3df058d3a9bc7c93e2eca299b863eb7bd503"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-5.glb",
+          "bytes": 7697452,
+          "sha256": "7bb868b0037e3bfc61d2b5d771e4316420043a3b60cabb58ec2756dfa19ead53"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-6.glb",
+          "bytes": 5036904,
+          "sha256": "d43a7e9cf11e95af98ddc7021832578ac7fed9c6fbec705df4ca5cad9dc983bc"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-7.glb",
+          "bytes": 4741560,
+          "sha256": "2c7df0de78bf74eee76963585c4c9aa26b991988644328968cb8e81052ad5f35"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-8.glb",
+          "bytes": 5563968,
+          "sha256": "d01e85af3e1fcf5d67f4345ec45e458b91dab67b75655be8bd1e5b8540d6c383"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-6-9.glb",
+          "bytes": 8632080,
+          "sha256": "ad576df571bcae3e798947e5075af762deb9625f6c977b713ea3d4dbfd499729"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-1.glb",
+          "bytes": 1903240,
+          "sha256": "a43d6023260f9344bae92ced4b6a8b0d1acb0bc1a100d6e89c5541d7190e86d7"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-10.glb",
+          "bytes": 2242364,
+          "sha256": "4aff1201092e5d6e8aeb05247c3f552a33878fccc5b745fa4684ed52a49e9f94"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-2.glb",
+          "bytes": 1774960,
+          "sha256": "d0c0628e60920ada9602deadf43023e4283ba8d9d97fc8c9dbcbca43ec6cdbc2"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-3.glb",
+          "bytes": 4005716,
+          "sha256": "6050fea203b4f7537fc347c6e86eb4670f81f85d5f8992c73d0b0ce71ec5560d"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-4.glb",
+          "bytes": 951496,
+          "sha256": "bb551609b4f04139005e00052babc85928a0762c3f654c4dbbbbcb0128ea4b1a"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-5.glb",
+          "bytes": 2024924,
+          "sha256": "01b2e38f28729c22dbb814999db9ced8c1200828dc6a934b2965bd2f3f2232f6"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-6.glb",
+          "bytes": 932200,
+          "sha256": "dfc40986b49c09d0203602dca6f9a40e508c40b3dd766ec860d3f4308f27ba23"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-7.glb",
+          "bytes": 3559316,
+          "sha256": "c42fa7794f225faf11cd794210843952d62551b6b297942f562d2bb229fc5e82"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-8.glb",
+          "bytes": 2076088,
+          "sha256": "a21e23bdeb51ea9ab57ccc2dc36b54f138a13abd7c314dd18b081ef734259d99"
+        },
+        {
+          "path": "public/assets/palace/roof-tiles-7-9.glb",
+          "bytes": 1983472,
+          "sha256": "cc29a869dbdbe4f006de7c0766c0b9cb32a2ce307d3b3416cbfe5a4009162041"
+        },
+        {
+          "path": "public/assets/palace/south-high.glb",
+          "bytes": 28285580,
+          "sha256": "b1790e18a8318a05d4b81fdbb7dfb46075681b3e6427cba435b1203e6b50e142"
+        },
+        {
+          "path": "public/assets/palace/south-medium.glb",
+          "bytes": 7997380,
+          "sha256": "2eda4e2944e11735b2079ed04cb366323f90b2dd1bfe32c7d4abb79feb593ab2"
+        },
+        {
+          "path": "public/assets/palace/taihe-roof/detail.glb",
+          "bytes": 42149688,
+          "sha256": "4af226f0979aa4c672434e84025f1fcac89289f28227a169119769b108e6987e"
+        },
+        {
+          "path": "public/assets/palace/taihe-roof/preview.glb",
+          "bytes": 12111232,
+          "sha256": "40097611e5e07127b98437149a19ef54189a2e783a2bc25ff7ce623fea15447d"
+        },
+        {
+          "path": "public/assets/palace/west-high.glb",
+          "bytes": 14418592,
+          "sha256": "1903c44926f8ec131385b90e7887f192c737cc54ffbfe38ff73cb27139c21515"
+        },
+        {
+          "path": "public/assets/palace/west-medium.glb",
+          "bytes": 3352000,
+          "sha256": "3782ebe17f9ea48b20765c79ec75ae710e0cd5ad315146663df0ffc86007fa0d"
+        },
+        {
+          "path": "public/assets/qianmen-detail/qianmen-arrow-detail.glb",
+          "bytes": 10408776,
+          "sha256": "a4ee3d1595d60a22375718612acb38fd04c7e257c8135af2f6cb838a5895b27d"
+        },
+        {
+          "path": "public/assets/qianmen-detail/qianmen-arrow-preview.glb",
+          "bytes": 4913108,
+          "sha256": "126dbebe8a52989eb14137e4924e260fd0b68889ca88d08770bdc2438607d577"
+        },
+        {
+          "path": "public/assets/qianmen-detail/qianmen-detail.glb",
+          "bytes": 8142884,
+          "sha256": "18d162d93ee5faf67230a8f8169392f7a6fe39e26490196221cb0c63797ca668"
+        },
+        {
+          "path": "public/assets/qianmen-detail/qianmen-preview.glb",
+          "bytes": 4285960,
+          "sha256": "0c94db279eb9573f09f35f8ed915cd8643ded71db8fab5372e8de0afa10fe30e"
+        },
+        {
+          "path": "public/assets/route-landmarks/beihai/detail.glb",
+          "bytes": 1750640,
+          "sha256": "1b1db98c54d56e0054f9a67229f2468bb859cf91242d0e9eefc6ea03fa1ce89d"
+        },
+        {
+          "path": "public/assets/route-landmarks/beihai/preview.glb",
+          "bytes": 123484,
+          "sha256": "d56a077510334c1a73e01ae98ba00ed5ff217f824fe9aa6910a084650a533a84"
+        },
+        {
+          "path": "public/assets/route-landmarks/bell/detail.glb",
+          "bytes": 2328996,
+          "sha256": "04350e41ffdb84db6e2fd73392661d845549ab1a01204a3bf2fa5b6381c0c519"
+        },
+        {
+          "path": "public/assets/route-landmarks/bell/preview.glb",
+          "bytes": 160132,
+          "sha256": "dbb9955d975b34b8d54228bed33cf84262e19f395f697abb82cdb249f204f11b"
+        },
+        {
+          "path": "public/assets/route-landmarks/cctv/detail.glb",
+          "bytes": 2698984,
+          "sha256": "e92ec2b7323931959c3c3c183540330c87421b94960c93fb4084786c5bfbf22c"
+        },
+        {
+          "path": "public/assets/route-landmarks/cctv/preview.glb",
+          "bytes": 136776,
+          "sha256": "43f94ed22bd833c5810349b60a74b9976d0a49cb45c2049f7a7d69d46b561331"
+        },
+        {
+          "path": "public/assets/route-landmarks/ditan/detail.glb",
+          "bytes": 2283756,
+          "sha256": "9ae8b63387e83bf8fea80bdbd3d77e20f540276fc4e8f9aa8afd36b2c88d0c36"
+        },
+        {
+          "path": "public/assets/route-landmarks/ditan/preview.glb",
+          "bytes": 136288,
+          "sha256": "86ad264f7e08fc660c0f1c843bcb913573e61220ec9b4f7eeebd89786c77d45f"
+        },
+        {
+          "path": "public/assets/route-landmarks/drum/detail.glb",
+          "bytes": 2467184,
+          "sha256": "07075e6f049d09382a89c3078ef75a20d99881c21faf6e9946bf4bb7468b61b3"
+        },
+        {
+          "path": "public/assets/route-landmarks/drum/preview.glb",
+          "bytes": 174336,
+          "sha256": "89062a6996593d71f15dc45b77eae3e9250d4334fff330f82c1db1502afefae2"
+        },
+        {
+          "path": "public/assets/route-landmarks/gongwang/detail.glb",
+          "bytes": 2277260,
+          "sha256": "75d42762776c7a044f037b25b0bb7c06eda8ac073fe8ddd5def90dc130b79daf"
+        },
+        {
+          "path": "public/assets/route-landmarks/gongwang/preview.glb",
+          "bytes": 163296,
+          "sha256": "9b35b4a93163b477fdb0b67d12d08edc33267f25aade2ac86e8d54b8c4241e42"
+        },
+        {
+          "path": "public/assets/route-landmarks/guomao/detail.glb",
+          "bytes": 1665144,
+          "sha256": "eef7a2988187e8641551a36927cfb7adb19e6809bbad42b40bb221f79b429f6f"
+        },
+        {
+          "path": "public/assets/route-landmarks/guomao/preview.glb",
+          "bytes": 97092,
+          "sha256": "46f79edc43d155cea4291ef72e4a8e3dd5ac2ce48623481f5b9870341eac4229"
+        },
+        {
+          "path": "public/assets/route-landmarks/guozijian/detail.glb",
+          "bytes": 2515896,
+          "sha256": "5c3dadc016a85dae441381645937ce254fa4b0351f2d3b9487d53729dea60ab8"
+        },
+        {
+          "path": "public/assets/route-landmarks/guozijian/preview.glb",
+          "bytes": 181076,
+          "sha256": "a1545235d65db5a8e6a4cb682fd620467c354f5066c76779ac780935821cee78"
+        },
+        {
+          "path": "public/assets/route-landmarks/jingshan/detail.glb",
+          "bytes": 2574740,
+          "sha256": "68ff2ecc1f5acfa182aac16fbb01f2eb8bec95db8ca015689871d09d5b49d6ec"
+        },
+        {
+          "path": "public/assets/route-landmarks/jingshan/preview.glb",
+          "bytes": 176128,
+          "sha256": "07ec7baf7822b10d05723118d386f04eefc22ad1f958430177848057938ee26a"
+        },
+        {
+          "path": "public/assets/route-landmarks/national/detail.glb",
+          "bytes": 2030912,
+          "sha256": "a0c37a347e363d5399bcbdc7127e0250743ba439c00812034404346bf0dbc95b"
+        },
+        {
+          "path": "public/assets/route-landmarks/national/preview.glb",
+          "bytes": 145520,
+          "sha256": "4375ecb8135fc87c4af1a909704f28d6ccd5c563e8d604e94343bafe79f42a52"
+        },
+        {
+          "path": "public/assets/route-landmarks/shichahai/detail.glb",
+          "bytes": 1125612,
+          "sha256": "86513e051beed0e6aade0af048daa3f59d710b4c40ec232c3e0301ce9de337b5"
+        },
+        {
+          "path": "public/assets/route-landmarks/shichahai/preview.glb",
+          "bytes": 119744,
+          "sha256": "bc71aea8da01b5daf7b92934906d319739de7c398d566c4b940f0f0e3223fea6"
+        },
+        {
+          "path": "public/assets/route-landmarks/wangfujing/detail.glb",
+          "bytes": 157192,
+          "sha256": "da0c1b57bfcfaf9fe03ad4da3e00c6f507681671dc9967b148ad5bf90018447a"
+        },
+        {
+          "path": "public/assets/route-landmarks/wangfujing/preview.glb",
+          "bytes": 157192,
+          "sha256": "ab7b02fe0fff97c9b64ea9b6faca97e7605f99d7dda7f9a2e9d1a97f7ebe7b63"
+        },
+        {
+          "path": "public/assets/route-landmarks/wudaoying/detail.glb",
+          "bytes": 2260608,
+          "sha256": "00d056900c26c26ac8df238f02dfe052a3f135a88f314f390e196b3deae973fd"
+        },
+        {
+          "path": "public/assets/route-landmarks/wudaoying/preview.glb",
+          "bytes": 144316,
+          "sha256": "9fbc6558c79b04ec36c2a09d175bec7986d273d92c98ac30266e2d5322de48be"
+        },
+        {
+          "path": "public/assets/route-landmarks/yandai/detail.glb",
+          "bytes": 2261468,
+          "sha256": "6be7afec0f5e45cf1bf23bcacff15051ad300d770a9f8c55b6f23e223569ed89"
+        },
+        {
+          "path": "public/assets/route-landmarks/yandai/preview.glb",
+          "bytes": 138888,
+          "sha256": "69b95fb9a9169dfe9eb06cf4f14cb6cd8d0b2a9c7a204fba1d065bf19eb380f5"
+        },
+        {
+          "path": "public/assets/route-landmarks/yonghe/detail.glb",
+          "bytes": 2680352,
+          "sha256": "f07db4abfb8fff5aced53bb7c6a1577971d5d8c056aeba06a2fd9d5a0ef12a63"
+        },
+        {
+          "path": "public/assets/route-landmarks/yonghe/preview.glb",
+          "bytes": 184512,
+          "sha256": "51495725465beb74c48980b1509104434d5410a9cef09fdb03458823b197e1f3"
+        },
+        {
+          "path": "public/assets/route-landmarks/zhongshan/detail.glb",
+          "bytes": 2234004,
+          "sha256": "a20b7677dfba45196e7e5fecbda7464e297d011d80679c85fb42ec4d430882f3"
+        },
+        {
+          "path": "public/assets/route-landmarks/zhongshan/preview.glb",
+          "bytes": 148416,
+          "sha256": "a2c9971cefd5b8780f489bbf8a153e5bac6595e4c9772249305ae6387008f6c2"
+        },
+        {
+          "path": "public/assets/tiananmen-detail/detail.glb",
+          "bytes": 8444064,
+          "sha256": "88236ad3cb6eb008eb470ff22e6acd114a3a78d7851126590e9a999b0a564c0f"
+        },
+        {
+          "path": "public/assets/tiananmen-detail/preview.glb",
+          "bytes": 4774480,
+          "sha256": "9709189a152975e01a474f3508775fdf2c25b13fb84752d640c3a7e7686b8777"
+        },
+        {
+          "path": "public/assets/tiantan-corridor/detail.glb",
+          "bytes": 6022868,
+          "sha256": "8cfa22bca17fdbd2932f1ed2fef2f9d03877f699e0f7faac4bbb135c34581226"
+        },
+        {
+          "path": "public/assets/tiantan-corridor/preview.glb",
+          "bytes": 4033688,
+          "sha256": "449f2c0999f68dc25d386b800e06662671fb8ab6578088fc28d50bd54c0cc3ea"
+        },
+        {
+          "path": "public/assets/tiantan-detail/detail.glb",
+          "bytes": 3853164,
+          "sha256": "275906880eb14760d932379352d4a8fd5b6add43547a3912ebcfc1dc098c9172"
+        },
+        {
+          "path": "public/assets/tiantan-detail/frieze.png",
+          "bytes": 3373682,
+          "sha256": "78fc4860afbd1622d4e9f98e061547caf76721dad1e2e575142d23644b4e9fb2"
+        },
+        {
+          "path": "public/assets/tiantan-detail/preview.glb",
+          "bytes": 1699952,
+          "sha256": "b888f1750dcef3b5c472905bbfe69feca51f8d53dad8b785f685d20bd9ce9c5e"
+        },
+        {
+          "path": "public/assets/tiantan-gates/chengzhen-detail.glb",
+          "bytes": 1907124,
+          "sha256": "502d339074f923b27148bd678ddac908d48651d1b3ef1adeb9d778abeb3934df"
+        },
+        {
+          "path": "public/assets/tiantan-gates/chengzhen-preview.glb",
+          "bytes": 1007084,
+          "sha256": "50e8b08f5eb99489ba04463581d9388cfd0ce86cdf7219079554c9bf63a5b44e"
+        },
+        {
+          "path": "public/assets/tiantan-gates/mound-inner-gate-detail.glb",
+          "bytes": 426184,
+          "sha256": "f7ffae26c2a49c478cd4c8ae5cb18bd156c2db11e0a97dfc152c63cb36d96435"
+        },
+        {
+          "path": "public/assets/tiantan-gates/mound-inner-gate-preview.glb",
+          "bytes": 271356,
+          "sha256": "b52aeed028129c2f70f665643acf874aa6ba42425f2ea552c5e1eb875a05b917"
+        },
+        {
+          "path": "public/assets/tiantan-gates/mound-outer-gate-detail.glb",
+          "bytes": 432160,
+          "sha256": "ba235163a84899c4668080684ba3edd2a58438f67a2e77618d831c02629c0f17"
+        },
+        {
+          "path": "public/assets/tiantan-gates/mound-outer-gate-preview.glb",
+          "bytes": 277096,
+          "sha256": "2a1e95212340c99b6b0fea1beb67ba2c78795606704c52ad1e14db746488c2f8"
+        },
+        {
+          "path": "public/assets/urban/city-shell.glb",
+          "bytes": 33309532,
+          "sha256": "54b74c69b635188a52e1c52d6f891d765c36c3b2394872d9a049ca235bea335f"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-1.glb",
+          "bytes": 2020108,
+          "sha256": "b1159ea414c2f978db4261e7ffc93f367e7c9634d6faec3dd31a4b9b9233e8ff"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-2.glb",
+          "bytes": 2147540,
+          "sha256": "e2a8ae0329473f69fc748056f3b517ae0ff8c4f987b01a9c5b85f7ae8702a6df"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-3.glb",
+          "bytes": 2033068,
+          "sha256": "c197cdf4b6e3a767abc5b8c03bb282d18562586c98a866aa9afa6bb6c15115c9"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-4.glb",
+          "bytes": 13183812,
+          "sha256": "cc5673cf835c890423479626f66a2e216d5072a514daa45e35f3efad4816b5ee"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-5.glb",
+          "bytes": 1036076,
+          "sha256": "d93d11722d454032a45b88f270d68ba0ded1a60bfe80956414152feda7af8e44"
+        },
+        {
+          "path": "public/assets/urban/detail--1_-6.glb",
+          "bytes": 511844,
+          "sha256": "0f321a25908575bab630c6af36dd329f452e99d1de440ddf136716118f1d6638"
+        },
+        {
+          "path": "public/assets/urban/detail--1_0.glb",
+          "bytes": 1451448,
+          "sha256": "4bbf8e2b1dad978fd0eb60e1fca42f9736470736b8fbe8d54473ab5c4997161a"
+        },
+        {
+          "path": "public/assets/urban/detail--1_1.glb",
+          "bytes": 969332,
+          "sha256": "80e5472be9c635fcdaf1f3ebdfab9b4508afb7e08f47e4237d937f8b954676f9"
+        },
+        {
+          "path": "public/assets/urban/detail--1_2.glb",
+          "bytes": 607748,
+          "sha256": "590dd2ec7a0bea260c609d0acc61bf82798127148d53d36dd1f7a87f86b19008"
+        },
+        {
+          "path": "public/assets/urban/detail--1_3.glb",
+          "bytes": 616168,
+          "sha256": "bbe7883614fb278317051ba00cc38da33121cf9809ae034c08ac6404b184c2de"
+        },
+        {
+          "path": "public/assets/urban/detail--1_4.glb",
+          "bytes": 2583864,
+          "sha256": "c420acc6eac89bfbb781b116c51b964b345c7f1e04f26e6eb69c59264056e661"
+        },
+        {
+          "path": "public/assets/urban/detail--1_5.glb",
+          "bytes": 1430064,
+          "sha256": "762e08bec625fc83a4eb3b20f189871684f05d96742e905f2ed5f64f8f700769"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-1.glb",
+          "bytes": 3160592,
+          "sha256": "f0b0458c36c14637e003dfe5817a08be6c8ca6754295ad20797ef25b88f00289"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-2.glb",
+          "bytes": 2012904,
+          "sha256": "5b1d4d2f600c45e42397c69fe69401a6bfbc0e576e56c0f1ae73b2fa0cf924c0"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-3.glb",
+          "bytes": 3318988,
+          "sha256": "f31147be11d5577a4f6ffe0d84f6cb2ea13ea688fab4d9896d450dd72bb0af3e"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-4.glb",
+          "bytes": 588952,
+          "sha256": "4e768bafc138836cfdc8d0759d7521e6a81b29516f21b6ec043a0728b46137d8"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-5.glb",
+          "bytes": 1513004,
+          "sha256": "4a9760455e802bdaa2be16dc261bb95b762e685fbfed0ccd475438f0c8749679"
+        },
+        {
+          "path": "public/assets/urban/detail--2_-6.glb",
+          "bytes": 500176,
+          "sha256": "0b8add7b0366c53581d8d6cccfb76e685181a89281d61206ab99a802adb1a396"
+        },
+        {
+          "path": "public/assets/urban/detail--2_0.glb",
+          "bytes": 1032836,
+          "sha256": "f9f01fd4b9dce658461397c3906e40a2f8f665189e98352dba96a95932f013a8"
+        },
+        {
+          "path": "public/assets/urban/detail--2_1.glb",
+          "bytes": 502772,
+          "sha256": "567a1e5585143aaa67b38185dfb0b8ae97da682fe7c327111208f3d8871229f5"
+        },
+        {
+          "path": "public/assets/urban/detail--2_2.glb",
+          "bytes": 300596,
+          "sha256": "5e5b97c7e39bf100b9939e14bce5c1efeb514cc41ad47f436fe8e720a9200e84"
+        },
+        {
+          "path": "public/assets/urban/detail--2_3.glb",
+          "bytes": 852688,
+          "sha256": "91b824eef9dba0a5a69b73732991b0639549db24e7246b865e86298c0d92ff58"
+        },
+        {
+          "path": "public/assets/urban/detail--2_4.glb",
+          "bytes": 1303052,
+          "sha256": "73c3b1ddb201b3184bc76aa6ca48f74fc6ab22b2f78bde6356a897e9a35142aa"
+        },
+        {
+          "path": "public/assets/urban/detail--2_5.glb",
+          "bytes": 1176044,
+          "sha256": "7255e0fce0eb9872507fef11624b30f7db6f0f37b34565f428cfff3d1b4ddcb6"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-1.glb",
+          "bytes": 833252,
+          "sha256": "5163ba3f16662ff6e8d24b36c8215a9bcc8a9705ef71aeb69320fb0f001ac081"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-2.glb",
+          "bytes": 1714536,
+          "sha256": "47c5658b138173f2c90a814f8ffe8293a4bfb881f381629125a8d8bda88a43f9"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-3.glb",
+          "bytes": 3630748,
+          "sha256": "e8a3b6bbd832ea783d94660c0671c28a595a4743ae5e12e14af279d7302e4598"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-4.glb",
+          "bytes": 2159784,
+          "sha256": "0047aa1cb202a1aeb627f884c23dfe08f031ebb1fefe4a3d8c6720ab28741f58"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-5.glb",
+          "bytes": 1488384,
+          "sha256": "5054037b5675c2d390ae1fb27c4263909d948577a6c60cec1c92c6e3a2cb787e"
+        },
+        {
+          "path": "public/assets/urban/detail--3_-6.glb",
+          "bytes": 1444316,
+          "sha256": "20fdcbf54b77f61840403bab912111669fbe9f4088519cd9ac881e710299d06f"
+        },
+        {
+          "path": "public/assets/urban/detail--3_0.glb",
+          "bytes": 944712,
+          "sha256": "e42b3835cee6aee5bea5e4bb79e5a512680abda4758ce13235105c2e703972d4"
+        },
+        {
+          "path": "public/assets/urban/detail--3_1.glb",
+          "bytes": 629780,
+          "sha256": "d9276f36cf313a0d2b7908a10af9d382bbeb1d01102a8dfc39c2612c8c92211a"
+        },
+        {
+          "path": "public/assets/urban/detail--3_2.glb",
+          "bytes": 815104,
+          "sha256": "f2cf3f00a20427897f561820e175d38d33cb47e94e82759691b3291c461a0eba"
+        },
+        {
+          "path": "public/assets/urban/detail--3_3.glb",
+          "bytes": 1240848,
+          "sha256": "bee685375dcd52e5736070f6315e6edb913da4ac551283e6e2ce7ed58634243c"
+        },
+        {
+          "path": "public/assets/urban/detail--3_4.glb",
+          "bytes": 1300464,
+          "sha256": "3ea4ab641ad11646e038ae5495399a4cadc9787a60efefa69fc5eb6f4d8ef367"
+        },
+        {
+          "path": "public/assets/urban/detail--3_5.glb",
+          "bytes": 1271948,
+          "sha256": "d0a447a3df4e41e023d07069688c014025ee0297693150c3372632b763191525"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-1.glb",
+          "bytes": 846212,
+          "sha256": "8b6e5731f9f7c88e74fc7b2f9f52a3e40fb3cce6a7e976ddb1795a172f8375e1"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-2.glb",
+          "bytes": 2802744,
+          "sha256": "0846dda74fd6330e9f1fe03e18292dd66c067335d6bddcfe4d5b5fbf4b94214c"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-3.glb",
+          "bytes": 1422284,
+          "sha256": "28cc227ad2c8732a7121f822e0064f4326697e262a3264fa06273aaf0aacf833"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-4.glb",
+          "bytes": 1715180,
+          "sha256": "1283351ea8b2f8b8b4dbb9b93530d335d38b3e63dbd9f956c2ddfb5672783ee8"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-5.glb",
+          "bytes": 1310828,
+          "sha256": "1ae6a524c3d937b3c8de232df4aed4e233da995f5286c81771a1b74e21401479"
+        },
+        {
+          "path": "public/assets/urban/detail--4_-6.glb",
+          "bytes": 274024,
+          "sha256": "186bf07db56a0ee484d292491eec662d9def254c7a1ebebdf0a677fb82c3eecd"
+        },
+        {
+          "path": "public/assets/urban/detail--4_0.glb",
+          "bytes": 2839468,
+          "sha256": "5f83f97326e27b9a5650e68239950ad47a47e78729a723fd1096a5362f5801dc"
+        },
+        {
+          "path": "public/assets/urban/detail--4_1.glb",
+          "bytes": 2562988,
+          "sha256": "bfba2c0c7dbf8b0dce4d97be90a11cdbabfc03371d784a5b6bd987f68c8e565e"
+        },
+        {
+          "path": "public/assets/urban/detail--4_2.glb",
+          "bytes": 345956,
+          "sha256": "439f3b5cd10d7cec1fa53988ec28b852ec80717146f570ff7185929d04eb95fb"
+        },
+        {
+          "path": "public/assets/urban/detail--4_3.glb",
+          "bytes": 430196,
+          "sha256": "978e365b30f184c725f5e0f876b2e7f684a7cc3d6a3482c500a7650600fb78d6"
+        },
+        {
+          "path": "public/assets/urban/detail--4_4.glb",
+          "bytes": 848804,
+          "sha256": "65d319fcad1d6259c3a9bb091c524f2d23c2dba1dfb2fd9c9da381b380b23951"
+        },
+        {
+          "path": "public/assets/urban/detail--4_5.glb",
+          "bytes": 437324,
+          "sha256": "03deca8d67fc6274615e99c8a3e61fc683053f5024cd67788644e3910408bb44"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-1.glb",
+          "bytes": 1984100,
+          "sha256": "085b86d22f483c8b26da3d9e6922f2ac71349dad71dcf99084fedff2ce54eee5"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-2.glb",
+          "bytes": 1430708,
+          "sha256": "e55b145d8a7e39aea102c14ba5a6163d1852f062d269198c519c33d2673f9482"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-3.glb",
+          "bytes": 1523376,
+          "sha256": "6af8a037d951e21bb06708815761436fb15cbdd47c0c1bf503d1435621ad8390"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-4.glb",
+          "bytes": 2878348,
+          "sha256": "fd2ff655dd274da31a3d1090143e6c066a80d9aff837d788cb76c73e9b132a65"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-5.glb",
+          "bytes": 3352828,
+          "sha256": "cc58d704661476059e86080977c55a2648bf04765eb0c12159f3a51589cec177"
+        },
+        {
+          "path": "public/assets/urban/detail--5_-6.glb",
+          "bytes": 1249916,
+          "sha256": "3dd439c13afaec32c7335bfdc4a873d17376fc259a72d23230d485f77251e46f"
+        },
+        {
+          "path": "public/assets/urban/detail--5_0.glb",
+          "bytes": 3320432,
+          "sha256": "bf8e19620e62fb37f3651bdb58417bfa2bc6cedcc13d18c22ac313b3fb92a336"
+        },
+        {
+          "path": "public/assets/urban/detail--5_1.glb",
+          "bytes": 1555772,
+          "sha256": "0de75b5bb46c12d5755faafcf4384cceef0e221e6b4fe9ee3a4c3b51b04deeaf"
+        },
+        {
+          "path": "public/assets/urban/detail--5_2.glb",
+          "bytes": 1268708,
+          "sha256": "ecde42c928cda14fb17effe579c32968c8a29223c36d23a293ecdb2b8f0ed7c6"
+        },
+        {
+          "path": "public/assets/urban/detail--5_3.glb",
+          "bytes": 2326100,
+          "sha256": "cd2d2f12afb33983092604d948c0b1a4e0ef0d1e3deec06d89a657aec4b2e94b"
+        },
+        {
+          "path": "public/assets/urban/detail--5_4.glb",
+          "bytes": 1619276,
+          "sha256": "38ce770b99a21fcbe3a171d0a6668869e7a7869406daac50e4acc180f42b5385"
+        },
+        {
+          "path": "public/assets/urban/detail--5_5.glb",
+          "bytes": 1437836,
+          "sha256": "a3fad315bace579573e93506f0af9bac77ab2f9d5851b35360ebbf3d96d8dc32"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-1.glb",
+          "bytes": 2862508,
+          "sha256": "a110ae59a2374d23d952f7e23396b59474bb72913372fa6bfefb09acd5d11b01"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-2.glb",
+          "bytes": 2809944,
+          "sha256": "4004f135b79ba66412d036212ac085ab33a1c10cca888122fa3e1fba5701eebc"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-3.glb",
+          "bytes": 2352744,
+          "sha256": "61f54f19d2291842ac8af3c33051e2af850c5fc1485fcf5fd116693ffabdf66c"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-4.glb",
+          "bytes": 3323308,
+          "sha256": "34dfd5e1b2e1c027a1617b28987f4ec7f10685e0b18550db07f5ab9d00916bdb"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-5.glb",
+          "bytes": 2123064,
+          "sha256": "7a935224098d48a07e0596832c09281d0233e1851506ca6fe9c47c32ff876fa3"
+        },
+        {
+          "path": "public/assets/urban/detail--6_-6.glb",
+          "bytes": 668008,
+          "sha256": "dc44caf370a5eb352346a55fea469c93fdf770940a506b564c54bc1707bf95b4"
+        },
+        {
+          "path": "public/assets/urban/detail--6_0.glb",
+          "bytes": 2339064,
+          "sha256": "9be195b5d39786510320432e9d27eb913cfbdaed9cb8fd0f36d63731bd904761"
+        },
+        {
+          "path": "public/assets/urban/detail--6_1.glb",
+          "bytes": 1010156,
+          "sha256": "d9b11a4dbef4b6b092892ceade5ca8aabd1ecd4e72d58d4d64d68f14af648f61"
+        },
+        {
+          "path": "public/assets/urban/detail--6_2.glb",
+          "bytes": 2822904,
+          "sha256": "6b9cbe95c9c76a5aa07e5fe6fd402f6a131529a0f211ef1ccc55b2922318d58a"
+        },
+        {
+          "path": "public/assets/urban/detail--6_3.glb",
+          "bytes": 1311476,
+          "sha256": "c102e2557cb547760b7bb9f33a064b084f013e2ed5e9c99bf5283f2c6e67ca37"
+        },
+        {
+          "path": "public/assets/urban/detail--6_4.glb",
+          "bytes": 1985540,
+          "sha256": "0790578cfd6c4f474f1124707a8b6c6109cc006e9f842520f1d9b4432ae4bd11"
+        },
+        {
+          "path": "public/assets/urban/detail--6_5.glb",
+          "bytes": 1185116,
+          "sha256": "da24d40808f0713d16deaab2bb71c34b8991fee69e52a4e7db563d69aa2e8a05"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-1.glb",
+          "bytes": 1306296,
+          "sha256": "9fb5cf4e61ca00d4dd8f96ff32c8b877ff27772a8110353a9c4d956f1c56f112"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-2.glb",
+          "bytes": 1150772,
+          "sha256": "41962f10e0146c49d2347f8bc971691d87a13046cf8f8d1785c1a37417ded7bb"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-3.glb",
+          "bytes": 947300,
+          "sha256": "a3cccd22c465b5761a267463f6a0e5fd3c6503ce726d6669c3749aa8eb35aea8"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-4.glb",
+          "bytes": 1442372,
+          "sha256": "fad5e2b88389c85ccc427e8f1cf73d8f06285b24e920434690e70ec117994b4b"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-5.glb",
+          "bytes": 1029592,
+          "sha256": "a017a4cc61726a7ec26adf909d0238f3f1078a7d891a193705d4dbbb6042d7ff"
+        },
+        {
+          "path": "public/assets/urban/detail-0_-6.glb",
+          "bytes": 1612796,
+          "sha256": "af9a886f71b77c834ff33402793c999d09dba2c1528af07133cdd11d6c9fb351"
+        },
+        {
+          "path": "public/assets/urban/detail-0_0.glb",
+          "bytes": 1018580,
+          "sha256": "eb7f65177cc4bec05797958dedfe9d736987db710afb318f624ccfc19dc176e0"
+        },
+        {
+          "path": "public/assets/urban/detail-0_1.glb",
+          "bytes": 1056164,
+          "sha256": "c2f8da46743b8aacdf223cb7358055e9081939072786089a973a37c80e2ed0be"
+        },
+        {
+          "path": "public/assets/urban/detail-0_2.glb",
+          "bytes": 586360,
+          "sha256": "fba9fc42f5a90c5c53ea7e20901188abfb8389e545a79941040d2420d7ff5a3d"
+        },
+        {
+          "path": "public/assets/urban/detail-0_3.glb",
+          "bytes": 546184,
+          "sha256": "02fc423a91ed06d64f6275268ae5ac46f349c816330f41088ed52fea0c3b56fe"
+        },
+        {
+          "path": "public/assets/urban/detail-0_4.glb",
+          "bytes": 1327676,
+          "sha256": "8690ea0c70459047deae0ab9dae05773d26f140dd06324525acb55ac284e586f"
+        },
+        {
+          "path": "public/assets/urban/detail-0_5.glb",
+          "bytes": 733456,
+          "sha256": "b42d45c0055ef51c67d65c0f8970ef6365d267925c61955c7c853a7af2ac2cea"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-1.glb",
+          "bytes": 1286204,
+          "sha256": "6253f9da9f1b85dc91945122ea5062ba5c65a99d3ab5419c751b7c188b342832"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-2.glb",
+          "bytes": 1461160,
+          "sha256": "b23d76be34ea9706edd361098f002c3bfb0493f69bc2fbc9cf8b99ecea54004c"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-3.glb",
+          "bytes": 1053568,
+          "sha256": "26c00fb69a09d87060a78d1d7da87d8fd568ac63989c9fc517db8d4a430c6e18"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-4.glb",
+          "bytes": 2040260,
+          "sha256": "357cd0e7ffd16dd67f688c26d07d3d0db5b8323cb1cdf84567f1942b7692aab3"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-5.glb",
+          "bytes": 445744,
+          "sha256": "ed606afe497555f347ea251d1c56867a3660882a214ca9c1d8865a659a2cf3ae"
+        },
+        {
+          "path": "public/assets/urban/detail-1_-6.glb",
+          "bytes": 732160,
+          "sha256": "4b92fa82966648fab837ed019c284235087c146f66b08508e703fca89db58755"
+        },
+        {
+          "path": "public/assets/urban/detail-1_0.glb",
+          "bytes": 2034496,
+          "sha256": "1f2f8a23879237ded219d30c9b32a747f1ca89d668451aa649f57e0ad54eb34e"
+        },
+        {
+          "path": "public/assets/urban/detail-1_1.glb",
+          "bytes": 1702216,
+          "sha256": "e72e8b71c9b45f72a23da55e2cfab40a777316d1a7b13028cdd3ccab6e3a4472"
+        },
+        {
+          "path": "public/assets/urban/detail-1_2.glb",
+          "bytes": 2205140,
+          "sha256": "87ef05ddc3c0d250a5e53130703b83e3b038bf49b89116aa4a8b1c418fc5ca2f"
+        },
+        {
+          "path": "public/assets/urban/detail-1_3.glb",
+          "bytes": 1087912,
+          "sha256": "17c0a066e778b6ac574b1322bb13a8895cce1922e670f25170e647121a2002cc"
+        },
+        {
+          "path": "public/assets/urban/detail-1_4.glb",
+          "bytes": 1189000,
+          "sha256": "ac73f2e8d2eb8ff0debbf3f1b8b3fa400bdd1ca9b32b8cc6f70dade96e68e3a3"
+        },
+        {
+          "path": "public/assets/urban/detail-1_5.glb",
+          "bytes": 634308,
+          "sha256": "98f9fa03726775a7fce1d580e13856d06668797ae81bd9dea6b2cf86c097ca39"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-1.glb",
+          "bytes": 2967624,
+          "sha256": "cb7045b95bac8ea585dc32094727a3ea2448995c659a5955ddee8066c55182d0"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-2.glb",
+          "bytes": 2403860,
+          "sha256": "df75fe0dac9062e48e5641de84e350f88b4352f47b91d3378caf24d26aff0a68"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-3.glb",
+          "bytes": 1166324,
+          "sha256": "2d92a243682457a6733cf56a81f8bb66c100a528c5a0a7d38d0b2626d991a4b9"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-4.glb",
+          "bytes": 2455700,
+          "sha256": "f6615ae9defbb94a3e4a0ec825d5d5a54cb8510601d64e332efd93325aebe047"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-5.glb",
+          "bytes": 2028020,
+          "sha256": "4278018a922489e5bcbaa1732bbbf3b18fb63b30ecf98e34e9b56c30615812d8"
+        },
+        {
+          "path": "public/assets/urban/detail-2_-6.glb",
+          "bytes": 222828,
+          "sha256": "e5a0ef84720d6c3b8778599f9e54f7bb09a3507334746a2a3b870c1828b54270"
+        },
+        {
+          "path": "public/assets/urban/detail-2_0.glb",
+          "bytes": 2688260,
+          "sha256": "1afa3ca209fa753125d5a5198207c2efc4060d4584b5c8d5b77d614ca7039859"
+        },
+        {
+          "path": "public/assets/urban/detail-2_1.glb",
+          "bytes": 3169224,
+          "sha256": "413ed5cbce3e0c88a62d9c9be1e4c6e14deb2a229aeff158ba5e2663be3c65bd"
+        },
+        {
+          "path": "public/assets/urban/detail-2_2.glb",
+          "bytes": 2943140,
+          "sha256": "2c53620220b120e6db465506aaa9ba5e9c8cab333e86f69da5c810accb2dd86f"
+        },
+        {
+          "path": "public/assets/urban/detail-2_3.glb",
+          "bytes": 2139620,
+          "sha256": "e384bcf1b05cbfea40879b0a97a8d6683d22f0415f01986e53edf940f4b1e228"
+        },
+        {
+          "path": "public/assets/urban/detail-2_4.glb",
+          "bytes": 927204,
+          "sha256": "ab624cbfd878c19c0caabe2487e216a5e8d005a7234a75fd002ddc85bed3a926"
+        },
+        {
+          "path": "public/assets/urban/detail-2_5.glb",
+          "bytes": 261060,
+          "sha256": "0bcfe44a8ac44718cb866fc49a608b0749d8ecd6be6424d48177078fbebd385e"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-1.glb",
+          "bytes": 1185116,
+          "sha256": "4b0c3f291121f507a1b97431c7f1fd2ef8fd27bed3ec1a38fa37815d578f4550"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-2.glb",
+          "bytes": 1576504,
+          "sha256": "9fb6663359d4eda64a18da1e8c6f96b370554761668af30885f1a75eab5796eb"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-3.glb",
+          "bytes": 1592708,
+          "sha256": "64197e0cff95a5e4f329457cfa75edc4df8998124a9fcc8821e4628ca75f21ef"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-4.glb",
+          "bytes": 1972580,
+          "sha256": "6b791b329bfd860eacbc02ba3ed7af76f71bfe095900731356a835374abe0b2a"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-5.glb",
+          "bytes": 2845220,
+          "sha256": "f070f873d048dcf67a049422fd0b96388fa99f5b12072841a9302a16c73de2d7"
+        },
+        {
+          "path": "public/assets/urban/detail-3_-6.glb",
+          "bytes": 591544,
+          "sha256": "51db15349738b05c4797e53242c45353fdba3977e46ad66c8ccf0c94fef745b0"
+        },
+        {
+          "path": "public/assets/urban/detail-3_0.glb",
+          "bytes": 1663988,
+          "sha256": "a5d13bb8aceb9634341b064314c03ced177690d6523e9d2df43d6d9b98ab52fd"
+        },
+        {
+          "path": "public/assets/urban/detail-3_1.glb",
+          "bytes": 2211616,
+          "sha256": "e17779b2500cc72c27aac05fac6076f6747cfd73ad91011100dc70b3affd01cf"
+        },
+        {
+          "path": "public/assets/urban/detail-3_2.glb",
+          "bytes": 2059700,
+          "sha256": "f119901eb9fa5259741ed72ccc7daba6a788a233c1d0a3606a248546b5a19ad6"
+        },
+        {
+          "path": "public/assets/urban/detail-3_3.glb",
+          "bytes": 2884824,
+          "sha256": "2c367d413255a1671ecc1f4cd8236f3e4220fbaeea1a2f9aad08842bb61838a9"
+        },
+        {
+          "path": "public/assets/urban/detail-3_4.glb",
+          "bytes": 1582336,
+          "sha256": "0aeb1b425b10ccd6ffc2385139fcecb85ce5c7558829cc811dc025bac32866bb"
+        },
+        {
+          "path": "public/assets/urban/detail-3_5.glb",
+          "bytes": 84796,
+          "sha256": "cd53f461b3cfbc9755a52dd07767b092570faa288ef75871831d55a6ef0c94ec"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-1.glb",
+          "bytes": 1231772,
+          "sha256": "162ebad48fb2e716b96dd7adce0ffbc1a32f0ee4ab6b17b42e50a2fca7633344"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-2.glb",
+          "bytes": 950536,
+          "sha256": "4956ea13cfca7785a3c12151be3cff32b49791a635c6d6ee0035fcaab97469e6"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-3.glb",
+          "bytes": 665416,
+          "sha256": "9d6cf07e1aa4a823cdfa0c2e4bf49476678eef65a30494deb65f9cc802813e43"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-4.glb",
+          "bytes": 1661392,
+          "sha256": "9f9e036b128e06cbd0caff3891ef879966a90406b052939f60af7a7a9ce91352"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-5.glb",
+          "bytes": 2309536,
+          "sha256": "d9832eebde58be0b8dccee7d9f8227f0f4777877b4956199e322ecdf2accf218"
+        },
+        {
+          "path": "public/assets/urban/detail-4_-6.glb",
+          "bytes": 811216,
+          "sha256": "71f7dd1bcd58b9e356ae2080afe5065d6bee8028b9057ebdaef8f8ede89eeab8"
+        },
+        {
+          "path": "public/assets/urban/detail-4_0.glb",
+          "bytes": 1652324,
+          "sha256": "a9c45181772a9197475b0579c8d959fa079bcbe94411efcb9c68c69f47cad939"
+        },
+        {
+          "path": "public/assets/urban/detail-4_1.glb",
+          "bytes": 2404576,
+          "sha256": "dde7a780b2df0ac32e71e46eeb873ddf66e7c4559e3db96c3d38623f917da918"
+        },
+        {
+          "path": "public/assets/urban/detail-4_2.glb",
+          "bytes": 2286496,
+          "sha256": "ccdb53c79179fdba7d719df60c330051f6ce2e37af7659b6df43003c679bc8e5"
+        },
+        {
+          "path": "public/assets/urban/detail-4_3.glb",
+          "bytes": 2244740,
+          "sha256": "49cff3fa4b66ff47ff1b90765ad6dc7574efc78351214cb37c27fbcef160918f"
+        },
+        {
+          "path": "public/assets/urban/detail-4_4.glb",
+          "bytes": 666708,
+          "sha256": "c2657a87bc20c61a94432315a17bcdafb7621260715a2cf5eb5d75cb667dd0c9"
+        },
+        {
+          "path": "public/assets/urban/detail-4_5.glb",
+          "bytes": 71188,
+          "sha256": "98ce6038a907dd0ad5674c8b3f07dad6b636b41a1c4468b6a21e58acc2d3d217"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-1.glb",
+          "bytes": 890920,
+          "sha256": "e2fafa43f11144b30a2cab750a2400d50102c2a976bdbc18f0c58536a0c30b9d"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-2.glb",
+          "bytes": 1080136,
+          "sha256": "500b314f6ea62bb5b496b2640a339abaa9ff7ebc7d302d9c48ac4ac38b691d5b"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-3.glb",
+          "bytes": 513784,
+          "sha256": "7d42e5ab787e6a5fb9100934036a561083f2f2065e03ab6cbbfcc0e5f636f4a6"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-4.glb",
+          "bytes": 699108,
+          "sha256": "e9889bc5f391925d050448baaba571d6292669b9066fb9f39045f1dcb8f62f0c"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-5.glb",
+          "bytes": 465180,
+          "sha256": "7d897c5bd9cf810143ccf82434b85763277387803322464aab6eb214aec86ef8"
+        },
+        {
+          "path": "public/assets/urban/detail-5_-6.glb",
+          "bytes": 446388,
+          "sha256": "ea44fb773996c4f923e3ea2d46a0f3d66429dc6f162f26c78151400f7d58f2cc"
+        },
+        {
+          "path": "public/assets/urban/detail-5_0.glb",
+          "bytes": 1415804,
+          "sha256": "2bad476ef389b070a45404cb01ce6b54c11621ec44274723ba685717875c8894"
+        },
+        {
+          "path": "public/assets/urban/detail-5_1.glb",
+          "bytes": 1545400,
+          "sha256": "3e077013cca3ee196e1e1e25f9acf1d05f930bd57f8d293fb8a9619d19d97b35"
+        },
+        {
+          "path": "public/assets/urban/detail-5_2.glb",
+          "bytes": 1422928,
+          "sha256": "d99ed4926f0563ca1cb9989d4ce87ea0383e71a99249b5925fda098599dacccc"
+        },
+        {
+          "path": "public/assets/urban/detail-5_3.glb",
+          "bytes": 441204,
+          "sha256": "20800b2ecddca48ccd78d63f4157e274e77b9f39b7ba026fcc00df7d1b341701"
+        },
+        {
+          "path": "public/assets/urban/detail-5_4.glb",
+          "bytes": 101000,
+          "sha256": "e51bd3af8518f340511dcd0b05e2cf5bd804810adab29696bf02e772b89dd612"
+        },
+        {
+          "path": "public/assets/urban/detail-5_5.glb",
+          "bytes": 329748,
+          "sha256": "d922906961a17e4f39e8e3e160ea648233d77ed5abf4b842e66e1827fd73e166"
+        },
+        {
+          "path": "public/assets/urban-fill/buildings.glb",
+          "bytes": 16160788,
+          "sha256": "a37da36ae64bd56cdc908d894b2aff403d99f253989966d845d10b83c76d98d2"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-1.glb",
+          "bytes": 172224,
+          "sha256": "48fa111b31092d1dbddc3db3d5d52d712a7ce3c5c525a75634c6096ed0ff369c"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-2.glb",
+          "bytes": 221276,
+          "sha256": "5de3dee373e16cf5d045159acfe4cae61be64c70fbb5599f4be652476622679b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-3.glb",
+          "bytes": 664848,
+          "sha256": "26242391c3de26c3d566a6ec890035c477f70a6111a73a1054632efebc904d81"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-4.glb",
+          "bytes": 223664,
+          "sha256": "1a5bfb69631fdcab536f0ca6cc399fabc03abe0fdb63406eb704806286f33c46"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-5.glb",
+          "bytes": 105192,
+          "sha256": "ed6573b8b6474bb828a8f1809a27a67fd871dccb65037c26dab755ce508fd79a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_-6.glb",
+          "bytes": 99712,
+          "sha256": "1aa610e6d66bb007b866afc5833162316c0d85836902df7dc4e19ec6ffa36dd8"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_0.glb",
+          "bytes": 542624,
+          "sha256": "8b72376a701a5827b72ed1e68239946c3655fc787b60d07a1edf5e52429e7ab9"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_1.glb",
+          "bytes": 1141500,
+          "sha256": "4acf056d8f4a75376cd34dbee7833d7811a49861b02f3b16488327f7933aae5c"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_2.glb",
+          "bytes": 1387068,
+          "sha256": "fb522975dac995499c8b30339e4421ba445c345ae0c9070e7d7ae57867e0d667"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_3.glb",
+          "bytes": 863860,
+          "sha256": "eb1c1de12ae1e3f8ced636c2aab05a8b655d18b9b1db38406428df397224bee4"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_4.glb",
+          "bytes": 79456,
+          "sha256": "5397976c8e034add6553a6ab93168fd9b01258363abe546b899e08613d2106ab"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-1_5.glb",
+          "bytes": 40864,
+          "sha256": "9864e53cac1c6f7030748a59a6f3d028550bac03012b0835f25c9c03b8935365"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-1.glb",
+          "bytes": 119760,
+          "sha256": "bf4998d459a65090b6c4b5afd2dcb1c5bd2702246ae92e0a5e9dde7ffeddb1f0"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-2.glb",
+          "bytes": 195204,
+          "sha256": "9da9d718c05a471729fceb3a28d8d642b53b880a7cf020092c7d6e73381a68d9"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-3.glb",
+          "bytes": 1044840,
+          "sha256": "2534dc0c253e7b41254991e70ae0dec20f38e592684e016fe6aeb823e22a8950"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-4.glb",
+          "bytes": 375796,
+          "sha256": "0f380ad893cb025826545ebdbfc8e1853541336afb57eac310cb1f46f4ba2d59"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-5.glb",
+          "bytes": 156584,
+          "sha256": "c366f81263e761fe2177b37a2cb8ca5b0301d41a31ad0dd241354494b2b50b38"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_-6.glb",
+          "bytes": 103312,
+          "sha256": "1ea062426b585eb26e515563bf99d02d9c6755f4e7cbe8f259993c4241a62fcc"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_0.glb",
+          "bytes": 383228,
+          "sha256": "62141ac243f8d89a11f3336db580dc2670bb19cfddedb68f987b5116d3909321"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_1.glb",
+          "bytes": 1071220,
+          "sha256": "fbe190fb3bc5867076308a26f87eaffebda5994c712359cdce27434ebf71f2fb"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_2.glb",
+          "bytes": 1781688,
+          "sha256": "be07ba9e5ef8f43c5e81abecbaaa0db034ae064f590b234e6a6b9982c200604a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_3.glb",
+          "bytes": 925468,
+          "sha256": "dc3a6c443d3ee00f21a0d1a900a97650c9a4110c5fa02319e07c660359f75f7a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_4.glb",
+          "bytes": 67604,
+          "sha256": "033f185d5b0a0795767492415330652925c959fbb303a609d188799b97d8388d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-2_5.glb",
+          "bytes": 38088,
+          "sha256": "72751f943f8e332bdcaa98753b8512f60274db5953ff2a5851080bb3e57c766b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-1.glb",
+          "bytes": 90324,
+          "sha256": "312fe0159f0204e6cceed07e5152b55765823a71a203e9a1cbdfa55dcc659cbc"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-2.glb",
+          "bytes": 462404,
+          "sha256": "ff515f2314fc6a8cda41f44f5f9a9b6569c2784b53e2a9fd92a66ddb74d1d12d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-3.glb",
+          "bytes": 1782208,
+          "sha256": "98d603018c707cd4d28e335a8d50ffbefbcd049d2b80ea3f440517268c08cf56"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-4.glb",
+          "bytes": 781600,
+          "sha256": "d291acbf5e1c397d5e88f26a9d2a1e50bcd17db86aa7ff6eab447993bbc4ce6a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-5.glb",
+          "bytes": 198360,
+          "sha256": "2ff9728a5c69c4274a43c894a374a717daac035b547de7662920ce0941a71962"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_-6.glb",
+          "bytes": 53360,
+          "sha256": "352c9e51c0f2b64003a7a42d279e4ff2ed3356656ae2eab3f98b14b766d79998"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_0.glb",
+          "bytes": 115220,
+          "sha256": "3a3b5753cf33998d129d959431c84b6cd83bcf83f0b337715c5dc9e48d538e68"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_1.glb",
+          "bytes": 533016,
+          "sha256": "47a1dc137938b00a03e1e959bfc6b836a77cbe5f1193ba410560fa21887c3a39"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_2.glb",
+          "bytes": 1194280,
+          "sha256": "79adb5429c5b8a110155706c01156234ca3d5a17f31eda9be21d6f7f75bd2f07"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_3.glb",
+          "bytes": 779160,
+          "sha256": "87b0efbf5ec7cd7fbd6a5f4bc7c8a5040d11e456581b392b12e3cc6c7f1cc622"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_4.glb",
+          "bytes": 76720,
+          "sha256": "016000f16d34827becc51ce3167afd214265a8813e54430196de286ad158a5eb"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-3_5.glb",
+          "bytes": 47732,
+          "sha256": "caa7b67256ce05bd67a37fd4499b9513fb48a0c0fec0c4f8723b29a1b85892ae"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-1.glb",
+          "bytes": 288212,
+          "sha256": "97a0f8528ef1b131901e464c090bf1eb9e6fbb25c3f0a39296370bb67177ae13"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-2.glb",
+          "bytes": 491996,
+          "sha256": "360bbd9bb55466e248dfe9b217de6ca0109cadc09d6abe1ac62f258b07a7ea83"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-3.glb",
+          "bytes": 1246092,
+          "sha256": "bb34877d53a39e2f0db1d4455229d706ac15a218e420d8c347a11f03411a4b76"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-4.glb",
+          "bytes": 378948,
+          "sha256": "245d9993822a47edc8a09139e203d32645232ba2d89bb7c3379d92776245710e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-5.glb",
+          "bytes": 279548,
+          "sha256": "74304f4621638d7f3277071dbb28829034bd83a2fb3d9004838460e8f2650dbc"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_-6.glb",
+          "bytes": 64876,
+          "sha256": "374e2b9321a4fc0a435b9a532eccd7acc4671937d1c4f98ea8e0183cf4caaa42"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_0.glb",
+          "bytes": 299792,
+          "sha256": "24a0e8cf57461837fbac2ba41cd767f2cd18910196a9c45759eafec8ceec089c"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_1.glb",
+          "bytes": 325340,
+          "sha256": "d8e0142f02e6b06fe40f2bfe25e97376e0bac51023c2ad66bea0557f517ea14d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_2.glb",
+          "bytes": 1447692,
+          "sha256": "5d2e64026cd55088f7a61aa5daaf407d644441e8fa3ed264e4e2ae73eb8f997a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_3.glb",
+          "bytes": 535192,
+          "sha256": "a8e18be62fb4e58f49f17b9fe06ac979ea10dafd9cf85fec2a08cbdd24510c14"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_4.glb",
+          "bytes": 137228,
+          "sha256": "4afd36f62ac27b3a30a46bbe3f374d5715b4d9fc077e198860fbe8d1e95d475a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-4_5.glb",
+          "bytes": 101024,
+          "sha256": "ed6db8bd090bef9e71bc55c943f8f47a8a63d26c6cd94bf90f6072084278d358"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-1.glb",
+          "bytes": 126648,
+          "sha256": "21972c85b0b5e6a08abb05f0189e5b6dfa8f8814905da6a6fe6c4b95b98a409e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-2.glb",
+          "bytes": 537956,
+          "sha256": "3bb881b39d832a194b4cd7562a6da602b93c803641aa035984a9736c8a29f215"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-3.glb",
+          "bytes": 1014704,
+          "sha256": "ce88b9376d80e76cd98b1e94811ca4ce8e548e85b42bd9b08e0fe81ce924b995"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-4.glb",
+          "bytes": 461784,
+          "sha256": "fa296ae41cc659fae987630a97fff8319c4286815dcfd9bfda19989045e240eb"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-5.glb",
+          "bytes": 262748,
+          "sha256": "a49e614580a85b55d5ff81157062581e420d4e8092bf147726929dd10bfa5dfe"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_-6.glb",
+          "bytes": 35848,
+          "sha256": "b9ff4b2e241cc1d65bd025a462e99f16a2affb95b3b7bd7944ed9fa8139b893d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_0.glb",
+          "bytes": 646696,
+          "sha256": "04c2a015278dcafef316c150f660cb038a6118a3a49f25ee2b30291bca4cca7e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_1.glb",
+          "bytes": 911896,
+          "sha256": "fe5aec1d73ecd8898023e42fe0856e0579935ec17e79fdcba3922bc2d76fa74e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_2.glb",
+          "bytes": 776808,
+          "sha256": "a4280efa4ce078c0cbd935db91e4f2694b69fd0e52dd23cb6365a3e85bde206c"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_3.glb",
+          "bytes": 168592,
+          "sha256": "ddabb8c808762bdf690f6b16c8d79e26855fe7462f4df87ae54059350d249568"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_4.glb",
+          "bytes": 68628,
+          "sha256": "1ca1ac4125674c5a79b70b32f122174243faec96efea25827530ed42e3ff3469"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-5_5.glb",
+          "bytes": 61576,
+          "sha256": "63b753dae04c7f8c75456477be07f7bb24f77f41b112593a08803e724ece97dd"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-1.glb",
+          "bytes": 53420,
+          "sha256": "f78c664a7ab728155edace13091a645dc5fcd95580d8f34b40a6ed2a17805722"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-2.glb",
+          "bytes": 63928,
+          "sha256": "713a61fc0bbdb914f9acc13fbdc4708d8569eae83259140b0bd16b5e4ecce555"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-3.glb",
+          "bytes": 109608,
+          "sha256": "938757bec21b765dd1d1dd1a12949d4266576ca9aef96c583a852440830fbff3"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-4.glb",
+          "bytes": 97676,
+          "sha256": "2d0c4e735d8cdc15926b8876cb7304453d1b78dce6dcd1533035fb6a777132af"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-5.glb",
+          "bytes": 124932,
+          "sha256": "570353cce2200569392fcfc8426de0e2f867429482a3dc4f120b7128f5b121a0"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_-6.glb",
+          "bytes": 48716,
+          "sha256": "441c923375306089c799ec6a5f8894ee16e62019acef5950f93cf669577ad135"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_0.glb",
+          "bytes": 120652,
+          "sha256": "2745427217d63104bdd8ab269decf3fab12a2607b5772e5bffc6057ba8ff4d5d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_1.glb",
+          "bytes": 179124,
+          "sha256": "446bf481941fe080854950c2076667ce22b481bb3c015fd070b86c86c96e9097"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_2.glb",
+          "bytes": 96324,
+          "sha256": "7dafd1f7c45499d39af379796ba82f388173acd0efdf30a788b3a716529ff68f"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_3.glb",
+          "bytes": 85080,
+          "sha256": "76ef360410aa61ec663f9eff797de8f9508ed67f0c10772da299f3b3f51868d8"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_4.glb",
+          "bytes": 81424,
+          "sha256": "504c747e7cd63697d42c825b67b89ac2cde63be107af57f9de587c3dd57310cd"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/-6_5.glb",
+          "bytes": 38444,
+          "sha256": "7f7912fe0dbae30064d8e776f563e532748e91f7cbe6da5fc8e63e182543b664"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-1.glb",
+          "bytes": 408296,
+          "sha256": "0b2e34c93b6aefec347c72ae51517567c50c0fa4e90255c21aa1d47cf91509db"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-2.glb",
+          "bytes": 240040,
+          "sha256": "240ac091c1fcac20d4b0ec1bce50d94badb82c0240c71e1ad0749c41e409e696"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-3.glb",
+          "bytes": 612492,
+          "sha256": "51c4a9bd23345ece01f22db73c24da2352e4d74a0267431c08a16db4f2788c47"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-4.glb",
+          "bytes": 435236,
+          "sha256": "7d363ec60c14d3c4b86b62caab56a9b0885718e030900f706136b607bf1c68a1"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-5.glb",
+          "bytes": 174884,
+          "sha256": "f29c17810f816abb2e5cd7c5c08ca4bf88e077aae87e9c1da80bb4417f6c335b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_-6.glb",
+          "bytes": 27428,
+          "sha256": "e3de8b667e74361bbc9b0ec2003bd3e114e214142e09e7e7a1201d33b58639f6"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_0.glb",
+          "bytes": 817828,
+          "sha256": "be5b9b9c8c3b25416722725c53cf86aecb52096eacf216fbebc7f04db328a9ba"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_1.glb",
+          "bytes": 681592,
+          "sha256": "0e70af5ff0f87af146d127a7782ff7025149b0fc74d9e9f4b37010990e89275d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_2.glb",
+          "bytes": 886904,
+          "sha256": "125f40787201656300a1db4b221ea5986f68e51686c74c083804671f65335609"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_3.glb",
+          "bytes": 408560,
+          "sha256": "02874909dec2e9b4be10dfbaa6ed3355990eb3de7edb82324ba1b8a7147ffb73"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_4.glb",
+          "bytes": 137472,
+          "sha256": "dcef1fc790a1f9e1e290163cf73eddd1674192f4385cd68be8ed3053779a0333"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/0_5.glb",
+          "bytes": 88440,
+          "sha256": "87cb8095a970cb629cb84efb1eed9935417c03413f1f924161fca5325ed67299"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-1.glb",
+          "bytes": 102872,
+          "sha256": "689d3c0fc1f82cbed5ea2e9b48b967a0cbc5a9ebce0c840ba355a3e60528b469"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-2.glb",
+          "bytes": 159772,
+          "sha256": "44ed105479915edf21f982e8dfa719162517e543a38196e6fc3fba00111c11f4"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-3.glb",
+          "bytes": 139980,
+          "sha256": "20d1ec46bad852bef9854c3e6f883c84ad1e7e8169123e941b535db3739e5a05"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-4.glb",
+          "bytes": 217272,
+          "sha256": "9a398fa48849283dab2dbc1ce3692bcb7b3fd16c757f786e63a2047c861f6b2f"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-5.glb",
+          "bytes": 135796,
+          "sha256": "d79d694c72f7fd765b67bfa8badb6deb7ab2de7a7b5fdb51fb92a1af6f96a131"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_-6.glb",
+          "bytes": 61688,
+          "sha256": "a898306d60462b45e61413ade82c51cd8c81f49e6a7df2e9e334b8aba6ae4a76"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_0.glb",
+          "bytes": 124616,
+          "sha256": "72a5cf52b0dba264f76bc79400c95f06b9ebb535eba94d92d416ab1908829063"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_1.glb",
+          "bytes": 129248,
+          "sha256": "3b2b7ee112d9a997e53169d4c972d9aba568cfc66eb8b94ddf634e8c75e39679"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_2.glb",
+          "bytes": 164956,
+          "sha256": "e7b957a25dcabd78734436f97a5ed6c791a13f725b9f134e4d3efdec6a43988e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_3.glb",
+          "bytes": 144456,
+          "sha256": "51da0bda42c361d4d5f8fd3b423ccc3f0e961719a5f11937ab7e4bfdffe77cb3"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_4.glb",
+          "bytes": 118176,
+          "sha256": "939f08955b19bd3cc8cc50e91904a7abb5dfd4d47ac950ee68d28348cc2d8377"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/1_5.glb",
+          "bytes": 55256,
+          "sha256": "9a172ed29a526117aee33129b249754abc9484c3fbc36d85e9ba644228c4a9bf"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-1.glb",
+          "bytes": 65344,
+          "sha256": "6185cb286fe9a663f3a0178e7ccd703c532af415cb5d50800b12c6185e6e96ce"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-2.glb",
+          "bytes": 74756,
+          "sha256": "da6a946942ca4e3bf4a5c49584f4ab2819a8b14d64c22ac2aa2fc89dbf5dfb10"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-3.glb",
+          "bytes": 72484,
+          "sha256": "81d8bcc32f743fa95ff74ef74e7e00faaf8e8c92d25fa3c12984f2e1011597f6"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-4.glb",
+          "bytes": 68968,
+          "sha256": "f6b74b54f77dbd70fbf8777ed3193c83ffe13151a23c242f1e466c008a1f3b6b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-5.glb",
+          "bytes": 93240,
+          "sha256": "ae9567523b7b50d400d2e3d1a179d96f2c5cbbfd19419195a7b56e059fea2198"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_-6.glb",
+          "bytes": 93196,
+          "sha256": "b5c81dd1d150c123646d4bec079e15516af60a580a0373d9a7c139bb69d22e15"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_0.glb",
+          "bytes": 67864,
+          "sha256": "57931e236aa2e852582ff55ff93b3e378845bd67489bf966384f0380ce91c4e7"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_1.glb",
+          "bytes": 95464,
+          "sha256": "945eada2a7a25ee18b3f753f5e1a30e671e2ffafb7da5f288b5325bb3996aac4"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_2.glb",
+          "bytes": 79428,
+          "sha256": "7a57fba85ec785cf7bd2848000a0161b4765e01e8fc9a55daae183e3676c9dc9"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_3.glb",
+          "bytes": 78832,
+          "sha256": "6c6e90a3789b379b7fbf049b17ec3cfcd93789c6a22dc861c7bd5a71b0e2d946"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_4.glb",
+          "bytes": 86796,
+          "sha256": "f8a5e5a15b4767f1ca278f1d6ab4fd739ade40dc64b4b45e3d38a8a39d12c752"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/2_5.glb",
+          "bytes": 81724,
+          "sha256": "5bd14966a1b284a23d02e4acbd56f9be71632ed28668f90196c61cec83553dc2"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-1.glb",
+          "bytes": 51960,
+          "sha256": "87abaf7b288f10872216c8792594699f8bfd56ffa784edde63c8e770398a3618"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-2.glb",
+          "bytes": 61300,
+          "sha256": "228c0b92203196bad4ec711cdc2ecfed2484c89b501b42d00075b4a440f1d227"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-3.glb",
+          "bytes": 69628,
+          "sha256": "cf4894e80806f94df3ae5b41033c24e93a1123a9ec4d0ed9b2476edbcc3d61d7"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-4.glb",
+          "bytes": 70440,
+          "sha256": "22491534af6108ebface91775cda4bca68c5ab6fd8273606602fb40f19aa9a6b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-5.glb",
+          "bytes": 78960,
+          "sha256": "2ad34908157efd609b07a4d7cffaa6425ab40a5b7beb4b7ce4eac6cc1d13a7a7"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_-6.glb",
+          "bytes": 45440,
+          "sha256": "d8480146ae368e82868b316d9dd0381b145ed6a5b339266f0f3cd1e4d3fb20e9"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_0.glb",
+          "bytes": 79388,
+          "sha256": "272b403d479ac4bf4dbd5bf052fead7bdc6029831819b67dd7d540c658f02f51"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_1.glb",
+          "bytes": 76792,
+          "sha256": "dc16037344e6d3ccb91b5c48b8213f8e5dcd46d83b16227cb014703c48c9a6d9"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_2.glb",
+          "bytes": 67320,
+          "sha256": "8e37457ee1d7396932e8d6a5292e5cdba3dff75cba9f1574ba7d999aed51da64"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_3.glb",
+          "bytes": 60604,
+          "sha256": "28277f74d46ca0c00de94595fcebecd65646561eb00a0efb51633d00befd25e4"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_4.glb",
+          "bytes": 92548,
+          "sha256": "e582e88faef3c4373c016287abc8ce0bc1db7b72038340668d192c4b6aa99222"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/3_5.glb",
+          "bytes": 55856,
+          "sha256": "ab001aa976daf27ecbc72831d3cd0a7b3b88a4eb7c7a9b807b10b3d3845d1d6c"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-1.glb",
+          "bytes": 58144,
+          "sha256": "5d76851a96a7e9c350960e2f7eb1718305e8f60a609ea2adc16b096d89043095"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-2.glb",
+          "bytes": 84600,
+          "sha256": "a40ba3fc0a04950bed9c63bb1f34cef528637251abb2a48571373f7399964b09"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-3.glb",
+          "bytes": 63328,
+          "sha256": "7219a4c94e7f9714369aafba97b6fbcc55b3d4ee44b184b31522549c46ebdabd"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-4.glb",
+          "bytes": 91536,
+          "sha256": "14680961389da310712112780aa24c3481e621dbf05648a7be0ca1e900aa366d"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-5.glb",
+          "bytes": 82104,
+          "sha256": "6e141422059b0e7ba1ab62ea220f4905a0240492fd422938ad45b76c9477cff7"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_-6.glb",
+          "bytes": 57012,
+          "sha256": "21703502946cebad3667ca8def99ffad756c9c7ddfe702d879a57678061d0d2e"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_0.glb",
+          "bytes": 76888,
+          "sha256": "638b5c6a84ed77fd96b6a0ea5cc7448d1ea77ba8682610d73255e126f8c43d79"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_1.glb",
+          "bytes": 57448,
+          "sha256": "07d458efc8b78b2b6400c0b83ebc03160609ce41c0e3d2927796dccfec92f7c8"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_2.glb",
+          "bytes": 60144,
+          "sha256": "e757e096103f1c1faecd64cddf25124dd50bf26ab48245e0556a405cb2686404"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_3.glb",
+          "bytes": 67572,
+          "sha256": "e446aa843bff5d4f67eb43fe552a5c3d5dc1c578364945a2af7249f5208c0f4b"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_4.glb",
+          "bytes": 171468,
+          "sha256": "c8c8652ca38db2604a8b1f3f5831fb2361be9b0f6d73eb33a5bfafd51f4ab573"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/4_5.glb",
+          "bytes": 56916,
+          "sha256": "b6e9c4fb1be125dd95dc6bc59ea6ac41d461a1d675ed721e7779dbf83da17dfc"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-1.glb",
+          "bytes": 85396,
+          "sha256": "bb90d754bfb73f4cd097b74c82cfe598d1b488b9a5398ce9ac91abfcbc3f2fd4"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-2.glb",
+          "bytes": 98620,
+          "sha256": "7ebbd40328af654d4139db9aee8984dda1fb687aebaeebbcc2389cfd37cc2cb0"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-3.glb",
+          "bytes": 77248,
+          "sha256": "feb2f76112bdc61b8c1935978588115173b2ac6ae9b5d44331b2f1c33326b352"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-4.glb",
+          "bytes": 90200,
+          "sha256": "5ca48632a232118219e0ffd251144b4c2e4c80d0d46276aabfc96854ce10b3dd"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-5.glb",
+          "bytes": 47348,
+          "sha256": "6d8be8d353ad20c170d013cdab841aa69b61379481ece654b7d7d8cb453d7443"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_-6.glb",
+          "bytes": 32984,
+          "sha256": "efd1b12e37091419c77a65255291aec9ccf5af723f4a0a086cf437d8a6fca652"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_0.glb",
+          "bytes": 80756,
+          "sha256": "c8d4230514d2acc9d5c4443aee88c2fd4e0750a80d459203e5a6aee9840061ee"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_1.glb",
+          "bytes": 59548,
+          "sha256": "59e456f89fb4b383c855517f24d7e47cfa59a7043925ebcb4c0fefd1bbbd7998"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_2.glb",
+          "bytes": 49488,
+          "sha256": "73491c3a12b4827a29e03796078b6979b32fa14cb0c4c62ec576c765b7f7b271"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_3.glb",
+          "bytes": 24304,
+          "sha256": "2b46e43428bf16606e29a39d75c2e85a219b998272aca8c615458e28357f603a"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_4.glb",
+          "bytes": 77664,
+          "sha256": "43a53cfb83e9685a67baaf49a1bff7d7907793a4d9d40c506afb3068de0de1fb"
+        },
+        {
+          "path": "public/assets/urban-fill/detail/5_5.glb",
+          "bytes": 65960,
+          "sha256": "548abf6831a437c517fe1bafa8c9b11d74946f543090dc39cad1840028bbd7ce"
+        },
+        {
+          "path": "public/assets/urban-ground/ground.glb",
+          "bytes": 14649712,
+          "sha256": "b052b2180523bcd62cb4260d28c9a33541821a876bab4610a35f47b78156391c"
+        },
+        {
+          "path": "public/assets/urban-materials/concrete-roof-v1.png",
+          "bytes": 3352044,
+          "sha256": "a1fd35d524bf51c59fd87e9f9068d30c03ecdb4352d08f4a0f43026e9e32bda4"
+        },
+        {
+          "path": "public/assets/wumen-detail/detail.glb",
+          "bytes": 11279508,
+          "sha256": "b09d2914c401c1a4f8d44f6584e18214bfb0ca35364cc2a10358c2101312d0b1"
+        },
+        {
+          "path": "public/assets/wumen-detail/preview.glb",
+          "bytes": 5422916,
+          "sha256": "0336dfa5dff153ebefe7e74d6ced3cd02287d2644bdc645f4a9ad74b6082e174"
+        },
+        {
+          "path": "public/assets/yinding-detail/detail.glb",
+          "bytes": 992680,
+          "sha256": "e1afb6a2dbdd677e10774c49b8460011c91126d7336c6a595437f7f5d8449809"
+        },
+        {
+          "path": "public/assets/yinding-detail/preview.glb",
+          "bytes": 397188,
+          "sha256": "532a4b60bc053421d6531061266e629f4dfa788d9620c2005e5340afdeeabb74"
+        },
+        {
+          "path": "public/assets/yinding-detail/stone-grain-normal.png",
+          "bytes": 145003,
+          "sha256": "f96d47b80b8214713787bd9cdd03fcfc1dea25db0f2ac7f3c28ff3bdc9f12cd1"
+        }
+      ]
+    },
+    {
+      "name": "beijing-geodata.tar.gz",
+      "optional": true,
+      "bytes": 136608217,
+      "sha256": "5f588acec42419fb229b0bd3b3573de5ad72dc7c328f6519c0d11dc778dd3b5b",
+      "files": [
+        {
+          "path": "data/geometry.json",
+          "bytes": 48471472,
+          "sha256": "d3a80ac950306bd1d4e01edee6629db8b418baef20b69c7d9ca1d1ba7340f7a5"
+        },
+        {
+          "path": "data/osm_beijing.json",
+          "bytes": 18471439,
+          "sha256": "03a2c2887be99d3b67bd34d3a2969414af0b6bb3f3760651ee1b11926a80c5ea"
+        },
+        {
+          "path": "data/terrain/beihai-annexes.json",
+          "bytes": 2480360,
+          "sha256": "f92316d0477aa9c4f4267584439164b1c1137fc09636aac924f41c954cd524c6"
+        },
+        {
+          "path": "data/terrain/beihai-elevations.json",
+          "bytes": 786478,
+          "sha256": "3536f55578368aad6113bc0ee79865ffcd4ea3495eabd1d02d6467a78f239a02"
+        },
+        {
+          "path": "data/terrain/beihai-island.json",
+          "bytes": 1468,
+          "sha256": "95b2f7e387263730d2e7aff7c7bef2d1ccde08ea8715aa7af566203603831a2f"
+        },
+        {
+          "path": "data/terrain/beihai-meshes.json",
+          "bytes": 5763577,
+          "sha256": "6082f30b894fdaa196bf63971ae645b6bffc5589f7607b9c34247147c7bad70c"
+        },
+        {
+          "path": "data/terrain/beihai-probe.json",
+          "bytes": 704,
+          "sha256": "26eee2847fef45eccc594c795e340d9cc4dcc87a06c0cdd794408f46d38b95ce"
+        },
+        {
+          "path": "data/tiles/0-0.osm",
+          "bytes": 6364906,
+          "sha256": "b8e27125cb3d423116684f31f64ac48d529561af0be9e824a9fcd3a9365cec8e"
+        },
+        {
+          "path": "data/tiles/0-1.osm",
+          "bytes": 5940516,
+          "sha256": "0dcab5cccdee35ac95db0c6370db6bc038de443ddd66509f5f0203902c7c946d"
+        },
+        {
+          "path": "data/tiles/0-2.osm",
+          "bytes": 4305351,
+          "sha256": "407119e8d3ac63723bc81d807de6ef07a05b30185dcd017d631bf8dba09852b1"
+        },
+        {
+          "path": "data/tiles/0-3.osm",
+          "bytes": 3995189,
+          "sha256": "b4cbd4eef8788443c560ff9564392856471785833163850821914c2066ad8ff3"
+        },
+        {
+          "path": "data/tiles/1-0.osm",
+          "bytes": 6416011,
+          "sha256": "9e4aa115f854f027e2bf11a44a2d4b65b30dbb30755041b4d92eb2a3f4a225cc"
+        },
+        {
+          "path": "data/tiles/1-1.osm",
+          "bytes": 10688257,
+          "sha256": "639bf78e95e22efbfad6e6f0d34b74b16ddaed6db6d0f8070fc035dc70097a53"
+        },
+        {
+          "path": "data/tiles/1-2.osm",
+          "bytes": 6326249,
+          "sha256": "358f1290fadd173f0588c91c1b22cae1f7fb5adb893cd463685f0fceef05c21f"
+        },
+        {
+          "path": "data/tiles/1-3.osm",
+          "bytes": 5840694,
+          "sha256": "f475c2c5992914817270088b2ec0d2aff5d5c1b89b04302ed862cb15dbda4d5f"
+        },
+        {
+          "path": "data/tiles/2-0.osm",
+          "bytes": 6873582,
+          "sha256": "6cbe9a6cd266a146e753698c783644a0db2b37ba5b23915f9818d25bb393da71"
+        },
+        {
+          "path": "data/tiles/2-1.osm",
+          "bytes": 8238819,
+          "sha256": "e91a5c600f15a578f9f19d53c75e4e3a72bf2a2f8bdb08abb4eba270a362fdef"
+        },
+        {
+          "path": "data/tiles/2-2.osm",
+          "bytes": 5733104,
+          "sha256": "d193ec3dc0f3ba9961f98e9330896aca63bafbf13912080d56765d487aee79af"
+        },
+        {
+          "path": "data/tiles/2-3.osm",
+          "bytes": 5802766,
+          "sha256": "140ef79b0c958a56a2e0ae1f51c79db4be33dd4bdd73832f3f98ef73a4d13802"
+        },
+        {
+          "path": "data/tiles/3-0.osm",
+          "bytes": 6451779,
+          "sha256": "5b3c8da6cd548b215a3e0b6fbd29724326e990745aba3ec659c7ae1b949595fe"
+        },
+        {
+          "path": "data/tiles/3-1.osm",
+          "bytes": 4931826,
+          "sha256": "b9b67123a59e6d4a8be8b11c130947e1049d6358f5db2d24cec786ab08ba40e8"
+        },
+        {
+          "path": "data/tiles/3-2.osm",
+          "bytes": 5114568,
+          "sha256": "9441f81995ddc72895e7f35ed91771a4495dc4c8cb0922b2e5873f483c8fa8f9"
+        },
+        {
+          "path": "data/tiles/3-3.osm",
+          "bytes": 5084098,
+          "sha256": "7333b5a56f7aef68affdff201b8671d7886537a23c4b65ce8050d605afabd92a"
+        },
+        {
+          "path": "data/urban/architectural-overrides.json",
+          "bytes": 512,
+          "sha256": "0ecd1d8ecfcfd8895b9acfd50b75ad7ae1b7fc8c3dd2cfe305c05e4b66eb3e58"
+        },
+        {
+          "path": "data/urban/exclusions-circular-mound.json",
+          "bytes": 6602,
+          "sha256": "aff51119c1348806cfc74222664edb81ae670aaaadd6499dd66fa23354c2860e"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-1.json",
+          "bytes": 2332843,
+          "sha256": "1398f86ed7e34d4b8d0b480748b38a1b6f9f187b6ac4f173ebfd90b7dc537780"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-2.json",
+          "bytes": 3016979,
+          "sha256": "54946f9e68ae509abd1835bb5ced433042cfd2e5b1368545025777bc4f0cfcda"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-3.json",
+          "bytes": 9322141,
+          "sha256": "444c11f518d9be855e989001d89d980fb7ab443f752bf3974d8563da96b2aad1"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-4.json",
+          "bytes": 2971741,
+          "sha256": "6547bd9197e86a272046710796d9aa69dccef6cff09374b5abc74d8d1df9d602"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-5.json",
+          "bytes": 1317701,
+          "sha256": "a552fce2898d4414e4035eebcd3d66df8d7d7eceaf5d5c96791fb04e7707eb59"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_-6.json",
+          "bytes": 1139807,
+          "sha256": "3cfa795198c17292bfcfe38589a99fc07efad16fe9aef3d383b237f84967cc3b"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_0.json",
+          "bytes": 7732694,
+          "sha256": "1275b4c178cc43d32ba6b1970980c03997fa2b925369d4102bda95003428c73b"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_1.json",
+          "bytes": 16833719,
+          "sha256": "144eea6ec2c3dd343ad62e7c7ab1c5e9a8263400283b63e19481c57245ed4521"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_2.json",
+          "bytes": 20440484,
+          "sha256": "d8c63a6b5850c338dff05ae1a4e88c61abd6a9b5573e9dc403b2106322613cbf"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_3.json",
+          "bytes": 12499040,
+          "sha256": "9c678837e693ded1bad240b66c1bc9f8e79289cd5466ff43d9578169b97089fa"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_4.json",
+          "bytes": 909393,
+          "sha256": "576222e0ebfe3fed7fe0d842c25b918a1bfd1e3606837b253cec06eb4217d508"
+        },
+        {
+          "path": "data/urban/infill-detail/-1_5.json",
+          "bytes": 412562,
+          "sha256": "874f24b5e8bb291c4b0d84816fd757f8214faf0c5cf1d36e27e33d29496d8652"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-1.json",
+          "bytes": 1611012,
+          "sha256": "02b4d0d233b44a9287e70862dd76d17c02fde143dc41a182caf7de63f7343f43"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-2.json",
+          "bytes": 2598331,
+          "sha256": "a8ab06baf7764db5448c57a1eff24d0487512ab4a8dcb3b334ef7879724993e8"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-3.json",
+          "bytes": 14813832,
+          "sha256": "90ff5f5cb5462c12b2074dec1218bb1afcec8ce9e93e44d0929803513b869cde"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-4.json",
+          "bytes": 5349701,
+          "sha256": "07778aeab275ae571b5b8229c23c142089d1195a35c8265a30f81a2228f1a24c"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-5.json",
+          "bytes": 2003525,
+          "sha256": "f028ced554c24a2f38b3ae5489f656d6570bad5c6a395c7476822a86316ed020"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_-6.json",
+          "bytes": 1228756,
+          "sha256": "0a47cefdcaad26cddfad86d238d6ed5e1f609949f1b384eb18f6486f90f51283"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_0.json",
+          "bytes": 5347763,
+          "sha256": "8e49780a402f3b21cc5884b0cbb5785c825e55661d69bc3b5086e0afe19e65fc"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_1.json",
+          "bytes": 15809134,
+          "sha256": "9036615507de99ee0a3406c44837dcb084a7d3528257b1834d1c41958c4709ce"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_2.json",
+          "bytes": 26686442,
+          "sha256": "0fad13db54eea506a7862cf7ccbc07d2e546e84cbcc1de05585eab9d607ceffa"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_3.json",
+          "bytes": 13565865,
+          "sha256": "f13c053ae80903772143dec2f14fd77e5f7660097c14a1b8b5781120bd3b3fab"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_4.json",
+          "bytes": 765194,
+          "sha256": "9fb4f10fee41fe79c46727c0d0dc3b8e022a09b2b2b5a01114059722494ba98d"
+        },
+        {
+          "path": "data/urban/infill-detail/-2_5.json",
+          "bytes": 383327,
+          "sha256": "9a5a1c460d567fe621eafbd8560740df77d450510e3da421ecd0de68f7c7fb8c"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-1.json",
+          "bytes": 1145510,
+          "sha256": "e9284bbe49ab07cf512cd17f4ed26476091eb0b948ff25e0907be5c8f00e6734"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-2.json",
+          "bytes": 6681397,
+          "sha256": "9d69c4efc2c5116a984cf457bff8515e1c7eb665b1286a819716f388e0e6c8d0"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-3.json",
+          "bytes": 26120829,
+          "sha256": "e66fbae4762e2019a3a04d867451915c0a7aef8238db83423ff571844d6e2efb"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-4.json",
+          "bytes": 11461285,
+          "sha256": "f1cbcb2001bfc48fd3a10e3060b4d88330e105a96ac8aebdcabc2e77093649a1"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-5.json",
+          "bytes": 2537492,
+          "sha256": "86f9fc58ba0761dcbbfca79dea97deee137d4ddc235c7d8d49dacf41edada53a"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_-6.json",
+          "bytes": 548677,
+          "sha256": "171a792c720e5c7790278b98964a81b8358bfa65b838cde0691072047f974185"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_0.json",
+          "bytes": 1458534,
+          "sha256": "17e90eb0eb11bb53ec32e63ccb72db66c5be505bd7dbeefc80e6a36c521d4eb9"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_1.json",
+          "bytes": 7608489,
+          "sha256": "7d36981b176f149c69a34937b23cbf25d46ed1eb7f695d85123a1d63673c62c4"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_2.json",
+          "bytes": 16853084,
+          "sha256": "796ae1de80ff26379226bde878952e782922bc419313fe2f2317ad4a064ada10"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_3.json",
+          "bytes": 10977563,
+          "sha256": "1a51401b5411083db19d5853a04faa59f8e27fdda41431ce3a2f5a2ca708b436"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_4.json",
+          "bytes": 865552,
+          "sha256": "c228e052d00fad234069a0b3560b85f39c12f168c67a5cbc6db1c23545db869a"
+        },
+        {
+          "path": "data/urban/infill-detail/-3_5.json",
+          "bytes": 481515,
+          "sha256": "d0ff24ab627b2412436d7e44f559af5e392eb2f840cc0d6812b7b4f965ed5299"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-1.json",
+          "bytes": 3994319,
+          "sha256": "1e95c1bae3a2a9e552548d07189acbd8c5a62576227a2f3b090f8af682996d7e"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-2.json",
+          "bytes": 7180851,
+          "sha256": "0b2159ed3ed149fa9fb0af43a1e74fd1c00c5be04278dedd350f660d69b8dacf"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-3.json",
+          "bytes": 18462805,
+          "sha256": "a9193af63006d22812b8716210a3149239febfdb0bbe1ee3f5b47fabcca492d3"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-4.json",
+          "bytes": 5202784,
+          "sha256": "dafb0032f6fa113190f775b218c352e33b5cbb838937aa051c23853cdfaf15c5"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-5.json",
+          "bytes": 3796246,
+          "sha256": "3c78344c85cd204a0ee58af29f3a32289bc9ff96235841a28b04c573e67d96ca"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_-6.json",
+          "bytes": 697060,
+          "sha256": "d8ba22c6bf4da27b4b30047fefacb1f948361fba39e9676902eeb41c9f1d5cd4"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_0.json",
+          "bytes": 4061904,
+          "sha256": "1baa23f78ab0b6c3d3bf2ed4a1192497e5b86d439e7bcb44ed90833d132eb7cf"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_1.json",
+          "bytes": 4464447,
+          "sha256": "25e2973ec462c9db81bfd6602c90039f529e2d717967775833c15f0a27c72021"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_2.json",
+          "bytes": 20902350,
+          "sha256": "db5daed4aa8f4545a553b33bbbec9769b0fdafbe26fb0911ff37222b1196859d"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_3.json",
+          "bytes": 7107335,
+          "sha256": "c1a960ffee782d1cc2eb6b7315a60b01c3a2b3df99e52aa67318cbe0f2cb1dbf"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_4.json",
+          "bytes": 1619462,
+          "sha256": "fc8ef34499bee48b9729db006015b1ea0d8c2847d03a46681d628a32243c4abe"
+        },
+        {
+          "path": "data/urban/infill-detail/-4_5.json",
+          "bytes": 1119404,
+          "sha256": "2658f916dffe55cad263f866ead43d4225265bf3507b9b130ef5c51bd26113ce"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-1.json",
+          "bytes": 1535114,
+          "sha256": "78a461f851e919a31bed57397133d35280db91c58eeda560c595c994c0107f98"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-2.json",
+          "bytes": 7670085,
+          "sha256": "2492d52d96389d028f9cdbbe9f5d7b7e7e2ed1cbd4bf4c9906262b73db5913aa"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-3.json",
+          "bytes": 14906341,
+          "sha256": "9d5f4ddd33e6cb799ebfcf3ccaf1e18472e2a8b0a098af701145c9d1f7cadcc6"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-4.json",
+          "bytes": 6535901,
+          "sha256": "adfd53199c629c4cab2a92c6d0266f864827edf9f11387c413d5bdebad1926b8"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-5.json",
+          "bytes": 3545540,
+          "sha256": "e1d322a5812643a66341868198329ee4313dc332c9bfd0677ec7f640dbc0e512"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_-6.json",
+          "bytes": 362890,
+          "sha256": "de86331ba3d831c8147d7b2ee32b67212f15d0096ba0d541e2c00a23c7f61073"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_0.json",
+          "bytes": 9098076,
+          "sha256": "b81225d840a16e1793508b21e403c862f4c778134d085029056cce0978477aa4"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_1.json",
+          "bytes": 13052732,
+          "sha256": "7e1f091d82da69781d6d0bb19d15a61420ec895dd01555828c5c4f2c95de81e0"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_2.json",
+          "bytes": 11052424,
+          "sha256": "47fac2cc130b07d54f3f04174ac7ad81f49f825b146b1d99954b1cc91cf8cec0"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_3.json",
+          "bytes": 1978141,
+          "sha256": "a932590a162acb9f9c9f46978a926fe5bf2fab49ebdea17f93949f2215af8b74"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_4.json",
+          "bytes": 759426,
+          "sha256": "7bad5f13209ee236777e2c44707c5c8817ac8b6f55148a8b6da4e5ca5f8abd3d"
+        },
+        {
+          "path": "data/urban/infill-detail/-5_5.json",
+          "bytes": 610193,
+          "sha256": "37c79ebf3fef4571a5cc3b62b3bcbfd6723be1a0ab43c2cf10ebd7f5dc57af98"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-1.json",
+          "bytes": 540468,
+          "sha256": "9d8dead42878354a15ef89f2cb7e1ffe124901933b630b8ddf8ef5af25b7d64d"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-2.json",
+          "bytes": 736252,
+          "sha256": "0e4fde59a56d0f95f88ddb2dbe7ac6544e37610cc3594839a1d82f4b4c040cc2"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-3.json",
+          "bytes": 1385884,
+          "sha256": "4f12f98ada2c0abf10e46d44dc5370e969a70e10811aefe5e41e7fa02439ba3b"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-4.json",
+          "bytes": 1184686,
+          "sha256": "edf6a5e8215bbfe4d386eadd8bbb48cd5af50baacf4ac6815cfd926a70adc333"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-5.json",
+          "bytes": 1489929,
+          "sha256": "9175a38cb3e40f9c2826a2b86c312928745b38febb50d47c2701c86fa3eaf0f6"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_-6.json",
+          "bytes": 490731,
+          "sha256": "d3411b1cff2e52a41ff1a36c09917f1203d11dd6397c52f52838634eb3d78207"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_0.json",
+          "bytes": 1502458,
+          "sha256": "9e8e7bbbdebf2d58d70d32663798f6518baaeefbffeec8ff93e6e950218f373a"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_1.json",
+          "bytes": 2306614,
+          "sha256": "b6983e1b1ae8c74b5243e91d7b610bae1dceaa103312e3a28d8d8ef673374e37"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_2.json",
+          "bytes": 1155542,
+          "sha256": "248d7961b1f7384f61ae1d20258915f05d62a46381023623e211d1dc9f5c86b8"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_3.json",
+          "bytes": 934817,
+          "sha256": "57fb02a49d53f9330e3559c68008481a1b71752da7f70b1adefddd7f7038b23c"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_4.json",
+          "bytes": 909248,
+          "sha256": "118fce08b87840612f68767f4de1abd8232f42922a24359d845d8a761b1adfe9"
+        },
+        {
+          "path": "data/urban/infill-detail/-6_5.json",
+          "bytes": 375521,
+          "sha256": "7cd22776296693b03c7d2867a64218ebf8d62c4d44bb972fcf1e34f24089115c"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-1.json",
+          "bytes": 5708609,
+          "sha256": "78542286d43964f6ab73d5e196ed193f77fb208d84d0f74808f0bf6d923547cf"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-2.json",
+          "bytes": 3236305,
+          "sha256": "6c5565ceeaef40072688382a7af6333f89297a9021cf98b7f8b83d6647251a4e"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-3.json",
+          "bytes": 8592092,
+          "sha256": "497aff7e66251b4fe322f25989d29e2ff3ef31ee697fc3581d21623f0082196a"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-4.json",
+          "bytes": 5735725,
+          "sha256": "53b4f9f05baf6ade7b7ae917376cf61e8f14eb0b79b78c7b09e042347d0c1c49"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-5.json",
+          "bytes": 2234480,
+          "sha256": "5aae796a73b2d85d4a07ed8abe8cc5cdd15ff678c5c4ef34e159bef5d1f720b2"
+        },
+        {
+          "path": "data/urban/infill-detail/0_-6.json",
+          "bytes": 269779,
+          "sha256": "17b8c7fe42d70b0e14dbe9f8aa7095ab076f5989cd36940ea91ac747a2e63c6f"
+        },
+        {
+          "path": "data/urban/infill-detail/0_0.json",
+          "bytes": 11644692,
+          "sha256": "5862c5c2600d6e470ecfe1c491b152511ecf94b20e037a4b57f6fe41ce093b6b"
+        },
+        {
+          "path": "data/urban/infill-detail/0_1.json",
+          "bytes": 9730329,
+          "sha256": "4598bee51ed356e6604618c29b0232e81c22b56114b5afd9061889a33dde76a0"
+        },
+        {
+          "path": "data/urban/infill-detail/0_2.json",
+          "bytes": 12724899,
+          "sha256": "f26038362117f8d82aafd16716d1d1d7b2ad3167def97e85ceef23e6293f9651"
+        },
+        {
+          "path": "data/urban/infill-detail/0_3.json",
+          "bytes": 5411536,
+          "sha256": "cc90d00a39d62e6baeb2a7bac30a9a1d91bf5a366d04f9eb9f83026978b949c6"
+        },
+        {
+          "path": "data/urban/infill-detail/0_4.json",
+          "bytes": 1586374,
+          "sha256": "e6c8bfefed4ce7899792e076c9a112867531cb6495f7c9ba28085c9d02a44373"
+        },
+        {
+          "path": "data/urban/infill-detail/0_5.json",
+          "bytes": 960569,
+          "sha256": "2455a51db890517a1116ac26c422b5fe3a1b8ae9c00bdec88138912346719faa"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-1.json",
+          "bytes": 1274212,
+          "sha256": "86232455ea45a3bd12c75bace3aa88efb37c4441cf44dc8aa4a5e9b6eae37b4d"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-2.json",
+          "bytes": 2016429,
+          "sha256": "80c8acade6931ed5068c9666c1f5498473e98c683d914778f0cf4d9b57a698c0"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-3.json",
+          "bytes": 1766767,
+          "sha256": "06b550a6b881754032c6d09a529c3c03bf01abd6829edc44976f7b7bde7e89fc"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-4.json",
+          "bytes": 2709724,
+          "sha256": "df7420e82da3f9b09394d7e54f7be7b86b851c49c1731f639d2f514b3b4a56c1"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-5.json",
+          "bytes": 1558718,
+          "sha256": "26ae993759a7b8225819388eff7dc7945a6a9e9065da39f4aa007a5f503bf133"
+        },
+        {
+          "path": "data/urban/infill-detail/1_-6.json",
+          "bytes": 597314,
+          "sha256": "c2dd106827791a7fa44a8e3bfc587638612096aea864ac7ae1fd6267894be985"
+        },
+        {
+          "path": "data/urban/infill-detail/1_0.json",
+          "bytes": 1559996,
+          "sha256": "6ec63577c179434878dbabf91c935681a01f503f6c65f29d30f8fea3d65a434a"
+        },
+        {
+          "path": "data/urban/infill-detail/1_1.json",
+          "bytes": 1581277,
+          "sha256": "f6777d4b7cb0d8788ba447279439072a3310057cc7b9f8dc55607c4e6ec057fd"
+        },
+        {
+          "path": "data/urban/infill-detail/1_2.json",
+          "bytes": 2061726,
+          "sha256": "6836971d89232d23a58c82085bcad7581c40bcd0491279491e767d052732a881"
+        },
+        {
+          "path": "data/urban/infill-detail/1_3.json",
+          "bytes": 1622881,
+          "sha256": "5ee0d92292ca7ef6cee09a043640e6c042a834351cc516b3d48caecdc4f39b73"
+        },
+        {
+          "path": "data/urban/infill-detail/1_4.json",
+          "bytes": 1337124,
+          "sha256": "639518661492f3318d15aaed43cce5809208d9090a610c47d4a5df707d775bbb"
+        },
+        {
+          "path": "data/urban/infill-detail/1_5.json",
+          "bytes": 537046,
+          "sha256": "b1a80b003f522fe65f81ac8f57000604ad8617948cf4bee0ebf409e2889aeabc"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-1.json",
+          "bytes": 760760,
+          "sha256": "75017616fc816ab2daf61d7777248b1ea3ae2abf6c8ba95926a0ff91e0550aef"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-2.json",
+          "bytes": 838677,
+          "sha256": "93df008e8eb14bab44db949c027945ca122d00c93e8702b23507de6a8d920dbf"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-3.json",
+          "bytes": 848211,
+          "sha256": "f3398664939af20198cd9acec1c4e4f4004796a975da78ec34260775b0d45673"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-4.json",
+          "bytes": 783178,
+          "sha256": "e63229470f49a102b348d970aa7705437f2995fccc7cffefe209dddce90316a6"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-5.json",
+          "bytes": 1104024,
+          "sha256": "350736234cba8d47b7d27358fdc19e2c6c7039f82599f5a4691cb6dab7790c3c"
+        },
+        {
+          "path": "data/urban/infill-detail/2_-6.json",
+          "bytes": 1025848,
+          "sha256": "af9a0c7d7fd0f077277c2b46878ebd95aa5176da35edd62626329225a8bfbc59"
+        },
+        {
+          "path": "data/urban/infill-detail/2_0.json",
+          "bytes": 768223,
+          "sha256": "44c9ddea4fb787e2985508e5c35804df1bfe84e53b16f510481a0c08ffb49cbd"
+        },
+        {
+          "path": "data/urban/infill-detail/2_1.json",
+          "bytes": 1079489,
+          "sha256": "ef1374b9d46a9bdeeea2f3c7d707a1114c78029a7ce8c074f5b4800527fcad2d"
+        },
+        {
+          "path": "data/urban/infill-detail/2_2.json",
+          "bytes": 893328,
+          "sha256": "5c7d0fa1c0c4640ca5838691bf746eb97f3cfc8293677cff30806965af2962f5"
+        },
+        {
+          "path": "data/urban/infill-detail/2_3.json",
+          "bytes": 842177,
+          "sha256": "2d336a98db5778fe0855a998181424a0e8fe893ea41c499a4dd58856e60ba39e"
+        },
+        {
+          "path": "data/urban/infill-detail/2_4.json",
+          "bytes": 840328,
+          "sha256": "8371f164e456050c54afd97a2714901972bd32ffc66cf296a0d954c1264a9dee"
+        },
+        {
+          "path": "data/urban/infill-detail/2_5.json",
+          "bytes": 787110,
+          "sha256": "22edc8cb131591eb5b74818c53d4698406c998d0ef8a0fdf25f6485ca30404e3"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-1.json",
+          "bytes": 518114,
+          "sha256": "77b53f23ee54667e012ae87d8794586738dfe9bf2d935783dbfc196db6422d62"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-2.json",
+          "bytes": 627339,
+          "sha256": "948859d8efa1f00f25959a17ae640f8b40f822277a99c8e100007f8ada92921b"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-3.json",
+          "bytes": 804116,
+          "sha256": "7f2d0f6f6efec1128e08f59b72a69a040e1007d22cb573391c20d18d74cc35c3"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-4.json",
+          "bytes": 797599,
+          "sha256": "cb3935b6e9081668c52810acd9375409c1846dca0b08e4a73ce3c9e1c2c96505"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-5.json",
+          "bytes": 909775,
+          "sha256": "ec945accf85ea41367c54f6bdca4ca0b95b0265a7aa1d14b1d87acfbf3fc7c78"
+        },
+        {
+          "path": "data/urban/infill-detail/3_-6.json",
+          "bytes": 448583,
+          "sha256": "f19af3d5e7a5874ed1d3e214bacbd91f9b6a5541e6205ad6b5e5999c1ded502c"
+        },
+        {
+          "path": "data/urban/infill-detail/3_0.json",
+          "bytes": 861236,
+          "sha256": "da25fc61fd0d1678158d3fb1c332b9ba25dbc977b43c9fdaa6d97e8ee91557ee"
+        },
+        {
+          "path": "data/urban/infill-detail/3_1.json",
+          "bytes": 880044,
+          "sha256": "676e8edd379820c4337495019a721ed6f8c5f72fb5d740c4c4642872e7ed694b"
+        },
+        {
+          "path": "data/urban/infill-detail/3_2.json",
+          "bytes": 752728,
+          "sha256": "2fb1114c1a70afff19bc284df8c19aa422475add55794bf102c8ac289e89c2e4"
+        },
+        {
+          "path": "data/urban/infill-detail/3_3.json",
+          "bytes": 598580,
+          "sha256": "6444958afd1e4ab67dc9e04b397898c1edf46bc9e391a553d70001ea8a3516a2"
+        },
+        {
+          "path": "data/urban/infill-detail/3_4.json",
+          "bytes": 901487,
+          "sha256": "b485fa104c06abfaceec8e7aa39bd318e2bb3d71dd3fcc305528fc9177b62e01"
+        },
+        {
+          "path": "data/urban/infill-detail/3_5.json",
+          "bytes": 540707,
+          "sha256": "e09ff20e4df5eda011d6d95ca528df9d1a870240f6456f5dbf96dd7d6707c78c"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-1.json",
+          "bytes": 643160,
+          "sha256": "5a98e072be5e3ec9d7026fbedd5e13c032ac12c2375c9923d81ca79643cef71d"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-2.json",
+          "bytes": 964927,
+          "sha256": "7574bb8c523791eb155067e6119161076e5d600e35bab0adb5c2a0a4e193f9e2"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-3.json",
+          "bytes": 713297,
+          "sha256": "a585bbe360f0754e32754cdde354a139506a39ec643d956b7a7ec8934f842183"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-4.json",
+          "bytes": 1043377,
+          "sha256": "6419d854dc724ce9fcb4efa93bf4d28ae6f4193c4238340aee5742a8cdb09e46"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-5.json",
+          "bytes": 918903,
+          "sha256": "136a6cf9fe984e7ed8e9db588f2e520b228f75fdc1452d9a3ae410402d33d743"
+        },
+        {
+          "path": "data/urban/infill-detail/4_-6.json",
+          "bytes": 638925,
+          "sha256": "eb14ef804e64b9dde9a69e6228aa9420f0040eaacc00a8fe6b303bd48ee7fa66"
+        },
+        {
+          "path": "data/urban/infill-detail/4_0.json",
+          "bytes": 870773,
+          "sha256": "fea2edeeba56d7c99eae697e18d498801626c54acac79d0f9212d6b60d8c73af"
+        },
+        {
+          "path": "data/urban/infill-detail/4_1.json",
+          "bytes": 640245,
+          "sha256": "5c70c208947780c487dbb6a484fb105b159c4acfd4f30f7202d3687706f2669a"
+        },
+        {
+          "path": "data/urban/infill-detail/4_2.json",
+          "bytes": 588849,
+          "sha256": "a20190cdab7777130beeb36679f568c3627a16d9feff34685aef0d865017bd33"
+        },
+        {
+          "path": "data/urban/infill-detail/4_3.json",
+          "bytes": 675976,
+          "sha256": "59138d1dc405f14a0e937e8b64d76fb5986ecd2a7a4978723e78a7c3d1011bcc"
+        },
+        {
+          "path": "data/urban/infill-detail/4_4.json",
+          "bytes": 2022204,
+          "sha256": "07baa0d7db2d0d9f0262a4bfa4bcfd1a973adae915d1607c94c20e838a43023e"
+        },
+        {
+          "path": "data/urban/infill-detail/4_5.json",
+          "bytes": 551262,
+          "sha256": "111a79dc7711fd322de483879f8cb7dea4af29b836ee4d08a1f7cff8dfbda2e5"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-1.json",
+          "bytes": 992441,
+          "sha256": "c676fd16eaa7c55da51a74c3217ca6a0508c4d12ca2239d6d6b86c50b4cf34a2"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-2.json",
+          "bytes": 1116419,
+          "sha256": "7d83eee53e48c56e2533f4cc6e47162cb8d1daa130fe89e87b5d481491f9503e"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-3.json",
+          "bytes": 864921,
+          "sha256": "ac360f6e1eb29ed065e417f0fe471c720a14e77b4ef1c3a423456a827572dc6a"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-4.json",
+          "bytes": 1029972,
+          "sha256": "a79f76e9dc3aaf668a84c7f47b090fc6697b69ed9abcbfa590d791e6cc37a988"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-5.json",
+          "bytes": 462532,
+          "sha256": "4a83b9b38a832447d2f6812bea2e080f2c215ec8ee95eabf939315091f640e1a"
+        },
+        {
+          "path": "data/urban/infill-detail/5_-6.json",
+          "bytes": 326107,
+          "sha256": "1d428d7def0c4d7fc8bfd4cc758139139104641cb4e7d70adb6126bebbb2cf01"
+        },
+        {
+          "path": "data/urban/infill-detail/5_0.json",
+          "bytes": 925629,
+          "sha256": "f81077e1e8155f2bcd71fe221e5bbf6d98b4e44eae5b43ae63ecda155b3ce87a"
+        },
+        {
+          "path": "data/urban/infill-detail/5_1.json",
+          "bytes": 641310,
+          "sha256": "b437a9ad3be9914c34792de57a6015a54c94747d08b6befbe90ff31e51e5f27b"
+        },
+        {
+          "path": "data/urban/infill-detail/5_2.json",
+          "bytes": 511935,
+          "sha256": "135c997dcf96a663abafb85c789b51dc6d66d9ab2e9027a4b57e3f4c179d5e4f"
+        },
+        {
+          "path": "data/urban/infill-detail/5_3.json",
+          "bytes": 228175,
+          "sha256": "e014459b024b54e403f2aee5a7c9552b44635cee1b59797e4754dee4d03926f0"
+        },
+        {
+          "path": "data/urban/infill-detail/5_4.json",
+          "bytes": 748831,
+          "sha256": "66499220e3bb4a695bf79684847306898dd2ea007efc975937589f1416beb2b0"
+        },
+        {
+          "path": "data/urban/infill-detail/5_5.json",
+          "bytes": 619697,
+          "sha256": "8e57345dbf248c6014b2dd79dcc80d76b64d02b6fea172dd61b96cdb43789874"
+        },
+        {
+          "path": "data/urban/infill-detail/index.json",
+          "bytes": 62236,
+          "sha256": "269960fa826ef91c6917ba93ffdcc8f4f7480da8f6acf9b597366f562c60847a"
+        },
+        {
+          "path": "data/urban/overture-fill-records.json",
+          "bytes": 109788338,
+          "sha256": "134b095b12615c89255e99ed6ede578bf038045c8d636bb2c6c6bbbe19f5fdfd"
+        },
+        {
+          "path": "data/urban/records.json",
+          "bytes": 52523077,
+          "sha256": "5147d3257a0eb824a3689eba68b4668d28a845ea4fb41c564629764ee51a6aca"
+        },
+        {
+          "path": "data/urban-ground/geometry.json",
+          "bytes": 85550083,
+          "sha256": "4cf484b9259abee57efd7b9cbdd519682bcb945d20b871dbbf9b60b79c2cfd88"
+        }
+      ]
+    }
+  ]
+}

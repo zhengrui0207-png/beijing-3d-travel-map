@@ -1,0 +1,27 @@
+{
+  "url": "public/assets/urban-fill/buildings.glb",
+  "landscape": "public/assets/urban-fill/landscape.json",
+  "revision": "a37da36ae64b",
+  "stats": {
+    "small": 1604,
+    "accepted": 76138,
+    "estimatedHeight": 76138,
+    "flatUnspecified": 28405,
+    "existingSourceSkipped": 25894,
+    "edgeClipped": 471,
+    "roadEdgeClipped": 1733,
+    "roadOverlap": 54,
+    "sliver": 271,
+    "inferredGable": 47733,
+    "waterOverlap": 166,
+    "existingGeometryOverlap": 19,
+    "protectedLandmark": 193,
+    "decorativeTreesRemoved": 7801
+  },
+  "source": "Overture Maps 2026-09-23.1 / Qian Shi et al., East Asian buildings (2023), DOI 10.5281/zenodo.8174931; heights and gable forms inferred where absent",
+  "license": "ODbL 1.0 (Overture theme); East Asian Buildings CC BY 4.0",
+  "meshes": 72,
+  "bytes": 16160788,
+  "triangles": 1158992,
+  "groundHeight": 0.011
+}

@@ -1,0 +1,10 @@
+{
+  "buildings": 76142,
+  "meshes": 72,
+  "triangles": 1159056,
+  "bytes": 16161712,
+  "minHeight": 0.011,
+  "maxHeight": 0.107,
+  "decorativeTreesRemoved": 7801,
+  "valid": true
+}

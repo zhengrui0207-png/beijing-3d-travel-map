@@ -1,0 +1,2579 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "jingshan",
+      "name": "景山公园",
+      "subject": "万春亭",
+      "methodLabel": "实景照片生成",
+      "x": -20.912815297238968,
+      "y": 9.474845951999963,
+      "span": 0.3199999928474426,
+      "height": 0.23860102891921997,
+      "rotation": -90,
+      "anchorOsmId": 26390235,
+      "bounds": [
+        -21.123754940621993,
+        9.254845955576242,
+        -20.701875653855943,
+        9.694845948423685
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/jingshan/preview.glb",
+        "detail": "public/assets/route-landmarks/jingshan/detail.glb"
+      },
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wanchun_Pavilion,_Jingshan_Park,_Beijing_-_November_2016_-_113.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "beihai",
+      "name": "北海公园",
+      "subject": "白塔",
+      "methodLabel": "照片模型与细部重建",
+      "x": -27.32041668157381,
+      "y": 10.487661286663421,
+      "span": 0.23,
+      "height": 0.359,
+      "rotation": -90,
+      "anchorOsmId": 561193504,
+      "bounds": [
+        -27.563190824792805,
+        10.22493255890549,
+        -27.077642538354816,
+        10.750390014421352
+      ],
+      "lods": {
+        "preview": "public/assets/beihai-detail/preview.glb?v=eaefd8bfd324",
+        "detail": "public/assets/beihai-detail/detail.glb?v=71df6e49630b"
+      },
+      "author": "User:Ningling",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Dagoba-im-Beihai-Park-Peking.jpg",
+      "method": "下部塔身及眼光门保留原照片参考模型，重新校正塔轴和水平比例；上部十三重相轮、双层铜华盖、十六只风铃、牵杆及日月火焰塔刹在 Blender 中重建。总高参考官方资料 35.9 米，未公布的构件尺寸为估计；原照片不可见部分仍含模型推断。",
+      "groundHeight": 0.011,
+      "detailView": {
+        "label": "走近相轮与铜铃",
+        "height": 0.29,
+        "span": 0.2,
+        "offset": [
+          35,
+          80,
+          160
+        ]
+      },
+      "contextView": {
+        "label": "白塔与永安寺建筑群",
+        "x": -27.326,
+        "y": 9.85,
+        "height": 0.1,
+        "span": 1.85,
+        "offset": [
+          30,
+          100,
+          170
+        ]
+      },
+      "additionalViews": {
+        "temples": {
+          "label": "走近永安寺殿堂",
+          "x": -27.325,
+          "y": 9.93,
+          "height": 0.045,
+          "span": 0.5,
+          "offset": [
+            22,
+            80,
+            170
+          ]
+        },
+        "stairs": {
+          "label": "沿台阶登白塔",
+          "x": -27.31,
+          "y": 10.18,
+          "height": 0.045,
+          "span": 0.64,
+          "offset": [
+            45,
+            105,
+            170
+          ]
+        },
+        "yuexin": {
+          "label": "走近悦心殿",
+          "x": -27.93177,
+          "y": 9.89,
+          "height": 0.04,
+          "span": 0.32,
+          "offset": [
+            45,
+            80,
+            170
+          ],
+          "methodLabel": "依据建筑资料重建",
+          "zoomLimit": 320
+        },
+        "qingxiao": {
+          "label": "走近庆霄楼",
+          "x": -27.93263,
+          "y": 10.19323,
+          "height": 0.07,
+          "span": 0.34,
+          "zoomLimit": 320,
+          "offset": [
+            55,
+            90,
+            170
+          ],
+          "methodLabel": "依据建筑资料重建"
+        }
+      }
+    },
+    {
+      "id": "gongwang",
+      "name": "恭王府",
+      "subject": "入口建筑",
+      "methodLabel": "实景照片生成",
+      "x": -29.879726392064455,
+      "y": 22.82796799249782,
+      "span": 0.41999998688697815,
+      "height": 0.26895618438720703,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -30.11713642838991,
+        22.55796799905433,
+        -29.642316355739002,
+        23.097967985941306
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/gongwang/preview.glb",
+        "detail": "public/assets/route-landmarks/gongwang/detail.glb"
+      },
+      "author": "User zh:User:用心阁 on zh.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Gongwangfu.JPG",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "yonghe",
+      "name": "雍和宫",
+      "subject": "万福阁",
+      "methodLabel": "实景照片生成",
+      "x": -3.465186217436968,
+      "y": 36.01192104888971,
+      "span": 0.6808422207832336,
+      "height": 0.29999998211860657,
+      "rotation": -90,
+      "anchorOsmId": 177053588,
+      "bounds": [
+        -3.8398151165344108,
+        35.61149993849809,
+        -3.0905573183395254,
+        36.41234215928133
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/yonghe/preview.glb",
+        "detail": "public/assets/route-landmarks/yonghe/detail.glb"
+      },
+      "author": "A_Peach @ Flickr",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lama_Temple,_front_view_of_the_main_hall.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "guozijian",
+      "name": "国子监",
+      "subject": "辟雍",
+      "methodLabel": "实景照片生成",
+      "x": -6.852291427782166,
+      "y": 33.95046265600109,
+      "span": 0.36000001430511475,
+      "height": 0.16454698145389557,
+      "rotation": -90,
+      "anchorOsmId": 227782231,
+      "bounds": [
+        -7.092291434934723,
+        33.7318869423666,
+        -6.612291420629609,
+        34.16903836963559
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/guozijian/preview.glb",
+        "detail": "public/assets/route-landmarks/guozijian/detail.glb"
+      },
+      "author": "Peiyu Liu",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Guozijian_building_1.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "wudaoying",
+      "name": "五道营胡同",
+      "subject": "代表性胡同街景",
+      "methodLabel": "实景照片生成",
+      "x": -7.8819799651353035,
+      "y": 35.680314229998565,
+      "span": 1.100000023841858,
+      "height": 0.5211093425750732,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -8.255902757808416,
+        35.070314218077634,
+        -7.508057172462193,
+        36.290314241919496
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/wudaoying/preview.glb",
+        "detail": "public/assets/route-landmarks/wudaoying/detail.glb"
+      },
+      "author": "Andrzej Otrębski",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beijing_hutong_Wudaoying_1.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "bell",
+      "name": "钟楼",
+      "subject": "钟楼主体",
+      "methodLabel": "实景照片生成",
+      "x": -21.671245763611687,
+      "y": 28.999416599996266,
+      "span": 0.6797091364860535,
+      "height": 0.46000000834465027,
+      "rotation": -90,
+      "anchorOsmId": 425993664,
+      "bounds": [
+        -22.071100331854712,
+        28.629783583409964,
+        -21.27139119536866,
+        29.36904961658257
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/bell/preview.glb",
+        "detail": "public/assets/route-landmarks/bell/detail.glb"
+      },
+      "author": "Roman Boed from The Netherlands",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhonglou_(Bell_Tower),_Beijing;_March_2017.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "drum",
+      "name": "鼓楼",
+      "subject": "鼓楼主体",
+      "methodLabel": "实景照片生成",
+      "x": -21.592248321716184,
+      "y": 27.07036468889368,
+      "span": 0.6643614768981934,
+      "height": 0.4599999785423279,
+      "rotation": -90,
+      "anchorOsmId": 267371087,
+      "bounds": [
+        -21.98442906016528,
+        26.756311066409474,
+        -21.20006758326709,
+        27.384418311377885
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/drum/preview.glb",
+        "detail": "public/assets/route-landmarks/drum/detail.glb"
+      },
+      "author": "Gisling",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beijing_drum_tower.JPG",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "yandai",
+      "name": "烟袋斜街",
+      "subject": "代表性街巷",
+      "methodLabel": "实景照片生成",
+      "x": -22.249927877436697,
+      "y": 25.382122675560964,
+      "span": 0.949999988079071,
+      "height": 0.46672698855400085,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -22.663874742041646,
+        24.84712268152143,
+        -21.83598101283175,
+        25.9171226696005
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/yandai/preview.glb",
+        "detail": "public/assets/route-landmarks/yandai/detail.glb"
+      },
+      "author": "EditQ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yandai_Xiejie_4.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "shichahai",
+      "name": "什刹海",
+      "subject": "银锭桥",
+      "methodLabel": "实景参考重建",
+      "x": -23.75441788859741,
+      "y": 25.174183100004143,
+      "span": 0.132692303312128,
+      "height": 0.040059562772512436,
+      "rotation": -26.688184259259224,
+      "anchorOsmId": 816148132,
+      "bounds": [
+        -23.818040760172373,
+        25.096410050962323,
+        -23.690795017022445,
+        25.251956149045963
+      ],
+      "lods": {
+        "preview": "public/assets/yinding-detail/preview.glb?v=532a4b60bc05",
+        "detail": "public/assets/yinding-detail/detail.glb?v=e1afb6a2dbdd"
+      },
+      "author": "PQ77wd",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Yinding_Bridge.jpg",
+      "method": "依据 OSM 银锭桥轴线与实景照片在 Blender 中重建单孔石拱、石块接缝、桥面铺石、望柱、镂空栏板和桥名。水平长度约 13.27 米来自 OSM 轴线；桥宽、竖向尺寸、雕花及照片不可见部分为视觉推定，并非测绘复原。",
+      "groundHeight": 0.011,
+      "roadReplacement": {
+        "axis": [
+          0.4491347548173326,
+          0.8934640295026848
+        ],
+        "halfLength": 0.064346151656064,
+        "halfWidth": 0.045
+      },
+      "detailView": {
+        "label": "走近石拱与栏板",
+        "height": 0.024,
+        "span": 0.13,
+        "offset": [
+          120,
+          60,
+          80
+        ]
+      }
+    },
+    {
+      "id": "ditan",
+      "name": "地坛公园",
+      "subject": "南门",
+      "methodLabel": "实景照片生成",
+      "x": -5.259949966661808,
+      "y": 43.02860308999905,
+      "span": 0.47999998927116394,
+      "height": 0.32776087522506714,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -5.55994996129739,
+        42.81549307758698,
+        -4.959949972026227,
+        43.241713102411126
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/ditan/preview.glb",
+        "detail": "public/assets/route-landmarks/ditan/detail.glb"
+      },
+      "author": "Potatohai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:South_Gate,_Temple_of_Earth.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "zhongshan",
+      "name": "中山公园",
+      "subject": "社稷坛建筑",
+      "methodLabel": "实景照片生成",
+      "x": -22.528996003402394,
+      "y": -6.344858617681115,
+      "span": 0.4000000059604645,
+      "height": 0.15383879840373993,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -22.788996006382625,
+        -6.56742377449855,
+        -22.268996000422163,
+        -6.122293460863679
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/zhongshan/preview.glb",
+        "detail": "public/assets/route-landmarks/zhongshan/detail.glb"
+      },
+      "author": "No machine-readable author provided. Yongxinge assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Beijing_Shejitan_2.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "national",
+      "name": "中国国家博物馆",
+      "subject": "主立面与建筑体量",
+      "methodLabel": "实景照片生成",
+      "x": -16.51225561397538,
+      "y": -12.568335799798549,
+      "span": 3.0999999046325684,
+      "height": 0.8332487940788269,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -18.122255566291663,
+        -14.037241067514003,
+        -14.902255661659096,
+        -11.099430532083094
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/national/preview.glb",
+        "detail": "public/assets/route-landmarks/national/detail.glb"
+      },
+      "author": "Erin van V",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_China_building_wide.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "wangfujing",
+      "name": "王府井大街",
+      "subject": "钟楼与沿街建筑示意",
+      "methodLabel": "照片参考建模",
+      "x": -8.55314183315806,
+      "y": -2.1317223399997203,
+      "span": 0.9000000357627869,
+      "height": 0.3985714614391327,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        -9.063141851039454,
+        -2.4527223473906963,
+        -8.043141815276666,
+        -1.8107223028064219
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/wangfujing/preview.glb",
+        "detail": "public/assets/route-landmarks/wangfujing/detail.glb"
+      },
+      "author": "TurnOnTheNight",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wangfujing_Street_from_Oriental_Plaza_20251002155933.jpg",
+      "method": "根据实景照片在 Blender 中制作钟楼与沿街建筑示意；Tripo 结果仅提取到护栏，未采用该结果。"
+    },
+    {
+      "id": "guomao",
+      "name": "国贸·中国尊",
+      "subject": "中国尊塔楼",
+      "methodLabel": "实景照片生成",
+      "x": 38.54248286801077,
+      "y": -3.818520904006223,
+      "span": 1.0407292246818542,
+      "height": 5.279999732971191,
+      "rotation": -90,
+      "anchorOsmId": 599547918,
+      "bounds": [
+        38.03696294384695,
+        -4.398885605754117,
+        39.04800279217459,
+        -3.238156381072263
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/guomao/preview.glb",
+        "detail": "public/assets/route-landmarks/guomao/detail.glb"
+      },
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:China_Zun_in_2020.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "cctv",
+      "name": "央视大楼",
+      "subject": "央视总部大楼",
+      "methodLabel": "实景照片生成",
+      "x": 36.68295211631782,
+      "y": -1.3234732989213172,
+      "span": 3.2301909923553467,
+      "height": 2.3399999141693115,
+      "rotation": -90,
+      "anchorOsmId": null,
+      "bounds": [
+        35.66054816324241,
+        -2.9985687950989903,
+        37.70535606939323,
+        0.3516221972563562
+      ],
+      "lods": {
+        "preview": "public/assets/route-landmarks/cctv/preview.glb",
+        "detail": "public/assets/route-landmarks/cctv/detail.glb"
+      },
+      "author": "Yeti-Hunter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:China_Central_Television_Headquarters_1.jpg",
+      "method": "实景照片经 Tripo v3.1 生成网格和纹理，经 Blender 缩放、轻量化与渲染；照片不可见的部分由模型推断。"
+    },
+    {
+      "id": "tiantan",
+      "name": "天坛",
+      "subject": "祈年殿",
+      "methodLabel": "实景参考重建",
+      "x": -7.15260097299764,
+      "y": -36.45607040324756,
+      "span": 0.963,
+      "height": 0.381,
+      "rotation": 0,
+      "anchorOsmId": 43921139,
+      "bounds": [
+        -7.6426009729976405,
+        -36.94607040324756,
+        -6.66260097299764,
+        -35.966070403247556
+      ],
+      "lods": {
+        "preview": "public/assets/tiantan-detail/preview.glb?v=275906880eb1",
+        "detail": "public/assets/tiantan-detail/detail.glb?v=275906880eb1"
+      },
+      "author": "实景参考照片：xiquinhosilva；建筑重建：本项目",
+      "license": "参考照片 CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests.jpg",
+      "method": "根据实景照片与公开建筑尺寸在 Blender 中重建三重曲面屋顶、瓦垄、彩绘柱梁、门窗和石台栏杆。整体高 38.1 米、下层屋顶直径 32.72 米；其余构件比例为照片估计，彩绘使用生成材质，非测绘复原。",
+      "viewOffset": [
+        35,
+        75,
+        160
+      ],
+      "detailView": {
+        "height": 0.245,
+        "span": 0.45,
+        "offset": [
+          15,
+          38,
+          160
+        ]
+      },
+      "groundHeight": 0.011,
+      "contextView": {
+        "label": "祈谷坛建筑群",
+        "x": -7.13,
+        "y": -36.9,
+        "height": 0.1,
+        "span": 1.8,
+        "offset": [
+          25,
+          150,
+          160
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "tiantan-corridor",
+          "label": "查看七十二长廊"
+        },
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "chengzhen",
+          "label": "查看成贞门"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ]
+    },
+    {
+      "id": "tiananmen",
+      "name": "天安门",
+      "subject": "天安门城楼",
+      "methodLabel": "实景参考重建",
+      "x": -20.26604445129356,
+      "y": -8.529495712601989,
+      "span": 1.21,
+      "height": 0.347,
+      "rotation": 1.8331996645025572,
+      "anchorOsmId": 8847697,
+      "bounds": [
+        -20.866732199351414,
+        -8.746623759997119,
+        -19.664419957347683,
+        -8.310828519996116
+      ],
+      "groundHeight": 0.011,
+      "viewOffset": [
+        25,
+        55,
+        160
+      ],
+      "detailView": {
+        "label": "走近城楼与瓦顶",
+        "height": 0.21,
+        "span": 0.8,
+        "offset": [
+          20,
+          34,
+          160
+        ]
+      },
+      "additionalViews": {
+        "portals": {
+          "label": "看门洞与石栏",
+          "height": 0.08,
+          "span": 0.9,
+          "offset": [
+            8,
+            10,
+            160
+          ]
+        }
+      },
+      "author": "实景照片：Daniel Case；建筑重建：本项目",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Tiananmen_gate_from_north_end_of_Tiananmen_Square.jpg",
+      "method": "以 OSM 城台轮廓和实景照片在 Blender 中重建五个拱门、九开间柱廊、双层歇山屋顶、瓦垄、脊饰、门窗与石栏。总高按公开资料设置为 34.7 米；构件尺寸与背面细节为推定，彩绘为生成材质，文字为重新排印，并非测绘模型。肖像和国徽使用署名照片的局部 UV 贴图。",
+      "lods": {
+        "preview": "public/assets/tiananmen-detail/preview.glb?v=9709189a1529",
+        "detail": "public/assets/tiananmen-detail/detail.glb?v=88236ad3cb6e"
+      },
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "向北看端门"
+        }
+      ]
+    },
+    {
+      "id": "duanmen",
+      "name": "端门",
+      "subject": "端门城楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -20.337030231671818,
+      "y": -6.67671844474015,
+      "span": 1.21,
+      "height": 0.35,
+      "rotation": 1.8333339793621217,
+      "anchorOsmId": 25097188,
+      "bounds": [
+        -20.93657477979794,
+        -6.894926879999116,
+        -19.73750705863548,
+        -6.4584637199982184
+      ],
+      "groundHeight": 0.011,
+      "viewOffset": [
+        25,
+        55,
+        160
+      ],
+      "detailView": {
+        "label": "走近柱廊与瓦顶",
+        "height": 0.24,
+        "span": 0.75,
+        "offset": [
+          0.18,
+          0.28,
+          1.6
+        ]
+      },
+      "additionalViews": {
+        "portals": {
+          "label": "看五个券门",
+          "height": 0.08,
+          "span": 0.86,
+          "offset": [
+            0.08,
+            0.16,
+            1.6
+          ]
+        }
+      },
+      "relatedModels": [
+        {
+          "id": "tiananmen",
+          "label": "向南看天安门"
+        },
+        {
+          "id": "axis-nw",
+          "label": "查看朝房细节"
+        },
+        {
+          "id": "wumen",
+          "label": "查看午门五凤楼"
+        }
+      ],
+      "author": "实景照片：そらみみ；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Duanmen_Gate_of_the_Forbidden_City.jpg",
+      "method": "以 OSM 轮廓和分块高度、实景照片重建城台、五券门、九开间柱廊、重檐歇山顶、瓦垄、脊饰与石栏。高度约 35 米来自 OSM，中央券门采用公开报道的 5.52 × 8.82 米；其余细部、门扇开合和色彩为推定，彩绘为生成装饰，匾额为重新排字，并非实景扫描或文物测绘。",
+      "lods": {
+        "preview": "public/assets/duanmen-detail/preview.glb?v=e6c51e005883",
+        "detail": "public/assets/duanmen-detail/detail.glb?v=f6f929d27cf6"
+      },
+      "contextView": {
+        "label": "中轴朝房建筑群",
+        "x": -20.44,
+        "y": -6.0,
+        "height": 0.08,
+        "span": 4.7,
+        "offset": [
+          15,
+          165,
+          110
+        ]
+      }
+    },
+    {
+      "id": "axis-sw",
+      "name": "天安门至端门西朝房",
+      "subject": "灰瓦朝房与琉璃瓦门楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -20.906283140739852,
+      "y": -7.554476837709437,
+      "rotation": 91.64906181412373,
+      "bounds": [
+        -20.99521934150947,
+        -8.215063239995127,
+        -20.81017568870813,
+        -6.893843759999422
+      ],
+      "span": 1.3395312944743574,
+      "height": 0.13,
+      "groundHeight": 0.011,
+      "viewOffset": [
+        85,
+        80,
+        130
+      ],
+      "sourceParts": [
+        637959181,
+        637959182,
+        637959183,
+        637959184,
+        637959185,
+        637959186
+      ],
+      "anchorOsmId": 637953173,
+      "author": "照片参考：Gagaboys；建筑重建：本项目",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:午门俯瞰.jpg",
+      "method": "沿 OSM 朝房轮廓与门楼位置，在 Blender 中重建连续灰瓦屋面、红柱、木格门窗及黄色琉璃瓦门楼；高度采用 OSM，柱距、瓦片、窗格和脊饰推定。实景参考 Gagaboys 俯瞰照片及北京中轴线遗产保护中心建筑资料；未使用照片像素作贴图。",
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "查看端门城楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/axis-courts/axis-sw-preview.glb?v=3e7cc13ad2a5",
+        "detail": "public/assets/axis-courts/axis-sw-detail.glb?v=fb7a609e8d3b"
+      },
+      "detailView": {
+        "label": "走近朝房与门楼",
+        "x": -20.906027418084815,
+        "y": -7.563860040000418,
+        "height": 0.055,
+        "span": 0.48,
+        "offset": [
+          1,
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "id": "axis-se",
+      "name": "天安门至端门东朝房",
+      "subject": "灰瓦朝房与琉璃瓦门楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -19.746068522471585,
+      "y": -7.508088720001226,
+      "rotation": 92.06610318968733,
+      "bounds": [
+        -19.824886517386098,
+        -8.159959839999784,
+        -19.659309989680917,
+        -6.856217600002665
+      ],
+      "span": 1.3212762099868172,
+      "height": 0.13,
+      "groundHeight": 0.011,
+      "viewOffset": [
+        85,
+        80,
+        130
+      ],
+      "sourceParts": [
+        637959189,
+        637959190,
+        637959192,
+        637959199,
+        637959200,
+        637959201
+      ],
+      "anchorOsmId": 637953172,
+      "author": "照片参考：Gagaboys；建筑重建：本项目",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:午门俯瞰.jpg",
+      "method": "沿 OSM 朝房轮廓与门楼位置，在 Blender 中重建连续灰瓦屋面、红柱、木格门窗及黄色琉璃瓦门楼；高度采用 OSM，柱距、瓦片、窗格和脊饰推定。实景参考 Gagaboys 俯瞰照片及北京中轴线遗产保护中心建筑资料；未使用照片像素作贴图。",
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "查看端门城楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/axis-courts/axis-se-preview.glb?v=f55b5a13e13e",
+        "detail": "public/assets/axis-courts/axis-se-detail.glb?v=336d52fb6d29"
+      },
+      "detailView": {
+        "label": "走近朝房与门楼",
+        "x": -19.745813053113608,
+        "y": -7.515250093419572,
+        "height": 0.055,
+        "span": 0.48,
+        "offset": [
+          -1,
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "id": "axis-nw",
+      "name": "端门至午门西朝房",
+      "subject": "灰瓦朝房与琉璃瓦门楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -21.017393702112564,
+      "y": -5.076630765240872,
+      "rotation": 91.98385143705794,
+      "bounds": [
+        -21.136782909209195,
+        -6.365258799995511,
+        -20.903669118513623,
+        -3.7883497199983025
+      ],
+      "span": 2.5952123339842688,
+      "height": 0.13,
+      "groundHeight": 0.011,
+      "viewOffset": [
+        85,
+        80,
+        130
+      ],
+      "sourceParts": [
+        638170112,
+        638170113,
+        638170114,
+        638170116,
+        638170117,
+        638170118,
+        638170119,
+        638170120,
+        638170122,
+        638170123,
+        638170157
+      ],
+      "anchorOsmId": 638170121,
+      "author": "照片参考：Gagaboys；建筑重建：本项目",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:午门俯瞰.jpg",
+      "method": "沿 OSM 朝房轮廓与门楼位置，在 Blender 中重建连续灰瓦屋面、红柱、木格门窗及黄色琉璃瓦门楼；高度采用 OSM，柱距、瓦片、窗格和脊饰推定。实景参考 Gagaboys 俯瞰照片及北京中轴线遗产保护中心建筑资料；未使用照片像素作贴图。",
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "查看端门城楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/axis-courts/axis-nw-preview.glb?v=9107e8306eb1",
+        "detail": "public/assets/axis-courts/axis-nw-detail.glb?v=15aa55b4902a"
+      },
+      "detailView": {
+        "label": "走近朝房与门楼",
+        "x": -20.983854516251792,
+        "y": -6.04541803342403,
+        "height": 0.055,
+        "span": 0.48,
+        "offset": [
+          1,
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "id": "axis-ne",
+      "name": "端门至午门东朝房",
+      "subject": "灰瓦朝房与琉璃瓦门楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -19.838281220365086,
+      "y": -5.03483662000082,
+      "rotation": 91.81721238432176,
+      "bounds": [
+        -19.954325822946867,
+        -6.323068520000786,
+        -19.72428578884734,
+        -3.7466047200008714
+      ],
+      "span": 2.5952151400272845,
+      "height": 0.13,
+      "groundHeight": 0.011,
+      "viewOffset": [
+        85,
+        80,
+        130
+      ],
+      "sourceParts": [
+        638170125,
+        638170126,
+        638170127,
+        638170128,
+        638170129,
+        638170130,
+        638170136,
+        638170147,
+        638170150,
+        638170156,
+        638170158,
+        902495219
+      ],
+      "anchorOsmId": 638170124,
+      "author": "照片参考：Gagaboys；建筑重建：本项目",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:午门俯瞰.jpg",
+      "method": "沿 OSM 朝房轮廓与门楼位置，在 Blender 中重建连续灰瓦屋面、红柱、木格门窗及黄色琉璃瓦门楼；高度采用 OSM，柱距、瓦片、窗格和脊饰推定。实景参考 Gagaboys 俯瞰照片及北京中轴线遗产保护中心建筑资料；未使用照片像素作贴图。",
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "查看端门城楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/axis-courts/axis-ne-preview.glb?v=05e3cb367781",
+        "detail": "public/assets/axis-courts/axis-ne-detail.glb?v=c76586ce4291"
+      },
+      "detailView": {
+        "label": "走近朝房与门楼",
+        "x": -19.869810895720146,
+        "y": -4.041972936524503,
+        "height": 0.055,
+        "span": 0.48,
+        "offset": [
+          -1,
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "id": "wumen",
+      "name": "午门",
+      "subject": "五凤楼与雁翅楼",
+      "parentPlace": "forbidden",
+      "methodLabel": "实景参考重建",
+      "x": -20.508061049170863,
+      "y": -2.8057192519436147,
+      "rotation": 1.5612597391872731,
+      "bounds": [
+        -21.46880674928776,
+        -3.786057519997539,
+        -19.514529155605437,
+        -2.627087680002109
+      ],
+      "span": 1.95,
+      "height": 0.357,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        75,
+        90,
+        145
+      ],
+      "palaceReplacement": true,
+      "sourceParts": [
+        638156379,
+        638156391,
+        638156402,
+        638156417,
+        638156431,
+        638156444,
+        638156455,
+        638156470,
+        638156484,
+        638156495,
+        638156505,
+        638156517,
+        638156530,
+        638156542,
+        638156553,
+        638156565,
+        638156579,
+        638156594,
+        638156605,
+        638156617,
+        638156629,
+        638156643,
+        638156655,
+        638156665,
+        638156677,
+        638156683,
+        638156686,
+        638156700,
+        638156717,
+        638156736,
+        638156753,
+        638156765,
+        638156786,
+        638156804,
+        638156817,
+        638156830,
+        638156846,
+        638156871,
+        638156886,
+        638156898,
+        638156914,
+        638156932,
+        638156955,
+        638156970,
+        638156983,
+        638156994,
+        638206921,
+        638206922,
+        638206923,
+        638206924,
+        638206925,
+        638206928,
+        638206935,
+        638206936,
+        638206937,
+        638206938,
+        902495216
+      ],
+      "author": "参考摄影：BrokenSphere；建筑重建：本项目",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Meridian_Gate,_Forbidden_City_center.JPG",
+      "method": "按故宫博物院资料与实景照片重建，保留 OSM 平面锚点。城台高12米，主楼面阔60.05米、进深25米；重檐庑殿顶、两翼13间廊庑、四座重檐攒尖角亭。瓦片、门洞尺寸、脊饰和彩绘为推定，非测绘或摄影测量模型。未使用照片像素作贴图。",
+      "detailView": {
+        "label": "走近午门城楼",
+        "x": -20.508061049170863,
+        "y": -2.8057192519436147,
+        "height": 0.19,
+        "span": 1.1,
+        "offset": [
+          0.14,
+          0.7,
+          2.4
+        ]
+      },
+      "contextView": {
+        "label": "五凤楼建筑群",
+        "x": -20.508061049170863,
+        "y": -3.175719251943615,
+        "height": 0.13,
+        "span": 2.1,
+        "offset": [
+          75,
+          90,
+          145
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "duanmen",
+          "label": "查看端门城楼"
+        },
+        {
+          "id": "axis-nw",
+          "label": "查看朝房细节"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/wumen-detail/preview.glb?v=0336dfa5dff1",
+        "detail": "public/assets/wumen-detail/detail.glb?v=b09d2914c401"
+      }
+    },
+    {
+      "id": "tiantan-corridor",
+      "name": "天坛七十二长廊",
+      "subject": "绿瓦步廊与七十二间梁架",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景参考重建",
+      "x": -5.25232158873032,
+      "y": -36.363136943452076,
+      "rotation": 0,
+      "bounds": [
+        -6.266365114787979,
+        -36.815193799998184,
+        -4.252627633425246,
+        -35.80095728000245
+      ],
+      "maskPolygon": [
+        [
+          -6.263462122449291,
+          -36.815193799998184
+        ],
+        [
+          -5.68781581761702,
+          -36.793375079996316
+        ],
+        [
+          -5.706599885708011,
+          -36.30011615999826
+        ],
+        [
+          -4.252627633425246,
+          -36.24534671999891
+        ],
+        [
+          -4.271411701516237,
+          -35.80095728000245
+        ],
+        [
+          -4.347145648774886,
+          -35.80396291999802
+        ],
+        [
+          -4.33211839429724,
+          -36.14616060000255
+        ],
+        [
+          -5.796848794672231,
+          -36.20193191999779
+        ],
+        [
+          -5.777210905306583,
+          -36.7182340799962
+        ],
+        [
+          -6.266365114787979,
+          -36.736824519999885
+        ]
+      ],
+      "osmId": 31099286,
+      "span": 2.15,
+      "height": 0.052,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        60,
+        100,
+        160
+      ],
+      "author": "参考摄影：钉钉；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:72_Long_Corridor,_Temple_of_Heaven.jpg",
+      "method": "保留 OSM 曲折轴线，按天坛官方宽5米、72间资料与实景照片重建绿瓦、红柱、梁架、坐凳和部分后墙。轴线约289米，官网记载295米；屋顶高度、柱位、后墙范围及彩绘细节为推定，非测绘模型，未将照片用作贴图。",
+      "detailView": {
+        "label": "走近长廊梁架",
+        "x": -5.022048677025682,
+        "y": -36.22338884999938,
+        "height": 0.03,
+        "span": 0.125,
+        "offset": [
+          0.15,
+          0.32,
+          1.8
+        ]
+      },
+      "contextView": {
+        "label": "查看长廊全貌",
+        "x": -5.25232158873032,
+        "y": -36.363136943452076,
+        "height": 0.025,
+        "span": 2.15,
+        "offset": [
+          60,
+          100,
+          160
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "tiantan",
+          "label": "查看祈年殿"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/tiantan-corridor/preview.glb?v=449f2c0999f6",
+        "detail": "public/assets/tiantan-corridor/detail.glb?v=8cfa22bca17f"
+      }
+    },
+    {
+      "id": "imperial-vault",
+      "name": "皇穹宇",
+      "subject": "单檐蓝瓦攒尖顶与石栏台基",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景参考重建",
+      "x": -6.898117432550686,
+      "y": -42.143516829088846,
+      "rotation": 0,
+      "bounds": [
+        -6.994967021353339,
+        -42.23992495999574,
+        -6.799454908964836,
+        -42.04378663999676
+      ],
+      "plantingBounds": [
+        -7.068117432550686,
+        -42.34351682908885,
+        -6.728117432550686,
+        -41.973516829088844
+      ],
+      "span": 0.32,
+      "height": 0.195,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        35,
+        65,
+        150
+      ],
+      "author": "参考摄影：Windmemories；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:2017-05-02_Imperial_Vault_of_Heaven.jpg",
+      "method": "按天坛官网殿台通高19.5米、殿身直径15.6米及实景照片重建单檐蓝瓦攒尖顶、鎏金宝顶、门窗和石栏台基。保留 OSM 位置。其他高度、台阶、雕刻和彩绘为推定，非测绘模型。",
+      "detailView": {
+        "label": "走近皇穹宇门窗",
+        "x": -6.898117432550686,
+        "y": -42.213516829088846,
+        "height": 0.085,
+        "span": 0.22,
+        "offset": [
+          0.01,
+          0.035,
+          0.27
+        ]
+      },
+      "contextView": {
+        "label": "皇穹宇周边",
+        "x": -6.898117432550686,
+        "y": -42.323516829088845,
+        "height": 0.04,
+        "span": 0.82,
+        "offset": [
+          45,
+          95,
+          150
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "tiantan",
+          "label": "查看祈年殿"
+        },
+        {
+          "id": "tiantan-corridor",
+          "label": "查看七十二长廊"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "chengzhen",
+          "label": "查看成贞门"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/imperial-vault/preview.glb?v=376cbc5d55df",
+        "detail": "public/assets/imperial-vault/detail.glb?v=40ad7aa55f78"
+      }
+    },
+    {
+      "id": "echo-court",
+      "name": "回音壁院落",
+      "subject": "回音壁、东西配殿与三座券门",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景与文献参考重建",
+      "x": -6.906205199708888,
+      "y": -42.33864730189059,
+      "rotation": 0,
+      "bounds": [
+        -7.2543256806447145,
+        -42.68106168000001,
+        -6.556852838112942,
+        -41.989302745023
+      ],
+      "maskPolygons": [
+        [
+          [
+            -6.676199327654739,
+            -42.30761127999539
+          ],
+          [
+            -6.731356182138337,
+            -42.30827919999529
+          ],
+          [
+            -6.729221628951695,
+            -42.466353599999586
+          ],
+          [
+            -6.674064774468096,
+            -42.46568567999969
+          ]
+        ],
+        [
+          [
+            -7.046330851152876,
+            -42.31918855999622
+          ],
+          [
+            -7.113441203518074,
+            -42.32119231999591
+          ],
+          [
+            -7.108745186495327,
+            -42.47737428000182
+          ],
+          [
+            -7.041720216264875,
+            -42.475481839995524
+          ]
+        ],
+        [
+          [
+            -6.995016192417369,
+            -42.66606168000001
+          ],
+          [
+            -6.994674663914786,
+            -42.67886347999933
+          ],
+          [
+            -6.799064209398222,
+            -42.673631440001465
+          ],
+          [
+            -6.799405737900805,
+            -42.66082964000215
+          ]
+        ]
+      ],
+      "sourceOsmIds": [
+        43921117,
+        43921122,
+        43921123
+      ],
+      "plantingPolygon": [
+        [
+          -6.995016192417369,
+          -42.66606168000001
+        ],
+        [
+          -7.070237846903943,
+          -42.63567132000081
+        ],
+        [
+          -7.150155518413265,
+          -42.574445319997196
+        ],
+        [
+          -7.20975224353964,
+          -42.49006475999983
+        ],
+        [
+          -7.242112069926799,
+          -42.385757919999
+        ],
+        [
+          -7.238184492056096,
+          -42.26931719999874
+        ],
+        [
+          -7.211716032481058,
+          -42.19128187999643
+        ],
+        [
+          -7.167231943954941,
+          -42.12204084000198
+        ],
+        [
+          -7.120527920107436,
+          -42.07562039999737
+        ],
+        [
+          -7.065712594138554,
+          -42.03921875999911
+        ],
+        [
+          -6.992198582213427,
+          -42.010386880002294
+        ],
+        [
+          -6.91398855325342,
+          -41.99936620000006
+        ],
+        [
+          -6.833387824726799,
+          -42.007269919997505
+        ],
+        [
+          -6.756970820450852,
+          -42.03387539999994
+        ],
+        [
+          -6.676370091912098,
+          -42.089090119996584
+        ],
+        [
+          -6.610455089348407,
+          -42.17258011999936
+        ],
+        [
+          -6.573740774441083,
+          -42.27165492000233
+        ],
+        [
+          -6.567337114869021,
+          -42.35291852000281
+        ],
+        [
+          -6.58048596252786,
+          -42.4332915600008
+        ],
+        [
+          -6.63043450722877,
+          -42.53615124000054
+        ],
+        [
+          -6.685847508092339,
+          -42.59659800000296
+        ],
+        [
+          -6.752189421293358,
+          -42.64101467999998
+        ],
+        [
+          -6.799405737900805,
+          -42.66082964000215
+        ]
+      ],
+      "span": 0.78,
+      "height": 0.071,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        35,
+        90,
+        150
+      ],
+      "author": "参考摄影：Bjoertvedt、Vmenkov；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/echo-court/ATTRIBUTION.html",
+      "method": "依据实景照片和北京市文物局建筑研究重建。回音壁高3.72米、厚0.9米；保留地图轮廓，其直径约67.85米，与文献61.5米存在差异。配殿及券门高度、彩画、门窗和铺装为推定，非测绘实景模型。",
+      "detailView": {
+        "label": "走近回音壁券门",
+        "x": -6.906205199708888,
+        "y": -42.65364730189059,
+        "height": 0.038,
+        "span": 0.22,
+        "offset": [
+          0.015,
+          0.045,
+          0.14
+        ]
+      },
+      "contextView": {
+        "label": "完整院落",
+        "x": -6.906205199708888,
+        "y": -42.31364730189059,
+        "height": 0.06,
+        "span": 0.87,
+        "offset": [
+          30,
+          115,
+          145
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "tiantan",
+          "label": "查看祈年殿"
+        },
+        {
+          "id": "chengzhen",
+          "label": "查看成贞门"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/echo-court/preview.glb?v=c6a66b0a11ae",
+        "detail": "public/assets/echo-court/detail.glb?v=474f043fcf22"
+      }
+    },
+    {
+      "id": "chengzhen",
+      "name": "成贞门",
+      "subject": "绿瓦歇山顶与三道拱券",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景参考重建",
+      "x": -6.932089564321029,
+      "y": -41.480281039996825,
+      "rotation": 0.03767500631481058,
+      "bounds": [
+        -7.048977697111594,
+        -41.53004107999695,
+        -6.815201431530496,
+        -41.43052099999668
+      ],
+      "osmId": 43921120,
+      "maskPolygon": [
+        [
+          -7.048977697111594,
+          -41.43931527999663
+        ],
+        [
+          -7.045562412012965,
+          -41.53004107999695
+        ],
+        [
+          -6.815201431530496,
+          -41.521358119998304
+        ],
+        [
+          -6.818616716629124,
+          -41.43052099999668
+        ]
+      ],
+      "plantingBounds": [
+        -7.142089564321029,
+        -41.620281039996826,
+        -6.722089564321029,
+        -41.340281039996825
+      ],
+      "span": 0.32,
+      "height": 0.115,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        25,
+        80,
+        160
+      ],
+      "author": "参考摄影：Bjoertvedt、MiiCii、BrokenSphere；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/tiantan-gates/ATTRIBUTION.html",
+      "method": "根据实景照片重建，保留 OpenStreetMap 地理位置和占地。高度、门洞比例、云纹、斗拱与彩画为推定，非测绘模型。",
+      "detailView": {
+        "label": "走近门额与拱券",
+        "x": -6.932089564321029,
+        "y": -41.51528103999682,
+        "height": 0.051,
+        "span": 0.23,
+        "offset": [
+          0.015,
+          0.05,
+          0.2
+        ]
+      },
+      "contextView": {
+        "label": "天坛南部建筑群",
+        "x": -6.91,
+        "y": -42.4,
+        "height": 0.065,
+        "span": 2.35,
+        "offset": [
+          35,
+          110,
+          155
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看圜丘外壝北棂星门"
+        },
+        {
+          "id": "mound-inner-gate",
+          "label": "查看圜丘内壝北棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/tiantan-gates/chengzhen-preview.glb?v=50e8b08f5eb9",
+        "detail": "public/assets/tiantan-gates/chengzhen-detail.glb?v=502d339074f9"
+      }
+    },
+    {
+      "id": "mound-outer-gate",
+      "name": "圜丘外壝北棂星门",
+      "subject": "汉白玉石柱、宝顶与云纹饰件",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景参考重建",
+      "x": -6.891811136464373,
+      "y": -43.04336375936972,
+      "rotation": 0.02722394201594036,
+      "bounds": [
+        -6.980842759226514,
+        -43.06458727999837,
+        -6.802821023011567,
+        -43.02339887999954
+      ],
+      "osmId": 43922670,
+      "maskPolygon": [
+        [
+          -6.803845608543582,
+          -43.02339887999954
+        ],
+        [
+          -6.980842759226514,
+          -43.026961120001616
+        ],
+        [
+          -6.979818173694499,
+          -43.06458727999837
+        ],
+        [
+          -6.802821023011567,
+          -43.05824203999541
+        ]
+      ],
+      "plantingBounds": [
+        -7.101811136464373,
+        -43.18336375936972,
+        -6.681811136464373,
+        -42.90336375936972
+      ],
+      "span": 0.27,
+      "height": 0.054,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        25,
+        80,
+        160
+      ],
+      "author": "参考摄影：Bjoertvedt、MiiCii、BrokenSphere；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/tiantan-gates/ATTRIBUTION.html",
+      "method": "根据实景照片重建，保留 OpenStreetMap 地理位置和占地。高度、门洞比例、云纹、斗拱与彩画为推定，非测绘模型。",
+      "detailView": {
+        "label": "走近石柱云纹",
+        "x": -6.891811136464373,
+        "y": -43.05336375936972,
+        "height": 0.03,
+        "span": 0.18,
+        "offset": [
+          0.015,
+          0.05,
+          0.2
+        ]
+      },
+      "contextView": {
+        "label": "天坛南部建筑群",
+        "x": -6.91,
+        "y": -42.4,
+        "height": 0.065,
+        "span": 2.35,
+        "offset": [
+          35,
+          110,
+          155
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "chengzhen",
+          "label": "查看成贞门"
+        },
+        {
+          "id": "mound-inner-gate",
+          "label": "查看圜丘内壝北棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/tiantan-gates/mound-outer-gate-preview.glb?v=2a1e95212340",
+        "detail": "public/assets/tiantan-gates/mound-outer-gate-detail.glb?v=ba235163a848"
+      }
+    },
+    {
+      "id": "mound-inner-gate",
+      "name": "圜丘内壝北棂星门",
+      "subject": "汉白玉石柱、宝顶与云纹饰件",
+      "parentPlace": "tiantan",
+      "methodLabel": "实景参考重建",
+      "x": -6.879499423553377,
+      "y": -43.364987542995486,
+      "rotation": 0.024319565022367096,
+      "bounds": [
+        -6.970938432421078,
+        -43.370939919995315,
+        -6.787879150668667,
+        -43.36036451999829
+      ],
+      "osmId": 727026438,
+      "maskPolygon": [
+        [
+          -6.970938432421078,
+          -43.370939919995315
+        ],
+        [
+          -6.848756607707028,
+          -43.36203432000198
+        ],
+        [
+          -6.787879150668667,
+          -43.36648711999865
+        ],
+        [
+          -6.788732971943324,
+          -43.36036451999829
+        ],
+        [
+          -6.970853050286332,
+          -43.363481479995166
+        ]
+      ],
+      "plantingBounds": [
+        -7.089499423553377,
+        -43.50498754299549,
+        -6.669499423553377,
+        -43.224987542995486
+      ],
+      "span": 0.27,
+      "height": 0.054,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        25,
+        80,
+        160
+      ],
+      "author": "参考摄影：Bjoertvedt、MiiCii、BrokenSphere；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/tiantan-gates/ATTRIBUTION.html",
+      "method": "根据实景照片重建，保留 OpenStreetMap 地理位置和占地。高度、门洞比例、云纹、斗拱与彩画为推定，非测绘模型。",
+      "detailView": {
+        "label": "走近石柱云纹",
+        "x": -6.879499423553377,
+        "y": -43.374987542995484,
+        "height": 0.03,
+        "span": 0.18,
+        "offset": [
+          0.015,
+          0.05,
+          0.2
+        ]
+      },
+      "contextView": {
+        "label": "天坛南部建筑群",
+        "x": -6.91,
+        "y": -42.4,
+        "height": 0.065,
+        "span": 2.35,
+        "offset": [
+          35,
+          110,
+          155
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "chengzhen",
+          "label": "查看成贞门"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看圜丘外壝北棂星门"
+        },
+        {
+          "id": "circular-mound",
+          "label": "查看圜丘坛"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/tiantan-gates/mound-inner-gate-preview.glb?v=b52aeed02812",
+        "detail": "public/assets/tiantan-gates/mound-inner-gate-detail.glb?v=f7ffae26c2a4"
+      }
+    },
+    {
+      "id": "circular-mound",
+      "name": "圜丘坛",
+      "subject": "三层汉白玉坛台、九级台阶与内圆外方院落",
+      "parentPlace": "tiantan",
+      "methodLabel": "资料与实景参考重建",
+      "x": -6.869019991294158,
+      "y": -43.87689742007365,
+      "rotation": 0,
+      "bounds": [
+        -7.71051842238792,
+        -44.75041735999593,
+        -5.990580842382123,
+        -43.011265000000115
+      ],
+      "sourceOsmIds": [
+        43922668,
+        43922669,
+        43922697,
+        727026433,
+        727026437,
+        727026439,
+        237696578,
+        237696579
+      ],
+      "maskPolygons": [
+        [
+          [
+            -6.040187858556182,
+            -43.771691919995966
+          ],
+          [
+            -6.033954963241478,
+            -43.94702091999625
+          ],
+          [
+            -6.001168226216991,
+            -43.94590771999906
+          ],
+          [
+            -6.007059593016979,
+            -43.770578719998774
+          ]
+        ],
+        [
+          [
+            -6.720683416180856,
+            -44.69876488000137
+          ],
+          [
+            -6.895802160057116,
+            -44.70511011999642
+          ],
+          [
+            -6.894606810267743,
+            -44.73839479999781
+          ],
+          [
+            -6.7194880663914835,
+            -44.73182692000015
+          ]
+        ],
+        [
+          [
+            -7.697113428349109,
+            -43.81844631999657
+          ],
+          [
+            -7.691222061536989,
+            -43.993663999995555
+          ],
+          [
+            -7.6579230317404265,
+            -43.99243947999706
+          ],
+          [
+            -7.6641559270551305,
+            -43.81711047999678
+          ]
+        ],
+        [
+          [
+            -7.385554044433198,
+            -43.820116120000264
+          ],
+          [
+            -7.398702892104172,
+            -43.820116120000264
+          ],
+          [
+            -7.396995249542724,
+            -43.97707731999946
+          ],
+          [
+            -7.380943409545197,
+            -43.976298079998266
+          ],
+          [
+            -7.387688597631975,
+            -43.924868239998396
+          ]
+        ],
+        [
+          [
+            -6.352174153109422,
+            -43.79406723999642
+          ],
+          [
+            -6.345855875659972,
+            -43.84627631999749
+          ],
+          [
+            -6.349100396513376,
+            -43.95191899999812
+          ],
+          [
+            -6.337744573526463,
+            -43.95125107999822
+          ],
+          [
+            -6.33945221608791,
+            -43.79428987999903
+          ]
+        ],
+        [
+          [
+            -6.916379252832167,
+            -44.39764428000229
+          ],
+          [
+            -6.915866960060092,
+            -44.40821967999931
+          ],
+          [
+            -6.733832263839696,
+            -44.40510272000244
+          ],
+          [
+            -6.735112995763815,
+            -44.38907263999703
+          ],
+          [
+            -6.855501795793805,
+            -44.401874439996355
+          ]
+        ],
+        [
+          [
+            -6.810163885993032,
+            -43.77825980000153
+          ],
+          [
+            -6.843548297912205,
+            -43.76467876000102
+          ],
+          [
+            -6.879494173667485,
+            -43.762118400002734
+          ],
+          [
+            -6.914500846013361,
+            -43.77080136000138
+          ],
+          [
+            -6.948141404324639,
+            -43.792508760001944
+          ],
+          [
+            -6.972304546455676,
+            -43.82445759999563
+          ],
+          [
+            -6.984087280079918,
+            -43.86264035999889
+          ],
+          [
+            -6.982038109015887,
+            -43.90271556000054
+          ],
+          [
+            -6.966498561778301,
+            -43.9395624799961
+          ],
+          [
+            -6.939261663051218,
+            -43.968839639998116
+          ],
+          [
+            -6.9036573157985215,
+            -43.987096119997894
+          ],
+          [
+            -6.863954626429898,
+            -43.99210552000107
+          ],
+          [
+            -6.824934994078573,
+            -43.98319991999983
+          ],
+          [
+            -6.794282810240729,
+            -43.96416419999884
+          ],
+          [
+            -6.771058871519094,
+            -43.93655684000052
+          ],
+          [
+            -6.757483113210792,
+            -43.90316083999783
+          ],
+          [
+            -6.754921649386821,
+            -43.86720447999686
+          ],
+          [
+            -6.763545244280272,
+            -43.83213867999839
+          ],
+          [
+            -6.782585458751233,
+            -43.80152567999658
+          ]
+        ],
+        [
+          [
+            -6.811615382162375,
+            -43.691875479996575
+          ],
+          [
+            -6.8782988238781115,
+            -43.683415160000536
+          ],
+          [
+            -6.943957680073965,
+            -43.69822071999954
+          ],
+          [
+            -6.995443103054698,
+            -43.73016956000114
+          ],
+          [
+            -7.03463349966338,
+            -43.776478679996536
+          ],
+          [
+            -7.057601292017178,
+            -43.83258395999568
+          ],
+          [
+            -7.062126544782567,
+            -43.893030719998094
+          ],
+          [
+            -7.047696965199608,
+            -43.95191899999812
+          ],
+          [
+            -7.01584943157239,
+            -44.00346015999929
+          ],
+          [
+            -6.969572318374347,
+            -44.04264479999844
+          ],
+          [
+            -6.913476260481345,
+            -44.065576719997495
+          ],
+          [
+            -6.853025714092447,
+            -44.07014083999547
+          ],
+          [
+            -6.7941974281181166,
+            -44.05566924000036
+          ],
+          [
+            -6.7375890774651745,
+            -44.019267600002095
+          ],
+          [
+            -6.696861802564536,
+            -43.965722680001235
+          ],
+          [
+            -6.676967766806785,
+            -43.90149104000205
+          ],
+          [
+            -6.680126905537576,
+            -43.83425375999937
+          ],
+          [
+            -6.706168454475285,
+            -43.77213720000117
+          ],
+          [
+            -6.751847892790775,
+            -43.72271112000099
+          ]
+        ]
+      ],
+      "plantingPolygon": [
+        [
+          -7.643578834292213,
+          -44.75041735999593
+        ],
+        [
+          -6.944640737091264,
+          -44.725481679997195
+        ],
+        [
+          -6.895119103039817,
+          -44.723700560000104
+        ],
+        [
+          -6.895802160057116,
+          -44.70511011999642
+        ],
+        [
+          -6.809480828975732,
+          -44.701993159999546
+        ],
+        [
+          -6.720683416180856,
+          -44.69876488000137
+        ],
+        [
+          -6.72008574128617,
+          -44.71601947999735
+        ],
+        [
+          -6.662025894463884,
+          -44.713904399996366
+        ],
+        [
+          -5.990580842382123,
+          -44.68997060000142
+        ],
+        [
+          -6.017134684091906,
+          -43.94635299999636
+        ],
+        [
+          -6.033954963241478,
+          -43.94702091999625
+        ],
+        [
+          -6.037028719837524,
+          -43.86085924000181
+        ],
+        [
+          -6.040187858556182,
+          -43.771691919995966
+        ],
+        [
+          -6.01833003388128,
+          -43.77091268000268
+        ],
+        [
+          -6.0453961683510045,
+          -43.011265000000115
+        ],
+        [
+          -6.735796052781114,
+          -43.03597803999625
+        ],
+        [
+          -6.8035040800288655,
+          -43.03831575999984
+        ],
+        [
+          -6.802821023011567,
+          -43.05824203999541
+        ],
+        [
+          -6.888117768560935,
+          -43.06180427999749
+        ],
+        [
+          -6.979818173694499,
+          -43.06458727999837
+        ],
+        [
+          -6.980586612846544,
+          -43.043325159995106
+        ],
+        [
+          -7.059565080946462,
+          -43.04610815999599
+        ],
+        [
+          -7.71051842238792,
+          -43.06937403999894
+        ],
+        [
+          -7.683793816420778,
+          -43.817778399996676
+        ],
+        [
+          -7.6641559270551305,
+          -43.81711047999678
+        ],
+        [
+          -7.660826024079114,
+          -43.909506080000796
+        ],
+        [
+          -7.6579230317404265,
+          -43.99243947999706
+        ],
+        [
+          -7.670644968761938,
+          -43.99288476000226
+        ],
+        [
+          -7.643578834292213,
+          -44.75041735999593
+        ]
+      ],
+      "span": 1.82,
+      "height": 0.066,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        30,
+        110,
+        150
+      ],
+      "author": "参考摄影：BrokenSphere；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/circular-mound/ATTRIBUTION.html",
+      "method": "三层直径与高度、九级台阶和九重铺石按北京市公园管理中心资料；院墙与门位置沿用 OSM。雕刻、栏板与石材纹理为参考重建，非测绘扫描。",
+      "detailView": {
+        "label": "走近坛台与石栏",
+        "x": -6.869019991294158,
+        "y": -43.87689742007365,
+        "height": 0.035,
+        "span": 0.36,
+        "offset": [
+          0.22,
+          0.52,
+          0.82
+        ]
+      },
+      "contextView": {
+        "label": "圜丘坛完整院落",
+        "x": -6.869019991294158,
+        "y": -43.87689742007365,
+        "height": 0.035,
+        "span": 1.85,
+        "offset": [
+          35,
+          110,
+          155
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "imperial-vault",
+          "label": "查看皇穹宇"
+        },
+        {
+          "id": "echo-court",
+          "label": "查看回音壁院落"
+        },
+        {
+          "id": "mound-outer-gate",
+          "label": "查看棂星门"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/circular-mound/preview.glb?v=fc4d5579846c",
+        "detail": "public/assets/circular-mound/detail.glb?v=eb5c0101a676"
+      }
+    },
+    {
+      "id": "qianmen",
+      "name": "正阳门城楼",
+      "subject": "三滴水灰瓦、朱红柱廊与城台券门",
+      "methodLabel": "资料与实景参考重建",
+      "x": -19.964232568456044,
+      "y": -17.605981893949025,
+      "rotation": 0.024696360528748684,
+      "bounds": [
+        -20.443807052297956,
+        -17.776116037685746,
+        -19.485348277819046,
+        -17.40790626953244
+      ],
+      "sourceOsmIds": [
+        25109960
+      ],
+      "maskPolygon": [
+        [
+          -19.419396501967547,
+          -17.482360719999335
+        ],
+        [
+          -20.514507671604346,
+          -17.509411479999063
+        ],
+        [
+          -20.50904321542955,
+          -17.729602440001564
+        ],
+        [
+          -19.41401742791537,
+          -17.702551680001836
+        ]
+      ],
+      "plantingPolygon": [
+        [
+          -20.435291377604198,
+          -17.776116037685746
+        ],
+        [
+          -19.485348277819046,
+          -17.75265112972192
+        ],
+        [
+          -19.493863952512804,
+          -17.40790626953244
+        ],
+        [
+          -20.443807052297956,
+          -17.431371177496267
+        ]
+      ],
+      "span": 1.1,
+      "height": 0.4365,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        40,
+        85,
+        150
+      ],
+      "author": "参考摄影：Christophe95、Pixor；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/qianmen-detail/ATTRIBUTION.html",
+      "method": "保留 OSM 中心与朝向，按公开尺寸和照片重建。门洞、瓦垄、柱廊及箭窗为几何模型；局部尺寸与装饰为推定，非文物测绘。",
+      "detailView": {
+        "label": "走近城楼柱廊",
+        "x": -19.964232568456044,
+        "y": -17.605981893949025,
+        "height": 0.23,
+        "span": 0.37,
+        "offset": [
+          0.3,
+          0.27,
+          0.95
+        ]
+      },
+      "contextView": {
+        "label": "正阳门城楼与箭楼",
+        "x": -19.947298926936426,
+        "y": -18.282965616851026,
+        "height": 0.12,
+        "span": 2.5,
+        "offset": [
+          35,
+          130,
+          170
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "qianmen-arrow",
+          "label": "查看箭楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/qianmen-detail/qianmen-preview.glb?v=0c94db279eb9",
+        "detail": "public/assets/qianmen-detail/qianmen-detail.glb?v=18d162d93ee5"
+      }
+    },
+    {
+      "id": "qianmen-arrow",
+      "name": "正阳门箭楼",
+      "subject": "四层箭窗、白色窗檐与北侧抱厦",
+      "methodLabel": "资料与实景参考重建",
+      "x": -19.93036528541681,
+      "y": -18.959949339753027,
+      "rotation": 0.018459892876636186,
+      "bounds": [
+        -20.244121700003546,
+        -19.146842875134354,
+        -19.61695589720429,
+        -18.754259002180774
+      ],
+      "sourceOsmIds": [
+        439956436
+      ],
+      "maskPolygon": [
+        [
+          -20.00195875913182,
+          -18.782800960001754
+        ],
+        [
+          -20.235137349830367,
+          -18.78814432000092
+        ],
+        [
+          -20.2261722264222,
+          -19.14280984000086
+        ],
+        [
+          -19.623203640740236,
+          -19.131677839997327
+        ],
+        [
+          -19.637206309673733,
+          -18.76899727999864
+        ],
+        [
+          -19.84895398632257,
+          -18.777234959999987
+        ],
+        [
+          -19.883021455271177,
+          -18.805621559999505
+        ],
+        [
+          -19.960804573593855,
+          -18.80751399999789
+        ]
+      ],
+      "plantingPolygon": [
+        [
+          -20.23708518847889,
+          -19.146842875134354
+        ],
+        [
+          -19.61695589720429,
+          -19.13539405435565
+        ],
+        [
+          -19.623992408728945,
+          -18.754259002180774
+        ],
+        [
+          -20.244121700003546,
+          -18.765707822959477
+        ]
+      ],
+      "span": 0.88,
+      "height": 0.35369999999999996,
+      "groundHeight": 0.012,
+      "viewOffset": [
+        40,
+        85,
+        150
+      ],
+      "author": "参考摄影：Christophe95、Pixor；建筑重建：本项目",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "public/assets/qianmen-detail/ATTRIBUTION.html",
+      "method": "保留 OSM 中心与朝向，按公开尺寸和照片重建。门洞、瓦垄、柱廊及箭窗为几何模型；局部尺寸与装饰为推定，非文物测绘。",
+      "detailView": {
+        "label": "走近箭窗与窗檐",
+        "x": -19.93036528541681,
+        "y": -18.959949339753027,
+        "height": 0.22,
+        "span": 0.43,
+        "offset": [
+          0.3,
+          0.27,
+          0.95
+        ]
+      },
+      "contextView": {
+        "label": "正阳门城楼与箭楼",
+        "x": -19.947298926936426,
+        "y": -18.282965616851026,
+        "height": 0.12,
+        "span": 2.5,
+        "offset": [
+          35,
+          130,
+          170
+        ]
+      },
+      "relatedModels": [
+        {
+          "id": "qianmen",
+          "label": "查看城楼"
+        }
+      ],
+      "lods": {
+        "preview": "public/assets/qianmen-detail/qianmen-arrow-preview.glb?v=126dbebe8a52",
+        "detail": "public/assets/qianmen-detail/qianmen-arrow-detail.glb?v=a4ee3d1595d6"
+      },
+      "parentPlace": "qianmen"
+    }
+  ],
+  "retainedExisting": [
+    "forbidden"
+  ],
+  "notes": "Approximate representative buildings and street scenes, not surveyed reconstructions."
+}

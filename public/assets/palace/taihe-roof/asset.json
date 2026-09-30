@@ -1,0 +1,75 @@
+{
+  "id": "taihe-roof",
+  "title": "写实比例_故宫太和殿顶部 Hall of Supreme Harmony",
+  "author": "TRNKL",
+  "source": "https://sketchfab.com/3d-models/hall-of-supreme-harmony-c354afbc1a4f428d80a26f5904d27fe6",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "bounds": [
+    -20.96232032775879,
+    0.8442354798316956,
+    -20.338529586791992,
+    1.1497288942337036
+  ],
+  "lods": {
+    "preview": {
+      "url": "taihe-roof/preview.glb",
+      "bytes": 12111232,
+      "triangles": 401126,
+      "textureRGBABytesWithMipmaps": 44389717,
+      "compression": {
+        "method": "Draco",
+        "level": 6,
+        "positionQuantization": 20,
+        "normalQuantization": 12,
+        "uvQuantization": 14
+      }
+    },
+    "detail": {
+      "url": "taihe-roof/detail.glb",
+      "bytes": 42149688,
+      "triangles": 3343228,
+      "textureRGBABytesWithMipmaps": 177558869,
+      "compression": {
+        "method": "Draco",
+        "level": 6,
+        "positionQuantization": 20,
+        "normalQuantization": 12,
+        "uvQuantization": 14
+      }
+    }
+  },
+  "sourceSHA256": "c8d3f82a34477eaef3da8a2b69341484fc49b6c5cbe4ff759850c5860433aabd",
+  "uniformSourceToMapScale": 0.010762495920062065,
+  "sourceToBlenderWorldMatrix": [
+    [
+      0.010759402997791767,
+      -0.0002579998690634966,
+      0.0,
+      -20.65042495727539
+    ],
+    [
+      0.0002579998690634966,
+      0.010759402997791767,
+      0.0,
+      0.9969821572303772
+    ],
+    [
+      0.0,
+      0.0,
+      0.010762495920062065,
+      0.2641611397266388
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "limitations": [
+    "Artist-created roof, not surveyed heritage data.",
+    "Uniform width fit preserves original proportions; source eave depth is narrower than prior OSM roof.",
+    "Eave datum is median of main straight drip-tile vertices; ornamental minimum is not used."
+  ]
+}

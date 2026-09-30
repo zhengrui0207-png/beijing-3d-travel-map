@@ -1,0 +1,20 @@
+{
+  "horizontalEndpointErrorMetres": 0,
+  "axisLengthMetres": 13.2692303312128,
+  "rotation": -26.688184259259224,
+  "assets": [
+    {
+      "level": "preview",
+      "triangles": 12612,
+      "bytes": 397188,
+      "meshes": 14
+    },
+    {
+      "level": "detail",
+      "triangles": 75208,
+      "bytes": 992680,
+      "meshes": 17
+    }
+  ],
+  "note": "Orientation/packaging validated; vertical dimensions and carved motifs remain photo-informed estimates."
+}

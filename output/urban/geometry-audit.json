@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "elevatedParts": 138,
+    "inheritedParts": 386,
+    "solidWalls": 246,
+    "buildings": 25039,
+    "estimated": 17073,
+    "flatRoofs": 24562,
+    "levels": 7407,
+    "pitchedRoofs": 477,
+    "height": 556,
+    "photoEstimated": 3,
+    "invalidVerticalExtent": 2,
+    "retainedPalace": 2287
+  },
+  "source": "Cached OSM 2026-09-08. Unknown heights estimated. Untagged roof shapes remain flat; window/ledge details are illustrative. Explicit min_height is honoured; building parts inherit semantic/material tags from the smallest containing building footprint (98% coverage), never its height. Two conflicting minimum-level records retain ground-based fallback and are flagged. Three Tiantan ancillary forms use explicitly recorded photo-informed estimates in architectural-overrides.json."
+}

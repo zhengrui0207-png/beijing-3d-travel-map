@@ -1,0 +1,10 @@
+{
+  "level": "detail",
+  "triangles": 278492,
+  "bytes": 6022868,
+  "revision": "8cfa22bca17f",
+  "bays": 72,
+  "mappedLengthMetres": 289.19837968399787,
+  "heightMetres": 5.195,
+  "method": "photo-informed; inferred roof heights, bay positions, rear wall and decorative details"
+}

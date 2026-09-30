@@ -1,0 +1,27 @@
+{
+  "level": "preview",
+  "triangles": 170238,
+  "bytes": 5422916,
+  "bounds": [
+    [
+      -0.9384227991104126,
+      -0.941222608089447,
+      -0.00020000025688204914
+    ],
+    [
+      0.9693500995635986,
+      0.16120000183582306,
+      0.3569454252719879
+    ]
+  ],
+  "revision": "0336dfa5dff1",
+  "platformHeight": 12,
+  "mainHallDimensions": [
+    60.05,
+    25
+  ],
+  "roofType": "double-eaved hipped",
+  "cornerPavilions": 4,
+  "galleryBays": 13,
+  "portalCount": 5
+}

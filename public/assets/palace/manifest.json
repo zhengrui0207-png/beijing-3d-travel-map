@@ -1,0 +1,1887 @@
+{
+  "version": 1,
+  "id": "forbidden-city",
+  "coordinateSystem": "local east/north in 100 metre units; glTF Y up",
+  "origin": [
+    116.415,
+    39.915
+  ],
+  "replacementBounds": [
+    -24.41928851685582,
+    -4.0075199999985704,
+    -16.64951489785624,
+    6.901839999999734
+  ],
+  "uvUnits": "metres",
+  "groundZ": 0.008,
+  "structureBaseZ": 0.011,
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "accuracy": "OSM footprints with unverified crowd-sourced elevations; Taihe hall-body tiers are normalized to the Palace Museum official 26.92m body reference. Connected OSM terraces still use 9m rather than official 8.13m. Roof detailing, ornaments, timber, railings, vegetation and textures are artist-authored reconstruction, not measured heritage survey. The superseded OSM Taihe 41m tag is not a true measured height.",
+  "zones": [
+    {
+      "id": "south",
+      "bounds": [
+        -24.41928851685582,
+        -4.0075199999985704,
+        -16.64951489785624,
+        -0.8905599999979246
+      ],
+      "medium": "south-medium.glb",
+      "high": "south-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 146122,
+          "vertices": 158917,
+          "drawCalls": 15,
+          "bytes": 7997380
+        },
+        "high": {
+          "triangles": 492436,
+          "vertices": 446502,
+          "drawCalls": 15,
+          "bytes": 28285580
+        }
+      }
+    },
+    {
+      "id": "central",
+      "bounds": [
+        -21.430914048008894,
+        -0.8905599999979246,
+        -19.851344685901317,
+        3.339600000000127
+      ],
+      "medium": "central-medium-taihe-v2.glb",
+      "high": "central-high-taihe-v2.glb",
+      "lods": {
+        "medium": {
+          "triangles": 169283,
+          "vertices": 177981,
+          "drawCalls": 16,
+          "bytes": 9811048
+        },
+        "high": {
+          "triangles": 441783,
+          "vertices": 394632,
+          "drawCalls": 16,
+          "bytes": 26508696
+        }
+      }
+    },
+    {
+      "id": "north-west",
+      "bounds": [
+        -24.41928851685582,
+        3.339600000000127,
+        -21.430914048008894,
+        6.901839999999734
+      ],
+      "medium": "north-west-medium.glb",
+      "high": "north-west-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 67923,
+          "vertices": 55997,
+          "drawCalls": 11,
+          "bytes": 3063208
+        },
+        "high": {
+          "triangles": 380987,
+          "vertices": 235836,
+          "drawCalls": 13,
+          "bytes": 17851952
+        }
+      }
+    },
+    {
+      "id": "north-central",
+      "bounds": [
+        -21.430914048008894,
+        3.339600000000127,
+        -19.851344685901317,
+        6.901839999999734
+      ],
+      "medium": "north-central-medium.glb",
+      "high": "north-central-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 86629,
+          "vertices": 81005,
+          "drawCalls": 15,
+          "bytes": 4483748
+        },
+        "high": {
+          "triangles": 271327,
+          "vertices": 194622,
+          "drawCalls": 15,
+          "bytes": 13516480
+        }
+      }
+    },
+    {
+      "id": "north-east",
+      "bounds": [
+        -19.851344685901317,
+        3.339600000000127,
+        -16.64951489785624,
+        6.901839999999734
+      ],
+      "medium": "north-east-medium.glb",
+      "high": "north-east-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 94082,
+          "vertices": 81157,
+          "drawCalls": 11,
+          "bytes": 4736040
+        },
+        "high": {
+          "triangles": 459846,
+          "vertices": 285116,
+          "drawCalls": 13,
+          "bytes": 21968760
+        }
+      }
+    },
+    {
+      "id": "west",
+      "bounds": [
+        -24.41928851685582,
+        -0.8905599999979246,
+        -21.430914048008894,
+        3.339600000000127
+      ],
+      "medium": "west-medium.glb",
+      "high": "west-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 62639,
+          "vertices": 70787,
+          "drawCalls": 11,
+          "bytes": 3352000
+        },
+        "high": {
+          "triangles": 286185,
+          "vertices": 211480,
+          "drawCalls": 13,
+          "bytes": 14418592
+        }
+      }
+    },
+    {
+      "id": "east",
+      "bounds": [
+        -19.851344685901317,
+        -0.8905599999979246,
+        -16.64951489785624,
+        3.339600000000127
+      ],
+      "medium": "east-medium.glb",
+      "high": "east-high.glb",
+      "lods": {
+        "medium": {
+          "triangles": 98047,
+          "vertices": 105091,
+          "drawCalls": 11,
+          "bytes": 5086816
+        },
+        "high": {
+          "triangles": 398347,
+          "vertices": 315823,
+          "drawCalls": 13,
+          "bytes": 20622340
+        }
+      }
+    }
+  ],
+  "microTiles": [
+    {
+      "id": "roof-tiles-0-0",
+      "bounds": [
+        -24.215481378070997,
+        -3.0712074799959312,
+        -24.0547922137777,
+        -3.0240077999980346
+      ],
+      "url": "roof-tiles-0-0.glb",
+      "triangles": 8688,
+      "bytes": 296884,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-1",
+      "bounds": [
+        -24.471030086228655,
+        -3.061077359996196,
+        -23.30667401104002,
+        -1.9999751199985583
+      ],
+      "url": "roof-tiles-0-1.glb",
+      "triangles": 103880,
+      "bytes": 4091584,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-2",
+      "bounds": [
+        -24.27593192447203,
+        -1.9806054400015853,
+        -23.340058422959192,
+        -0.6733746799989092
+      ],
+      "url": "roof-tiles-0-2.glb",
+      "triangles": 81580,
+      "bytes": 3146608,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-3",
+      "bounds": [
+        -24.25006113979168,
+        -1.0106742800015638,
+        -23.40759568596172,
+        0.07302591999913376
+      ],
+      "url": "roof-tiles-0-3.glb",
+      "triangles": 91060,
+      "bytes": 3505748,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-4",
+      "bounds": [
+        -24.280201030857448,
+        -0.06634672000017759,
+        -23.279864022950264,
+        1.0200251600001025
+      ],
+      "url": "roof-tiles-0-4.glb",
+      "triangles": 47324,
+      "bytes": 1539596,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-5",
+      "bounds": [
+        -24.322465184062178,
+        0.9457747200024784,
+        -23.42330599744453,
+        2.1694041600010823
+      ],
+      "url": "roof-tiles-0-5.glb",
+      "triangles": 114028,
+      "bytes": 4389620,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-6",
+      "bounds": [
+        -24.337577820662435,
+        1.808282080004787,
+        -23.393593017016087,
+        2.9327253999991174
+      ],
+      "url": "roof-tiles-0-6.glb",
+      "triangles": 64612,
+      "bytes": 2100284,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-7",
+      "bounds": [
+        -24.395723049607334,
+        2.824522360000208,
+        -23.370198314037097,
+        4.089228880004256
+      ],
+      "url": "roof-tiles-0-7.glb",
+      "triangles": 94394,
+      "bytes": 3638492,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-8",
+      "bounds": [
+        -24.410664921950232,
+        4.049710280001205,
+        -23.41195017446975,
+        4.993815199999989
+      ],
+      "url": "roof-tiles-0-8.glb",
+      "triangles": 78802,
+      "bytes": 2563468,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-9",
+      "bounds": [
+        -24.47973906324472,
+        4.735441480002137,
+        -23.298989619543836,
+        6.065604160003867
+      ],
+      "url": "roof-tiles-0-9.glb",
+      "triangles": 108982,
+      "bytes": 4210220,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-0-10",
+      "bounds": [
+        -24.477262981543358,
+        5.9847858400006775,
+        -23.33843616253249,
+        6.499752159999296
+      ],
+      "url": "roof-tiles-0-10.glb",
+      "triangles": 48240,
+      "bytes": 1567748,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-1",
+      "bounds": [
+        -23.470010021292037,
+        -2.934951800001406,
+        -21.840150585980968,
+        -2.219609480002464
+      ],
+      "url": "roof-tiles-1-1.glb",
+      "triangles": 133748,
+      "bytes": 5148504,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-2",
+      "bounds": [
+        -23.267483614431335,
+        -1.677258440000216,
+        -22.418785265274536,
+        -0.9914159199979822
+      ],
+      "url": "roof-tiles-1-2.glb",
+      "triangles": 57884,
+      "bytes": 1881736,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-3",
+      "bounds": [
+        -23.53891339832916,
+        -1.21249744000298,
+        -22.437483951242914,
+        -0.21607212000182585
+      ],
+      "url": "roof-tiles-1-3.glb",
+      "triangles": 94588,
+      "bytes": 3563444,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-4",
+      "bounds": [
+        -23.272179631454083,
+        0.81864728000389,
+        -22.246569513749098,
+        1.0369458000000946
+      ],
+      "url": "roof-tiles-1-4.glb",
+      "triangles": 29000,
+      "bytes": 943500,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-5",
+      "bounds": [
+        -23.40452192935354,
+        1.0801379599986178,
+        -22.56086112574634,
+        2.0840217199999245
+      ],
+      "url": "roof-tiles-1-5.glb",
+      "triangles": 63118,
+      "bytes": 2055028,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-6",
+      "bounds": [
+        -23.44132162639561,
+        2.009882600003601,
+        -22.33186625929847,
+        3.0998167199980515
+      ],
+      "url": "roof-tiles-1-6.glb",
+      "triangles": 109488,
+      "bytes": 4216292,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-7",
+      "bounds": [
+        -23.423989054473964,
+        2.7813302000016846,
+        -22.197816318837564,
+        4.007074720001277
+      ],
+      "url": "roof-tiles-1-7.glb",
+      "triangles": 160636,
+      "bytes": 6201148,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-8",
+      "bounds": [
+        -23.49955223746312,
+        4.010191679998153,
+        -22.406746385270324,
+        5.003722679997122
+      ],
+      "url": "roof-tiles-1-8.glb",
+      "triangles": 118776,
+      "bytes": 4578312,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-9",
+      "bounds": [
+        -23.432698031490027,
+        4.876817880001136,
+        -22.432275641448093,
+        6.084973840000839
+      ],
+      "url": "roof-tiles-1-9.glb",
+      "triangles": 127752,
+      "bytes": 4905676,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-1-10",
+      "bounds": [
+        -23.451140571078433,
+        5.967642559998083,
+        -22.402904189534368,
+        6.547731079998389
+      ],
+      "url": "roof-tiles-1-10.glb",
+      "triangles": 52538,
+      "bytes": 1697600,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-0",
+      "bounds": [
+        -21.60014142507303,
+        -3.978242839996554,
+        -21.405897084591064,
+        -3.7322256400007263
+      ],
+      "url": "roof-tiles-2-0.glb",
+      "triangles": 12180,
+      "bytes": 397140,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-1",
+      "bounds": [
+        -22.569655484897147,
+        -2.9205915199996952,
+        -21.540459317824045,
+        -1.901902199999384
+      ],
+      "url": "roof-tiles-2-1.glb",
+      "triangles": 96996,
+      "bytes": 3774160,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-2",
+      "bounds": [
+        -21.747510977450133,
+        -1.9394170400027493,
+        -21.344592716915376,
+        -1.0035497999974041
+      ],
+      "url": "roof-tiles-2-2.glb",
+      "triangles": 72128,
+      "bytes": 2406688,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-3",
+      "bounds": [
+        -21.812999069376495,
+        -1.0507494799953008,
+        -21.588529455706148,
+        0.08070700000188823
+      ],
+      "url": "roof-tiles-2-3.glb",
+      "triangles": 63444,
+      "bytes": 2106332,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-4",
+      "bounds": [
+        -22.45362117337519,
+        0.03974123999774406,
+        -21.30915913393217,
+        1.0328269599994202
+      ],
+      "url": "roof-tiles-2-4.glb",
+      "triangles": 69072,
+      "bytes": 2244356,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-5",
+      "bounds": [
+        -22.519365411681523,
+        0.5893280799975429,
+        -21.707893670204122,
+        2.070552000000711
+      ],
+      "url": "roof-tiles-2-5.glb",
+      "triangles": 113942,
+      "bytes": 4381872,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-6",
+      "bounds": [
+        -22.541820911263244,
+        1.8808627199987171,
+        -21.353813986715647,
+        3.0270134400015194
+      ],
+      "url": "roof-tiles-2-6.glb",
+      "triangles": 121896,
+      "bytes": 4762252,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-7",
+      "bounds": [
+        -22.380704836332615,
+        2.974247760001856,
+        -21.405640938211096,
+        4.002733239998
+      ],
+      "url": "roof-tiles-2-7.glb",
+      "triangles": 298862,
+      "bytes": 11511508,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-8",
+      "bounds": [
+        -22.425530453361315,
+        3.9776862399979596,
+        -21.44355060290779,
+        5.059605320001572
+      ],
+      "url": "roof-tiles-2-8.glb",
+      "triangles": 220684,
+      "bytes": 8499580,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-9",
+      "bounds": [
+        -22.469673013372716,
+        4.964315400003281,
+        -21.37242729054928,
+        6.164901600001531
+      ],
+      "url": "roof-tiles-2-9.glb",
+      "triangles": 240714,
+      "bytes": 9266016,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-2-10",
+      "bounds": [
+        -23.25535935230451,
+        5.9388106800012705,
+        -20.947821969584844,
+        6.864770440001573
+      ],
+      "url": "roof-tiles-2-10.glb",
+      "triangles": 190612,
+      "bytes": 7339996,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-0",
+      "bounds": [
+        -21.126782909209194,
+        -3.9672221600022315,
+        -20.674343014622988,
+        -2.917697199997511
+      ],
+      "url": "roof-tiles-3-0.glb",
+      "triangles": 85618,
+      "bytes": 2562668,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-1",
+      "bounds": [
+        -21.13173507261191,
+        -3.033136040001881,
+        -20.061555484258196,
+        -2.6616611999953395
+      ],
+      "url": "roof-tiles-3-1.glb",
+      "triangles": 162616,
+      "bytes": 5768904,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-2",
+      "bounds": [
+        -21.348691059043436,
+        -1.2915346400011742,
+        -20.30352843410755,
+        -1.0127893600025517
+      ],
+      "url": "roof-tiles-3-2.glb",
+      "triangles": 86338,
+      "bytes": 3233308,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-4",
+      "bounds": [
+        -21.352874783306245,
+        0.7649910400017291,
+        -20.31095667921163,
+        1.186559880000442
+      ],
+      "url": "roof-tiles-3-4.glb",
+      "triangles": 25500,
+      "bytes": 834052,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-5",
+      "bounds": [
+        -20.990171504912183,
+        0.8264396800000355,
+        -20.32145868091175,
+        1.7780030399989728
+      ],
+      "url": "roof-tiles-3-5-taihe.glb",
+      "triangles": 96418,
+      "bytes": 2724956,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 2
+    },
+    {
+      "id": "roof-tiles-3-6",
+      "bounds": [
+        -21.397529636077586,
+        2.0876952800033055,
+        -20.422038827318737,
+        2.3756801199991657
+      ],
+      "url": "roof-tiles-3-6.glb",
+      "triangles": 75612,
+      "bytes": 2348364,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-7",
+      "bounds": [
+        -21.43697617906624,
+        3.0045267999997605,
+        -20.460033874138045,
+        4.078208200002024
+      ],
+      "url": "roof-tiles-3-7.glb",
+      "triangles": 106016,
+      "bytes": 4131620,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-8",
+      "bounds": [
+        -21.40248179949244,
+        4.028448159997936,
+        -20.33230221112659,
+        5.0496978400044386
+      ],
+      "url": "roof-tiles-3-8.glb",
+      "triangles": 310030,
+      "bytes": 11498928,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-9",
+      "bounds": [
+        -21.43228016204349,
+        4.98557751999864,
+        -20.235051967707754,
+        6.050241999998358
+      ],
+      "url": "roof-tiles-3-9.glb",
+      "triangles": 135204,
+      "bytes": 5243352,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-3-10",
+      "bounds": [
+        -21.462676199501367,
+        5.981446240001199,
+        -20.374310217951347,
+        6.919873840004826
+      ],
+      "url": "roof-tiles-3-10.glb",
+      "triangles": 124428,
+      "bytes": 4624440,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-0",
+      "bounds": [
+        -20.32726466560126,
+        -3.9255884799981917,
+        -19.806775215252586,
+        -2.889978519997888
+      ],
+      "url": "roof-tiles-4-0.glb",
+      "triangles": 86266,
+      "bytes": 2584220,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-1",
+      "bounds": [
+        -20.31889721708778,
+        -3.0151021999967895,
+        -19.375168559821404,
+        -2.102946119999604
+      ],
+      "url": "roof-tiles-4-1.glb",
+      "triangles": 76228,
+      "bytes": 2401016,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-2",
+      "bounds": [
+        -20.381994609447528,
+        -2.136898720000889,
+        -19.381999130042924,
+        -1.0122327599960472
+      ],
+      "url": "roof-tiles-4-2.glb",
+      "triangles": 116018,
+      "bytes": 4543516,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-3",
+      "bounds": [
+        -19.6305465037217,
+        -1.0134572800024473,
+        -19.405991507916607,
+        0.16942904000252385
+      ],
+      "url": "roof-tiles-4-3.glb",
+      "triangles": 67280,
+      "bytes": 2233408,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-4",
+      "bounds": [
+        -20.338535106453428,
+        0.12857459999968057,
+        -19.422214112171492,
+        0.9918612000031857
+      ],
+      "url": "roof-tiles-4-4.glb",
+      "triangles": 58916,
+      "bytes": 1947260,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-5",
+      "bounds": [
+        -20.38908132603689,
+        0.6597936399983951,
+        -19.36449579386392,
+        2.147362800004527
+      ],
+      "url": "roof-tiles-4-5.glb",
+      "triangles": 57826,
+      "bytes": 1882380,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4,
+        0.5
+      ],
+      "includesHero": true,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-6",
+      "bounds": [
+        -20.425710258809467,
+        1.9567829600000353,
+        -19.384645976001643,
+        2.941185720003068
+      ],
+      "url": "roof-tiles-4-6.glb",
+      "triangles": 98644,
+      "bytes": 3859800,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-7",
+      "bounds": [
+        -20.56146784183182,
+        2.9408517599991657,
+        -19.42101876239425,
+        4.132309720001479
+      ],
+      "url": "roof-tiles-4-7.glb",
+      "triangles": 271008,
+      "bytes": 10514472,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-8",
+      "bounds": [
+        -20.52074056691905,
+        4.005293600004191,
+        -19.326415364922,
+        5.119940760002689
+      ],
+      "url": "roof-tiles-4-8.glb",
+      "triangles": 312348,
+      "bytes": 12070392,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-9",
+      "bounds": [
+        -20.36619891581784,
+        4.897857360001803,
+        -19.420677233879534,
+        6.220338960000777
+      ],
+      "url": "roof-tiles-4-9.glb",
+      "triangles": 261716,
+      "bytes": 10091928,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-4-10",
+      "bounds": [
+        -20.74794240868286,
+        5.93157488000372,
+        -18.55823236216921,
+        6.942805760003878
+      ],
+      "url": "roof-tiles-4-10.glb",
+      "triangles": 196272,
+      "bytes": 7554604,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-1",
+      "bounds": [
+        -19.42810547898361,
+        -2.7599567599971153,
+        -18.28509493572207,
+        -2.1514816399972916
+      ],
+      "url": "roof-tiles-5-1.glb",
+      "triangles": 89656,
+      "bytes": 3462784,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-2",
+      "bounds": [
+        -19.434082227930478,
+        -2.133225159997508,
+        -18.39797010851324,
+        -1.0122327599960472
+      ],
+      "url": "roof-tiles-5-2.glb",
+      "triangles": 35512,
+      "bytes": 1164208,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-3",
+      "bounds": [
+        -18.942281172478232,
+        -1.0508607999966018,
+        -18.449370149371358,
+        -0.17354787999528867
+      ],
+      "url": "roof-tiles-5-3.glb",
+      "triangles": 33918,
+      "bytes": 1029844,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-4",
+      "bounds": [
+        -18.849983092462114,
+        -0.009573520001140423,
+        -18.412143541704094,
+        1.0166855600006244
+      ],
+      "url": "roof-tiles-5-4.glb",
+      "triangles": 37494,
+      "bytes": 1222184,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-5",
+      "bounds": [
+        -19.293287099382795,
+        0.9295220000023818,
+        -18.382772089790368,
+        1.9831657999998669
+      ],
+      "url": "roof-tiles-5-5.glb",
+      "triangles": 85144,
+      "bytes": 3278084,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-6",
+      "bounds": [
+        -19.20841726445862,
+        2.0563030400003015,
+        -18.441173465115238,
+        3.0975903200036727
+      ],
+      "url": "roof-tiles-5-6.glb",
+      "triangles": 79328,
+      "bytes": 3055652,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-7",
+      "bounds": [
+        -19.518695916462548,
+        2.64151227999717,
+        -18.441173465115238,
+        4.055944200002867
+      ],
+      "url": "roof-tiles-5-7.glb",
+      "triangles": 294926,
+      "bytes": 11417428,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-8",
+      "bounds": [
+        -20.07274054297562,
+        3.983252239999726,
+        -18.403776093190615,
+        5.661178599999838
+      ],
+      "url": "roof-tiles-5-8.glb",
+      "triangles": 307188,
+      "bytes": 11856600,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-9",
+      "bounds": [
+        -19.513914517305054,
+        4.937264640003554,
+        -18.4004461902146,
+        6.03977792000263
+      ],
+      "url": "roof-tiles-5-9.glb",
+      "triangles": 290860,
+      "bytes": 11239036,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-5-10",
+      "bounds": [
+        -19.534833138582687,
+        5.706263200004656,
+        -18.403690711068002,
+        6.713041280000238
+      ],
+      "url": "roof-tiles-5-10.glb",
+      "triangles": 98324,
+      "bytes": 3792792,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-1",
+      "bounds": [
+        -18.29055939188473,
+        -2.65698575999607,
+        -17.79884371856723,
+        -2.2395357599980317
+      ],
+      "url": "roof-tiles-6-1.glb",
+      "triangles": 34104,
+      "bytes": 1109296,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-2",
+      "bounds": [
+        -18.366464103400737,
+        -1.390832079998839,
+        -18.14617821398106,
+        -1.2674895199970224
+      ],
+      "url": "roof-tiles-6-2.glb",
+      "triangles": 9512,
+      "bytes": 310468,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-3",
+      "bounds": [
+        -18.4328913987365,
+        -1.045183480001444,
+        -17.449545434224113,
+        -0.02181872000186331
+      ],
+      "url": "roof-tiles-6-3.glb",
+      "triangles": 87326,
+      "bytes": 3368972,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-4",
+      "bounds": [
+        -18.390456481274416,
+        -0.02994508000191161,
+        -18.08752069226409,
+        0.6643577600042733
+      ],
+      "url": "roof-tiles-6-4.glb",
+      "triangles": 27492,
+      "bytes": 894520,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-5",
+      "bounds": [
+        -18.329579024236054,
+        1.0274836000002552,
+        -17.408988923580832,
+        1.9733696400040346
+      ],
+      "url": "roof-tiles-6-5.glb",
+      "triangles": 199984,
+      "bytes": 7697452,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-6",
+      "bounds": [
+        -18.435025951923144,
+        1.957228239997329,
+        -17.187251537991813,
+        3.043488800004218
+      ],
+      "url": "roof-tiles-6-6.glb",
+      "triangles": 130848,
+      "bytes": 5036904,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-7",
+      "bounds": [
+        -18.425719300012396,
+        2.6405104000012813,
+        -17.163344542240747,
+        4.474841360001998
+      ],
+      "url": "roof-tiles-6-7.glb",
+      "triangles": 122844,
+      "bytes": 4741560,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-8",
+      "bounds": [
+        -18.44399107533131,
+        3.728106800000052,
+        -17.307896484401773,
+        5.0942258400027525
+      ],
+      "url": "roof-tiles-6-8.glb",
+      "triangles": 144546,
+      "bytes": 5563968,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-9",
+      "bounds": [
+        -18.50683232131109,
+        4.5269391200017655,
+        -17.23446785459926,
+        6.33722495999833
+      ],
+      "url": "roof-tiles-6-9.glb",
+      "triangles": 222846,
+      "bytes": 8632080,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-6-10",
+      "bounds": [
+        -18.706199589441,
+        5.98634432000307,
+        -17.31908154313133,
+        6.748329720001315
+      ],
+      "url": "roof-tiles-6-10.glb",
+      "triangles": 139472,
+      "bytes": 5372716,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-1",
+      "bounds": [
+        -17.625774145767135,
+        -2.7132023599965125,
+        -16.78143028511837,
+        -1.944760400001914
+      ],
+      "url": "roof-tiles-7-1.glb",
+      "triangles": 57212,
+      "bytes": 1903240,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-2",
+      "bounds": [
+        -17.273999779710525,
+        -1.8943324399979304,
+        -16.611178322522214,
+        -1.0441815999976456
+      ],
+      "url": "roof-tiles-7-2.glb",
+      "triangles": 53848,
+      "bytes": 1774960,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-3",
+      "bounds": [
+        -17.429651398478494,
+        -1.1005095199993888,
+        -16.620058063807768,
+        0.4055387600012182
+      ],
+      "url": "roof-tiles-7-3.glb",
+      "triangles": 104052,
+      "bytes": 4005716,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-4",
+      "bounds": [
+        -17.29244231929893,
+        0.06835047999986443,
+        -16.96850252687623,
+        0.8219868800033681
+      ],
+      "url": "roof-tiles-7-4.glb",
+      "triangles": 29116,
+      "bytes": 951496,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-5",
+      "bounds": [
+        -17.393705522723216,
+        1.081362479997108,
+        -17.065752770295063,
+        2.0034260399993373
+      ],
+      "url": "roof-tiles-7-5.glb",
+      "triangles": 62292,
+      "bytes": 2024924,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-6",
+      "bounds": [
+        -17.40804972017143,
+        2.023574959997507,
+        -17.038345107310622,
+        3.08178288000087
+      ],
+      "url": "roof-tiles-7-6.glb",
+      "triangles": 28652,
+      "bytes": 932200,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-7",
+      "bounds": [
+        -17.367834738042866,
+        2.904004840003606,
+        -17.036978993276023,
+        4.003178520003203
+      ],
+      "url": "roof-tiles-7-7.glb",
+      "triangles": 92452,
+      "bytes": 3559316,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-8",
+      "bounds": [
+        -17.38405734229775,
+        3.976684360002071,
+        -17.071387990727214,
+        5.086099480002704
+      ],
+      "url": "roof-tiles-7-8.glb",
+      "triangles": 63652,
+      "bytes": 2076088,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-9",
+      "bounds": [
+        -17.40147529634201,
+        5.0406809200018925,
+        -17.129789366064216,
+        5.937697480004082
+      ],
+      "url": "roof-tiles-7-9.glb",
+      "triangles": 61016,
+      "bytes": 1983472,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    },
+    {
+      "id": "roof-tiles-7-10",
+      "bounds": [
+        -17.422820828269106,
+        6.004378160000252,
+        -17.13149700861353,
+        6.861653480004697
+      ],
+      "url": "roof-tiles-7-10.glb",
+      "triangles": 67652,
+      "bytes": 2242364,
+      "tileSpacingMetres": 0.4,
+      "tileSpacingRangeMetres": [
+        0.4
+      ],
+      "includesHero": false,
+      "drawCalls": 1
+    }
+  ],
+  "microDetailNotes": "All roof rolls, including 0.5m hero and 0.4m ancillary tiles, are optional close-view overlays in nominal 100m cells, recursively split below 16MB. Medium/high body LODs keep continuous roof surfaces, main/hip ridges and eave ornaments but no tile rolls, avoiding subpixel moire. Load micro only above ~300 projected pixels per 100m.",
+  "heightCorrections": [
+    {
+      "id": "taihe",
+      "sourceUrls": [
+        "https://www.dpm.org.cn/explore/building/236465.html",
+        "https://www.dpm.org.cn/Uploads/pdf/1602/T00092_00.pdf"
+      ],
+      "verifiedDate": "2026-09-13",
+      "officialHallBodyMetres": 26.92,
+      "officialTerraceMetres": 8.13,
+      "officialTotalToRidgeMetres": 35.05,
+      "officialTotalIncludingFinialMetres": 37.44,
+      "osmPriorRoofDatumMetres": 41,
+      "retainedConnectedTerraceMetres": 9,
+      "normalizedNominalRoofDatumMetres": 35.92,
+      "remainingTerraceDifferenceMetres": 0.87,
+      "bodyScaleAboveTerrace": 0.84125,
+      "frontBays": 11,
+      "depthBays": 5,
+      "notes": "Wood core and both roof tiers are normalized together above a fixed 9m terrace. Lower gallery begins on that terrace; upper gallery begins above lower roof. Adjacent shared three-tier terraces are not independently rescaled. 35.92m is the normalized nominal roof datum, not a claim of measured finished height; authored ridge caps/finials extend above it and remain approximate. Global 1.1m presentation base offset is separate."
+    }
+  ],
+  "foliage": {
+    "material": "Foliage_Leaves",
+    "texture": "foliage.png",
+    "uvUnits": "0..1",
+    "mediumCardsPerTree": 120,
+    "highCardsPerTree": 360
+  },
+  "surfaceMaterials": {
+    "Terrace_Paving": {
+      "texture": "marble.png",
+      "repeat": 0.25,
+      "stonePanelMetres": [
+        1.8,
+        1.2
+      ],
+      "jointMetres": 0.02
+    },
+    "Courtyard_Axis": {
+      "texture": "courtyard-stone.png",
+      "repeat": 0.18
+    },
+    "Courtyard_Cool": {
+      "texture": "courtyard-stone.png",
+      "repeat": 0.2
+    },
+    "Courtyard_Warm": {
+      "texture": "courtyard-stone.png",
+      "repeat": 0.2
+    },
+    "uvNotes": "All paving UVs are in metres, rotated to the palace axis (~1.37 degrees). Terrace Paving has separate exact-height geometric panels; Limestone retains vertical masonry and white balustrades."
+  },
+  "structuralRevision": "Separated axial paving fields and inset-joint terrace panels; continuously sampled semicylindrical roof rolls with arc-length UV and closed end faces; overlapping forked branch leaf volumes with unchanged planting positions.",
+  "landscape": {
+    "treeCount": 171,
+    "mappedGreenAreaM2": 109153,
+    "canopyFootprintM2": 25293,
+    "waterSourceIds": [
+      4845030,
+      41645233,
+      41645236,
+      41645242,
+      41645244,
+      41645246,
+      41657452,
+      42353096,
+      42353097,
+      638204006,
+      685378539,
+      685378546,
+      685378547,
+      685378549,
+      891271559
+    ],
+    "pathSourceCount": 939,
+    "bridgeSourceIds": [
+      41439019,
+      41439020,
+      41439021,
+      41439022,
+      41439023,
+      41444028,
+      41444029,
+      41444030,
+      41444032,
+      41444033,
+      41444034,
+      41645231,
+      41645237,
+      43519297,
+      227190396,
+      649454405,
+      685378540,
+      41645234,
+      41645238,
+      41645240
+    ],
+    "estimatedChannelWidthMetres": 4,
+    "notes": "Water polygons, open waterway centre-lines and bridge positions are cached OSM; unmapped channel/bridge widths, bank masonry and planting are illustrative. Culverts are excluded. Planting preserves mapped path gaps."
+  },
+  "sourceRecordCount": 2300,
+  "totalHighTriangles": 2730911,
+  "externalAssets": [
+    {
+      "id": "taihe-roof",
+      "title": "写实比例_故宫太和殿顶部 Hall of Supreme Harmony",
+      "author": "TRNKL",
+      "source": "https://sketchfab.com/3d-models/hall-of-supreme-harmony-c354afbc1a4f428d80a26f5904d27fe6",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "bounds": [
+        -20.96232032775879,
+        0.8442354798316956,
+        -20.338529586791992,
+        1.1497288942337036
+      ],
+      "lods": {
+        "preview": {
+          "url": "taihe-roof/preview.glb",
+          "bytes": 12111232,
+          "triangles": 401126,
+          "textureRGBABytesWithMipmaps": 44389717,
+          "compression": {
+            "method": "Draco",
+            "level": 6,
+            "positionQuantization": 20,
+            "normalQuantization": 12,
+            "uvQuantization": 14
+          }
+        },
+        "detail": {
+          "url": "taihe-roof/detail.glb",
+          "bytes": 42149688,
+          "triangles": 3343228,
+          "textureRGBABytesWithMipmaps": 177558869,
+          "compression": {
+            "method": "Draco",
+            "level": 6,
+            "positionQuantization": 20,
+            "normalQuantization": 12,
+            "uvQuantization": 14
+          }
+        }
+      },
+      "sourceSHA256": "c8d3f82a34477eaef3da8a2b69341484fc49b6c5cbe4ff759850c5860433aabd",
+      "uniformSourceToMapScale": 0.010762495920062065,
+      "sourceToBlenderWorldMatrix": [
+        [
+          0.010759402997791767,
+          -0.0002579998690634966,
+          0.0,
+          -20.65042495727539
+        ],
+        [
+          0.0002579998690634966,
+          0.010759402997791767,
+          0.0,
+          0.9969821572303772
+        ],
+        [
+          0.0,
+          0.0,
+          0.010762495920062065,
+          0.2641611397266388
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "limitations": [
+        "Artist-created roof, not surveyed heritage data.",
+        "Uniform width fit preserves original proportions; source eave depth is narrower than prior OSM roof.",
+        "Eave datum is median of main straight drip-tile vertices; ornamental minimum is not used."
+      ]
+    }
+  ],
+  "externalAssetNotes": "TRNKL CC BY4.0 upper roof replaces only source record 638449354 when loaded. Tagged original roof nodes remain a complete fallback. See taihe-roof/ATTRIBUTION.md."
+}

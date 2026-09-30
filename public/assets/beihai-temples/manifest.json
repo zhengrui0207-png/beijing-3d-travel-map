@@ -1,0 +1,411 @@
+{
+  "url": "public/assets/beihai-temples/temples.glb",
+  "revision": "2e3d627bb61c",
+  "buildings": [
+    {
+      "id": 478118169,
+      "name": "正觉殿",
+      "rings": [
+        [
+          [
+            -27.375644687818166,
+            9.741724519997542
+          ],
+          [
+            -27.37530315930345,
+            9.673151400002984
+          ],
+          [
+            -27.276516037580524,
+            9.67370800000158
+          ],
+          [
+            -27.27685756608311,
+            9.742281120004046
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.375644687818166,
+        9.673151400002984,
+        -27.276516037580524,
+        9.742281120004046
+      ],
+      "heightMetresEstimated": 6.9,
+      "groundHeight": 0.1370606733170934,
+      "roofForm": "gable",
+      "bays": 3
+    },
+    {
+      "id": 478118170,
+      "name": "圣果殿",
+      "rings": [
+        [
+          [
+            -27.15177274903037,
+            9.917164839999126
+          ],
+          [
+            -27.225372143102376,
+            9.91749880000303
+          ],
+          [
+            -27.225884435862316,
+            9.804731639998241
+          ],
+          [
+            -27.152199659667698,
+            9.804509000003549
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.225884435862316,
+        9.804509000003549,
+        -27.15177274903037,
+        9.91749880000303
+      ],
+      "heightMetresEstimated": 6.2,
+      "groundHeight": 0.16020028288631116,
+      "roofForm": "gable",
+      "bays": 3
+    },
+    {
+      "id": 478118171,
+      "name": "宗镜殿",
+      "rings": [
+        [
+          [
+            -27.412700531228072,
+            9.913936560000948
+          ],
+          [
+            -27.4871537465626,
+            9.914159200003551
+          ],
+          [
+            -27.48749527507732,
+            9.804954280000842
+          ],
+          [
+            -27.413127441865402,
+            9.80462032000485
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.48749527507732,
+        9.80462032000485,
+        -27.412700531228072,
+        9.914159200003551
+      ],
+      "heightMetresEstimated": 6.2,
+      "groundHeight": 0.14613286639722636,
+      "roofForm": "gable",
+      "bays": 3
+    },
+    {
+      "id": 478118172,
+      "name": "普安殿",
+      "rings": [
+        [
+          [
+            -27.409882921012,
+            10.033939520003287
+          ],
+          [
+            -27.408260660585295,
+            9.933974159997817
+          ],
+          [
+            -27.227592078411632,
+            9.936979800001302
+          ],
+          [
+            -27.229214338838332,
+            10.036945159998863
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.409882921012,
+        9.933974159997817,
+        -27.227592078411632,
+        10.036945159998863
+      ],
+      "heightMetresEstimated": 8.8,
+      "groundHeight": 0.17280117842222176,
+      "roofForm": "hip",
+      "bays": 5
+    },
+    {
+      "id": 561193502,
+      "name": "法轮殿",
+      "rings": [
+        [
+          [
+            -27.404333082714594,
+            9.209169639999036
+          ],
+          [
+            -27.40382078995465,
+            9.10029868000023
+          ],
+          [
+            -27.247742260549355,
+            9.100855279998825
+          ],
+          [
+            -27.24816917118668,
+            9.209837559998931
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.404333082714594,
+        9.10029868000023,
+        -27.247742260549355,
+        9.209837559998931
+      ],
+      "heightMetresEstimated": 9.0,
+      "groundHeight": 0.04987509829467881,
+      "roofForm": "hip",
+      "bays": 5
+    },
+    {
+      "id": 1021040713,
+      "name": "西侧转角附属房",
+      "rings": [
+        [
+          [
+            -27.430630778044407,
+            9.804731639998241
+          ],
+          [
+            -27.48749527507732,
+            9.804954280000842
+          ],
+          [
+            -27.486556071667916,
+            9.679162680002046
+          ],
+          [
+            -27.37530315930345,
+            9.679941920003243
+          ],
+          [
+            -27.375644687818166,
+            9.728700080003533
+          ],
+          [
+            -27.43003310314972,
+            9.728254799998329
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.48749527507732,
+        9.679162680002046,
+        -27.37530315930345,
+        9.804954280000842
+      ],
+      "heightMetresEstimated": 5.0556247895176085,
+      "groundHeight": 0.13610425244782526,
+      "roofForm": "joined-gable",
+      "role": "annex",
+      "fidelity": "Footprint from OSM; roof, height, facade layout inferred. Descriptive name, not verified historic identity."
+    },
+    {
+      "id": 1021040714,
+      "name": "东侧转角附属房",
+      "rings": [
+        [
+          [
+            -27.212991734583447,
+            9.72970195999942
+          ],
+          [
+            -27.27685756608311,
+            9.730035920003322
+          ],
+          [
+            -27.276601419703137,
+            9.68450604000121
+          ],
+          [
+            -27.16014019754385,
+            9.683726800000015
+          ],
+          [
+            -27.15937175840394,
+            9.804509000003549
+          ],
+          [
+            -27.212479441811375,
+            9.804731639998241
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.27685756608311,
+        9.683726800000015,
+        -27.15937175840394,
+        9.804731639998241
+      ],
+      "heightMetresEstimated": 4.898182764474575,
+      "groundHeight": 0.14114632303439223,
+      "roofForm": "joined-gable",
+      "role": "annex",
+      "fidelity": "Footprint from OSM; roof, height, facade layout inferred. Descriptive name, not verified historic identity."
+    },
+    {
+      "id": 1021040720,
+      "name": "西侧北院附属房",
+      "rings": [
+        [
+          [
+            -27.409882921012,
+            10.033939520003287
+          ],
+          [
+            -27.480920851247898,
+            10.033494239998083
+          ],
+          [
+            -27.480323176353213,
+            9.953789119999994
+          ],
+          [
+            -27.408602189100012,
+            9.95445703999989
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.480920851247898,
+        9.953789119999994,
+        -27.408602189100012,
+        10.033939520003287
+      ],
+      "heightMetresEstimated": 5.579589254752031,
+      "groundHeight": 0.16590886085182951,
+      "roofForm": "gable",
+      "role": "annex",
+      "fidelity": "Footprint from OSM; roof, height, facade layout inferred. Descriptive name, not verified historic identity."
+    },
+    {
+      "id": 1021040721,
+      "name": "东侧北院附属房",
+      "rings": [
+        [
+          [
+            -27.15774949797724,
+            10.03906023999985
+          ],
+          [
+            -27.229214338838332,
+            10.036945159998863
+          ],
+          [
+            -27.22793360692635,
+            9.95679476000348
+          ],
+          [
+            -27.155358798398492,
+            9.958909840004466
+          ]
+        ]
+      ],
+      "bounds": [
+        -27.229214338838332,
+        9.95679476000348,
+        -27.155358798398492,
+        10.03906023999985
+      ],
+      "heightMetresEstimated": 5.606503027165704,
+      "groundHeight": 0.1780529363737484,
+      "roofForm": "gable",
+      "role": "annex",
+      "fidelity": "Footprint from OSM; roof, height, facade layout inferred. Descriptive name, not verified historic identity."
+    },
+    {
+      "id": 478118173,
+      "name": "悦心殿",
+      "rings": [
+        [
+          [
+            -27.83892811261921,
+            9.976387080003054
+          ],
+          [
+            -28.02967178585567,
+            9.967592800003109
+          ],
+          [
+            -28.024548858195594,
+            9.857831280001808
+          ],
+          [
+            -27.83389056708175,
+            9.86662556000175
+          ]
+        ]
+      ],
+      "bounds": [
+        -28.02967178585567,
+        9.857831280001808,
+        -27.83389056708175,
+        9.976387080003054
+      ],
+      "heightMetresEstimated": 8.565,
+      "groundHeight": 0.12254374396503855,
+      "roofForm": "xieshan",
+      "role": "context-hall",
+      "bays": 5,
+      "frontSteps": 7,
+      "source": "https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885733.html",
+      "fidelity": "Official description: five bays, grey barrel-tile Xieshan roof, front/back galleries, four centre door leaves, seven front steps. OSM footprint. Height, platform extent, stone carvings, ornament, windows, tile sizes inferred. Rear corridors not reconstructed."
+    },
+    {
+      "id": 262853255,
+      "name": "庆霄楼",
+      "rings": [
+        [
+          [
+            -27.826633086222895,
+            10.2509021999997
+          ],
+          [
+            -28.042052194362466,
+            10.244223000000744
+          ],
+          [
+            -28.038636909263836,
+            10.135463360003241
+          ],
+          [
+            -27.823217801124265,
+            10.142253880003498
+          ]
+        ]
+      ],
+      "bounds": [
+        -28.042052194362466,
+        10.135463360003241,
+        -27.823217801124265,
+        10.2509021999997
+      ],
+      "heightMetresEstimated": 11.934,
+      "groundHeight": 0.1696082947810209,
+      "roofForm": "hipped-with-waist-eaves",
+      "role": "context-hall",
+      "bays": 7,
+      "storeys": 2,
+      "source": "https://www.bjxch.gov.cn/f/130226//27888.pdf",
+      "fidelity": "Two storeys, seven bays and upper gallery documented in Xicheng archive. Footprint and hipped roof tag from OSM. Height, waist eaves, balcony, colours, lattice and ornament approximated. Historical photo reference located but could not be visually inspected. Not a survey or a historical facsimile."
+    }
+  ],
+  "bytes": 5953160,
+  "triangles": 413258,
+  "source": "OSM footprints; Beijing Tourism / Beijing Park Management official reference photographs and architectural descriptions. Heights, tile motifs and unseen elevations inferred."
+}

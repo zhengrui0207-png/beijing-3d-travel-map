@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "level": "preview",
+      "bytes": 4191952,
+      "triangles": 70966,
+      "bounds": [
+        [
+          -0.5886457562446594,
+          0.0,
+          -0.19516730308532715
+        ],
+        [
+          0.5886457562446594,
+          0.3486872911453247,
+          0.19516730308532715
+        ]
+      ],
+      "embeddedTextures": 1,
+      "draco": true
+    },
+    {
+      "level": "detail",
+      "bytes": 7040812,
+      "triangles": 340558,
+      "bounds": [
+        [
+          -0.5886457562446594,
+          0.0,
+          -0.19516730308532715
+        ],
+        [
+          0.5886457562446594,
+          0.3486872911453247,
+          0.19516730308532715
+        ]
+      ],
+      "embeddedTextures": 1,
+      "draco": true
+    }
+  ],
+  "sourcePartsReplacedByMask": [
+    "way/637950062/0",
+    "way/637950071/0",
+    "way/637950077/0",
+    "way/637950084/0",
+    "way/637950091/0",
+    "way/637950096/0",
+    "way/637950103/0",
+    "way/637950110/0",
+    "way/637950120/0",
+    "way/637950127/0",
+    "way/637950131/0",
+    "way/637950169/0"
+  ],
+  "adjacentBoundaryWalls": [
+    "way/637959201/0",
+    "way/638011746/0",
+    "way/638170716/0",
+    "way/638170728/0"
+  ],
+  "note": "Scale and packaging validated; photographic accuracy remains a separate visual assessment."
+}

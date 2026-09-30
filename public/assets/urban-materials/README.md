@@ -1,0 +1,6 @@
+# 普通建筑屋面材质
+
+`concrete-roof-v1.png` 由内置 image_gen 工具生成，作为普通平屋顶的代表性灰色水泥防水面材质；不是任何建筑的实景摄影或扫描。名义重复面积8×8米，使用mipmap及4倍各向异性过滤。仅调制既有屋顶颜色，保留已标记的材质颜色；斜屋顶继续使用原有瓦片处理，不改变建筑高度或地理轮廓。
+
+Prompt:
+Use case: photorealistic-natural. Asset type: seamless repeating PBR base-color texture for ordinary flat rooftops in a Beijing interactive 3D city map. Generate one square 1024x1024 tile representing an 8 metre by 8 metre patch of medium cool grey weathered cementitious flat roof surface, subtle fine mineral aggregate, restrained slightly mottled aging, a few very fine regular sealed expansion joints, faint mineral wash marks. True orthographic top-down surface scan appearance, uniform diffuse overcast illumination with all directional lighting removed. No objects, no parapets, no buildings, no rooftop equipment, no cast shadows, no perspective, no text or watermark. Not a roof illustration, only a physically plausible repeatable material surface. Avoid dramatic cracks, puddles, strong stains, vignette, exaggerated contrast, or grungy distress. Opposite image edges should tile seamlessly. Overall medium grey albedo, approximately RGB 130,135,137. Usable as a quiet realistic texture across thousands of flat roofs, crisp but not noisy.

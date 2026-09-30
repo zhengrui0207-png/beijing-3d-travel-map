@@ -1,0 +1,21 @@
+{
+  "facades": {
+    "profiles": {
+      "generic": 19779,
+      "residential": 3394,
+      "commercial": 699,
+      "civic": 414,
+      "lowrise": 505,
+      "glass": 2
+    },
+    "floorSources": {
+      "height-inferred": 17339,
+      "osm-levels": 7454
+    },
+    "method": "OSM building classes and explicit storey counts; facade bays and fenestration are illustrative. Unknown buildings keep generic style."
+  },
+  "revision": "58d08dcba609",
+  "tiles": 144,
+  "detailBytes": 225546156,
+  "shellBytes": 33309532
+}

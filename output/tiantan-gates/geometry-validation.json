@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chengzhen",
+    "level": "preview",
+    "passages": [
+      true,
+      true,
+      true
+    ],
+    "glyphTriangles": {
+      "成贞门牌匾 門": 1920,
+      "成贞门牌匾 貞": 1980,
+      "成贞门牌匾 成": 3216,
+      "成贞门牌匾 門.001": 1920,
+      "成贞门牌匾 貞.001": 1980,
+      "成贞门牌匾 成.001": 3216
+    },
+    "finite": true
+  },
+  {
+    "id": "chengzhen",
+    "level": "detail",
+    "passages": [
+      true,
+      true,
+      true
+    ],
+    "glyphTriangles": {
+      "成贞门牌匾 門.002": 1920,
+      "成贞门牌匾 貞.002": 1980,
+      "成贞门牌匾 成.002": 3216,
+      "成贞门牌匾 門.003": 1920,
+      "成贞门牌匾 貞.003": 1980,
+      "成贞门牌匾 成.003": 3216
+    },
+    "finite": true
+  },
+  {
+    "id": "mound-outer-gate",
+    "level": "preview",
+    "passages": [
+      true,
+      false,
+      true
+    ],
+    "glyphTriangles": {},
+    "finite": true
+  },
+  {
+    "id": "mound-outer-gate",
+    "level": "detail",
+    "passages": [
+      true,
+      false,
+      true
+    ],
+    "glyphTriangles": {},
+    "finite": true
+  },
+  {
+    "id": "mound-inner-gate",
+    "level": "preview",
+    "passages": [
+      true,
+      true,
+      true
+    ],
+    "glyphTriangles": {},
+    "finite": true
+  },
+  {
+    "id": "mound-inner-gate",
+    "level": "detail",
+    "passages": [
+      true,
+      true,
+      true
+    ],
+    "glyphTriangles": {},
+    "finite": true
+  }
+]

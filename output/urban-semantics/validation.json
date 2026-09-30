@@ -1,0 +1,13 @@
+{
+  "buildings": 25039,
+  "footprintsUnchanged": true,
+  "elevatedParts": 138,
+  "inheritedParts": 386,
+  "solidWalls": 246,
+  "conflictingRecordsPreserved": [
+    "way/519416291/0",
+    "way/519416292/0"
+  ],
+  "duanmenRoofBaseMetres": 30.1,
+  "note": "29m above 1.1m common scene datum; height coordinates include that datum. All source footprints preserved."
+}

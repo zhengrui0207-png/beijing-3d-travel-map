@@ -1,0 +1,8 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {createHash} from 'node:crypto';import {footprintContains} from '../public/landmark-footprint.js';
+const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));const plan=read('data/tiantan-gates-plan.json'),m=read('public/assets/route-landmarks/manifest.json');
+test('three temple gates replace only their own mapped footprint and retain distinct LOD assets',()=>{
+ for(const p of plan.parts){const s=m.assets.find(a=>a.id===p.id);assert.deepEqual([s.x,s.y],p.center);assert.equal(s.rotation,p.angle);assert.deepEqual(s.maskPolygon,p.maskPolygon);for(const pt of p.maskPolygon)assert.ok(footprintContains(pt,s.maskPolygon));for(const id of ['imperial-vault','echo-court']){const q=m.assets.find(a=>a.id===id);assert.equal(footprintContains([q.x,q.y],s.maskPolygon),false);}for(const url of Object.values(s.lods)){const b=fs.readFileSync(new URL('../'+url.split('?')[0],import.meta.url));assert.equal(b.subarray(0,4).toString(),'glTF');assert.equal(b.readUInt32LE(8),b.length);assert.ok(url.endsWith(createHash('sha256').update(b).digest('hex').slice(0,12)));}}
+});
+test('linked gates preserve attribution and recorded geometric passage checks',()=>{
+ const v=read('output/tiantan-gates/geometry-validation.json');assert.equal(v.length,6);for(const a of v){assert.equal(a.finite,true);assert.deepEqual(a.passages,a.id==='mound-outer-gate'?[true,false,true]:[true,true,true]);for(const count of Object.values(a.glyphTriangles))assert.ok(count>100);}const s=fs.readFileSync(new URL('../public/assets/tiantan-gates/ATTRIBUTION.html',import.meta.url),'utf8');for(const name of ['Bjoertvedt','MiiCii','BrokenSphere'])assert.ok(s.includes(name));
+});

@@ -1,0 +1,48 @@
+{
+  "assets": [
+    {
+      "level": "preview",
+      "bytes": 4774480,
+      "triangles": 131892,
+      "bounds": [
+        [
+          -0.5907986760139465,
+          0.0,
+          -0.1958417147397995
+        ],
+        [
+          0.5907986760139465,
+          0.34700000286102295,
+          0.19631179085263284
+        ]
+      ],
+      "embeddedTextures": 2,
+      "draco": true
+    },
+    {
+      "level": "detail",
+      "bytes": 8444064,
+      "triangles": 490284,
+      "bounds": [
+        [
+          -0.5907986760139465,
+          0.0,
+          -0.1958417147397995
+        ],
+        [
+          0.5907986760139465,
+          0.34700000286102295,
+          0.19631179085263284
+        ]
+      ],
+      "embeddedTextures": 2,
+      "draco": true
+    }
+  ],
+  "overlappingOrdinaryBuildings": [],
+  "adjacentBoundaryWalls": [
+    "way/685274596/0",
+    "way/685297727/0"
+  ],
+  "note": "Scale and packaging validated; photographic accuracy remains a separate visual assessment."
+}

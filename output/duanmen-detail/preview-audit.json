@@ -1,0 +1,39 @@
+{
+  "level": "preview",
+  "footprintMetres": [
+    117.52914721437726,
+    38.71345917110597
+  ],
+  "heightMetres": 35,
+  "heightSource": "OSM, not surveyed",
+  "portals": 5,
+  "centerOpeningMetres": [
+    5.52,
+    8.82
+  ],
+  "columnGrid": [
+    10,
+    6
+  ],
+  "frontBays": 9,
+  "bodyOffsetMetres": [
+    -3.35,
+    1.025
+  ],
+  "boundsLocalBlender": [
+    [
+      -0.5886457562446594,
+      -0.19516730308532715,
+      0.0
+    ],
+    [
+      0.5886457562446594,
+      0.19516730308532715,
+      0.3486872911453247
+    ]
+  ],
+  "triangles": 70966,
+  "meshes": 16,
+  "bytes": 4191952,
+  "sha": "e6c51e005883"
+}

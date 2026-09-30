@@ -1,0 +1,5 @@
+import json,math
+from pathlib import Path
+R=Path(__file__).resolve().parents[1];r=next(x for x in json.loads((R/'data/urban/records.json').read_text())['records']if x['osmId']==31099286);ring=r['rings'][0];pairs=[(0,9),(1,8),(2,7),(3,6),(4,5)];axis=[[(ring[a][i]+ring[b][i])/2 for i in [0,1]]for a,b in pairs];lens=[math.dist(a,b)*100 for a,b in zip(axis,axis[1:])];total=sum(lens);counts=[int(72*l/total)for l in lens]
+for i in sorted(range(4),key=lambda i:72*lens[i]/total-counts[i],reverse=True)[:72-sum(counts)]:counts[i]+=1
+p={'osmId':31099286,'center':r['center'],'bounds':r['bounds'],'maskPolygon':ring,'axis':axis,'segmentLengths':lens,'mappedLengthMetres':total,'officialLengthMetres':295,'officialWidthMetres':5,'bayCounts':counts,'note':'OSM centreline retained; official current park site gives295m and5m. Older city sources say350m; do not rescale map to reconcile.72 bays distributed over mapped segments; positions/roof heights inferred.'};(R/'data/tiantan-corridor-plan.json').write_text(json.dumps(p,ensure_ascii=False,indent=2));print(p)

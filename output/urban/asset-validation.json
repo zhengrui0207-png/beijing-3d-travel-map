@@ -1,0 +1,17 @@
+{
+  "buildings": 25039,
+  "pitchedRoofs": 477,
+  "photoInferredRoofs": 3,
+  "districts": 144,
+  "meshes": 468,
+  "vertices": 8663817,
+  "assetBytes": 258775336,
+  "checks": [
+    "all finite coordinates",
+    "ground-aligned heights",
+    "preserved OSM footprint ids including inner buildings of pedestrian plazas",
+    "wall UVs for facade alignment",
+    "district assets and bounds",
+    "no foreign scene objects"
+  ]
+}

@@ -1,0 +1,6838 @@
+[
+  {
+    "name": "三里屯东街",
+    "type": "way",
+    "id": "42709499",
+    "lon": 116.452558325,
+    "lat": 39.941023825,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯东街",
+      "name:en": "Sanlitun East Street",
+      "name:zh": "三里屯东街"
+    }
+  },
+  {
+    "name": "三里屯东五街",
+    "type": "way",
+    "id": "173394535",
+    "lon": 116.4523762,
+    "lat": 39.942484799999995,
+    "tags": {
+      "highway": "unclassified",
+      "name": "三里屯东五街",
+      "name:en": "Sanlitun East 5th Street",
+      "name:zh": "三里屯东五街"
+    }
+  },
+  {
+    "name": "三里屯东六街",
+    "type": "way",
+    "id": "173394538",
+    "lon": 116.4519818,
+    "lat": 39.9436895,
+    "tags": {
+      "highway": "unclassified",
+      "name": "三里屯东六街",
+      "name:en": "Sanlitun East 6th Street",
+      "name:zh": "三里屯东六街"
+    }
+  },
+  {
+    "name": "前门正阳市场三号楼旁",
+    "type": "node",
+    "id": "2047960611",
+    "lon": 116.3864131,
+    "lat": 39.8983356,
+    "tags": {
+      "amenity": "toilets",
+      "name": "前门正阳市场三号楼旁",
+      "opening_hours": "Mo-Su 05:00-23:00; Apr-Oct Mo-Su 05:00-24:00",
+      "operator": "北京市西城区环境卫生服务中心",
+      "ref": "1041020131003",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "王府井小吃街",
+    "type": "node",
+    "id": "4225970395",
+    "lon": 116.4047354,
+    "lat": 39.9098345,
+    "tags": {
+      "addr:city": "东城区",
+      "addr:province": "北京市",
+      "alt_name:en": "Wangfujing Food Street",
+      "amenity": "fast_food",
+      "cuisine": "chinese",
+      "name": "王府井小吃街",
+      "name:en": "Wangfujing Snack Street",
+      "name:zh": "王府井小吃街"
+    }
+  },
+  {
+    "name": "百年前门铜锅涮肉",
+    "type": "node",
+    "id": "4445933689",
+    "lon": 116.3928582,
+    "lat": 39.8946744,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "hotpot",
+      "name": "百年前门铜锅涮肉",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "name": "大栅栏",
+    "type": "node",
+    "id": "4454758090",
+    "lon": 116.390172,
+    "lat": 39.8944985,
+    "tags": {
+      "name": "大栅栏",
+      "name:en": "Dashilan",
+      "name:ko": "대책란가",
+      "name:th": "ถนนต้าจ้าหลาน",
+      "tourism": "attraction",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "前门客栈",
+    "type": "node",
+    "id": "5080812684",
+    "lon": 116.388008,
+    "lat": 39.8948075,
+    "tags": {
+      "name": "前门客栈",
+      "tourism": "hotel",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "name": "前门宾馆",
+    "type": "node",
+    "id": "5080812685",
+    "lon": 116.3879891,
+    "lat": 39.8948753,
+    "tags": {
+      "name": "前门宾馆",
+      "tourism": "hotel",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "name": "前门历史大街",
+    "type": "node",
+    "id": "5150889521",
+    "lon": 116.391926,
+    "lat": 39.8933831,
+    "tags": {
+      "name": "前门历史大街",
+      "name:en": "Qianmen Historic Street",
+      "opening_hours": "24/7",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "四季民福(王府井东安门店)",
+    "type": "node",
+    "id": "5676871421",
+    "lon": 116.4019727,
+    "lat": 39.9141268,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "internet_access": "wlan",
+      "name": "四季民福(王府井东安门店)",
+      "name:en": "Siji Minfu",
+      "opening_hours": "Mo-Su 10:30-22:00"
+    }
+  },
+  {
+    "name": "王府井古人类文化遗址博物馆",
+    "type": "node",
+    "id": "6039590930",
+    "lon": 116.4065838,
+    "lat": 39.90758,
+    "tags": {
+      "museum": "history",
+      "name": "王府井古人类文化遗址博物馆",
+      "name:en": "Wangfujing Paleolithic Museum",
+      "name:ru": "Палеонтологический музей Ванфуцзин",
+      "name:zh": "王府井古人类文化遗址博物馆",
+      "name:zh-Hans": "王府井古人类文化遗址博物馆",
+      "name:zh-Hant": "王府井古人類文化遺址博物館",
+      "tourism": "museum"
+    }
+  },
+  {
+    "name": "康师傅私房牛肉面(前门店)",
+    "type": "node",
+    "id": "6302629603",
+    "lon": 116.3912527,
+    "lat": 39.8947147,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "康师傅私房牛肉面(前门店)",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "name": "前门烤鸭店",
+    "type": "node",
+    "id": "6594295579",
+    "lon": 116.3880379,
+    "lat": 39.895531,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "前门烤鸭店",
+      "name:en": "Qianmen Roast Duck"
+    }
+  },
+  {
+    "name": "北京前门四合院漫心府",
+    "type": "node",
+    "id": "6738512485",
+    "lon": 116.3937649,
+    "lat": 39.8936354,
+    "tags": {
+      "addr:housenumber": "120",
+      "addr:postcode": "100051",
+      "addr:street": "大江胡同",
+      "internet_access": "wlan",
+      "name": "北京前门四合院漫心府",
+      "name:en": "Manxim Courtyard Hotel",
+      "name:zh": "北京前门四合院漫心府",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "前门街道",
+    "type": "node",
+    "id": "8985515582",
+    "lon": 116.4011136,
+    "lat": 39.8924273,
+    "tags": {
+      "capital": "8",
+      "division_code": "110101011000",
+      "name": "前门街道",
+      "name:en": "Qianmen",
+      "name:ko": "첸먼가도",
+      "name:zh": "前门街道",
+      "name:zh-Hans": "前门街道",
+      "name:zh-Hant": "前門街道",
+      "name:zh-Latn-pinyin": "Qiánmén Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q10899090",
+      "wikipedia": "zh:前门街道"
+    }
+  },
+  {
+    "name": "大栅栏街道",
+    "type": "node",
+    "id": "8986305156",
+    "lon": 116.3869006,
+    "lat": 39.8915005,
+    "tags": {
+      "capital": "8",
+      "division_code": "110102013000",
+      "name": "大栅栏街道",
+      "name:en": "Dashilan",
+      "name:ko": "다스렌가도",
+      "name:zh": "大栅栏街道",
+      "name:zh-Hans": "大栅栏街道",
+      "name:zh-Hant": "大柵欄街道",
+      "name:zh-Latn-pinyin": "Dàshílàn Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q10935933",
+      "wikipedia": "zh:大栅栏街道"
+    }
+  },
+  {
+    "name": "王府井希尔顿酒店健身中心",
+    "type": "node",
+    "id": "9120014692",
+    "lon": 116.4070319,
+    "lat": 39.9134292,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "王府井希尔顿酒店健身中心",
+      "sport": "swimming"
+    }
+  },
+  {
+    "name": "王府井",
+    "type": "node",
+    "id": "9317006992",
+    "lon": 116.4076996,
+    "lat": 39.9069258,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井",
+      "name:zh": "王府井",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "王府井",
+    "type": "node",
+    "id": "9317006993",
+    "lon": 116.4078954,
+    "lat": 39.9069258,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井",
+      "name:zh": "王府井",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "王府井",
+    "type": "node",
+    "id": "9317006994",
+    "lon": 116.4067689,
+    "lat": 39.9065163,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井",
+      "name:zh": "王府井",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "王府井",
+    "type": "node",
+    "id": "9317006995",
+    "lon": 116.4069968,
+    "lat": 39.9065287,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井",
+      "name:zh": "王府井",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "大栅栏",
+    "type": "node",
+    "id": "9327458934",
+    "lon": 116.3949618,
+    "lat": 39.8946929,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "大栅栏",
+      "name:zh": "大栅栏",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "大栅栏",
+    "type": "node",
+    "id": "9327458935",
+    "lon": 116.3949618,
+    "lat": 39.894553,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "大栅栏",
+      "name:zh": "大栅栏",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "大栅栏",
+    "type": "node",
+    "id": "9327458939",
+    "lon": 116.3882723,
+    "lat": 39.892421,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "大栅栏",
+      "name:zh": "大栅栏",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "大栅栏",
+    "type": "node",
+    "id": "9327458941",
+    "lon": 116.3882911,
+    "lat": 39.8926772,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "大栅栏",
+      "name:zh": "大栅栏",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327480047",
+    "lon": 116.3882187,
+    "lat": 39.8963783,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327480050",
+    "lon": 116.388161,
+    "lat": 39.8951549,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327480051",
+    "lon": 116.3881221,
+    "lat": 39.8955654,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509918",
+    "lon": 116.3931969,
+    "lat": 39.8978712,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:en": "Qianmen",
+      "name:ja": "前門",
+      "name:ru": "Цяньмэнь",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509919",
+    "lon": 116.3929917,
+    "lat": 39.8977704,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:en": "Qianmen",
+      "name:ja": "前門",
+      "name:ru": "Цяньмэнь",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509920",
+    "lon": 116.3927691,
+    "lat": 39.8976644,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:en": "Qianmen",
+      "name:ja": "前門",
+      "name:ru": "Цяньмэнь",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509921",
+    "lon": 116.3924955,
+    "lat": 39.8975697,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509922",
+    "lon": 116.3922098,
+    "lat": 39.8974514,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509923",
+    "lon": 116.3900198,
+    "lat": 39.897971,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509924",
+    "lon": 116.3902974,
+    "lat": 39.8977405,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509925",
+    "lon": 116.3906957,
+    "lat": 39.8975996,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509926",
+    "lon": 116.3909385,
+    "lat": 39.8975234,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327509927",
+    "lon": 116.3911946,
+    "lat": 39.897438,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327517415",
+    "lon": 116.3941625,
+    "lat": 39.8973372,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327517416",
+    "lon": 116.3943368,
+    "lat": 39.8970368,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "node",
+    "id": "9327518317",
+    "lon": 116.3945112,
+    "lat": 39.8966581,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门",
+      "name:zh": "前门",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918598",
+    "lon": 116.3871539,
+    "lat": 39.8988044,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918600",
+    "lon": 116.3881087,
+    "lat": 39.8989608,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918601",
+    "lon": 116.3879827,
+    "lat": 39.8989638,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918602",
+    "lon": 116.3878083,
+    "lat": 39.8989782,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918604",
+    "lon": 116.385224,
+    "lat": 39.8986736,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门西",
+    "type": "node",
+    "id": "9378918605",
+    "lon": 116.3853328,
+    "lat": 39.8986761,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门西",
+      "name:zh": "前门西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门东",
+    "type": "node",
+    "id": "9669799571",
+    "lon": 116.3950852,
+    "lat": 39.8989587,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门东",
+      "name:ja": "前門東",
+      "name:zh": "前门东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门东",
+    "type": "node",
+    "id": "9669799572",
+    "lon": 116.3958576,
+    "lat": 39.8990698,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门东",
+      "name:zh": "前门东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "前门东",
+    "type": "node",
+    "id": "9669799573",
+    "lon": 116.3956363,
+    "lat": 39.8992756,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "前门东",
+      "name:ja": "前門東",
+      "name:zh": "前门东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "王府井路口北",
+    "type": "node",
+    "id": "10125648469",
+    "lon": 116.4053312,
+    "lat": 39.9082796,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井路口北",
+      "name:zh": "王府井路口北",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "王府井路口北",
+    "type": "node",
+    "id": "10125648470",
+    "lon": 116.4050952,
+    "lat": 39.9082858,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "王府井路口北",
+      "name:zh": "王府井路口北",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "东交民巷饭店",
+    "type": "node",
+    "id": "10816336949",
+    "lon": 116.4014838,
+    "lat": 39.901267,
+    "tags": {
+      "addr:housenumber": "甲23",
+      "addr:street": "东交民巷",
+      "amenity": "restaurant",
+      "name": "东交民巷饭店"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "10844047293",
+    "lon": 116.3925777,
+    "lat": 39.8969875,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃"
+    }
+  },
+  {
+    "name": "王府井社区",
+    "type": "node",
+    "id": "12824118856",
+    "lon": 116.4082789,
+    "lat": 39.9128964,
+    "tags": {
+      "name": "王府井社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "前门东大街社区",
+    "type": "node",
+    "id": "12824994937",
+    "lon": 116.3987625,
+    "lat": 39.8984443,
+    "tags": {
+      "name": "前门东大街社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "中国建设银行北京市分行前门支行",
+    "type": "node",
+    "id": "12943920012",
+    "lon": 116.4051777,
+    "lat": 39.8981274,
+    "tags": {
+      "addr:housenumber": "1号",
+      "addr:street": "西打磨厂街",
+      "amenity": "bank",
+      "brand": "中国建设银行",
+      "brand:en": "China Construction Bank",
+      "brand:wikidata": "Q26299",
+      "brand:zh": "中国建设银行",
+      "name": "中国建设银行北京市分行前门支行",
+      "name:en": "China Construction Bank",
+      "name:zh": "中国建设银行北京市分行前门支行"
+    }
+  },
+  {
+    "name": "前门派出所",
+    "type": "node",
+    "id": "13091778501",
+    "lon": 116.4025989,
+    "lat": 39.8981657,
+    "tags": {
+      "amenity": "police",
+      "name": "前门派出所"
+    }
+  },
+  {
+    "name": "八爷涮肉（王府井店）",
+    "type": "node",
+    "id": "13429897801",
+    "lon": 116.4001046,
+    "lat": 39.9136244,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "南河沿大街",
+      "amenity": "restaurant",
+      "name": "八爷涮肉（王府井店）"
+    }
+  },
+  {
+    "name": "天安门地区消防救援支队国家博物馆特勤站",
+    "type": "node",
+    "id": "13860179876",
+    "lon": 116.3948789,
+    "lat": 39.9018785,
+    "tags": {
+      "amenity": "fire_station",
+      "name": "天安门地区消防救援支队国家博物馆特勤站"
+    }
+  },
+  {
+    "name": "天安門廣場 / 天安门广场",
+    "type": "node",
+    "id": "14099531701",
+    "lon": 116.3915483,
+    "lat": 39.9006528,
+    "tags": {
+      "name": "天安門廣場 / 天安门广场",
+      "name:de": "Tian’anmen-Platz",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "4908400",
+    "lon": 116.39655379999999,
+    "lat": 39.89916381,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "9779112",
+    "lon": 116.39194588461538,
+    "lat": 39.89358036153846,
+    "tags": {
+      "bicycle": "no",
+      "highway": "pedestrian",
+      "name": "前门大街",
+      "name:en": "Qianmen Street",
+      "name:fr": "Grande rue Qiánmén",
+      "name:zh": "前门大街",
+      "name:zh-Latn-pinyin": "qiánmén dàjiē",
+      "surface": "paving_stones",
+      "wikidata": "Q10899082",
+      "wikipedia": "zh:前門大街"
+    }
+  },
+  {
+    "name": "东交民巷",
+    "type": "way",
+    "id": "24804550",
+    "lon": 116.40489735625,
+    "lat": 39.90094558125,
+    "tags": {
+      "highway": "unclassified",
+      "name": "东交民巷",
+      "name:en": "Dongjiaomin Alley",
+      "name:zh": "东交民巷",
+      "name:zh-Hans": "东交民巷",
+      "name:zh-Hant": "東交民巷",
+      "name:zh-Latn-pinyin": "Dōngjiāomín Xiàng"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "29549788",
+    "lon": 116.39116856666665,
+    "lat": 39.8987981,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "大栅栏街",
+    "type": "way",
+    "id": "30680703",
+    "lon": 116.3910512888889,
+    "lat": 39.894603088888886,
+    "tags": {
+      "alt_name": "大栅栏商业街",
+      "bicycle": "no",
+      "highway": "pedestrian",
+      "name": "大栅栏街",
+      "name:en": "Dashilan Street",
+      "surface": "paving_stones",
+      "wikidata": "Q2791717",
+      "wikipedia": "zh:大栅栏"
+    }
+  },
+  {
+    "name": "大栅栏西街",
+    "type": "way",
+    "id": "30749201",
+    "lon": 116.38664409999998,
+    "lat": 39.89364031,
+    "tags": {
+      "highway": "pedestrian",
+      "name": "大栅栏西街",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "33612197",
+    "lon": 116.404982515,
+    "lat": 39.91308505,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "pedestrian",
+      "motor_vehicle": "no",
+      "name": "王府井大街",
+      "name:de": "Wangfujing Einkaufsstraße",
+      "name:en": "Wangfujing Street",
+      "name:ko": "왕푸징",
+      "name:ru": "Ванфуцзин",
+      "name:th": "ถนนหวังฟูจิ้ง",
+      "name:zh": "王府井大街",
+      "name:zh-Hans": "王府井大街",
+      "name:zh-Hant": "王府井大街",
+      "old_name:en": "Morrison Street",
+      "old_name:en:etymology": "George Ernest Morrison",
+      "old_name:en:etymology:wikidata": "Q842116",
+      "tourism": "attraction",
+      "wikidata": "Q1009423",
+      "wikipedia": "zh:王府井大街"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "33612208",
+    "lon": 116.4052597625,
+    "lat": 39.9076812875,
+    "tags": {
+      "highway": "tertiary",
+      "name": "王府井大街",
+      "name:en": "Wangfujing Street",
+      "name:zh": "王府井大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西河沿街",
+    "type": "way",
+    "id": "39321822",
+    "lon": 116.39078433333333,
+    "lat": 39.897065741666665,
+    "tags": {
+      "bicycle": "no",
+      "highway": "pedestrian",
+      "int_name": "qianmen xi he yan jie",
+      "name": "前门西河沿街",
+      "name:en": "Qianmenxiheyan Street",
+      "name:zh": "前门西河沿街",
+      "service": "alley",
+      "surface": "paving_stones"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "127844297",
+    "lon": 116.38851866,
+    "lat": 39.898871580000005,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "Qianmen West Street",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "127844300",
+    "lon": 116.38410554761904,
+    "lat": 39.899001514285715,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "127844301",
+    "lon": 116.392196175,
+    "lat": 39.898732625,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "128490592",
+    "lon": 116.39736800666667,
+    "lat": 39.899285139999996,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井书店",
+    "type": "way",
+    "id": "146633673",
+    "lon": 116.4062275,
+    "lat": 39.90884966,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "100006",
+      "addr:street": "东长安街",
+      "building": "yes",
+      "building:levels": "12",
+      "name": "王府井书店",
+      "name:en": "Wangfujing Bookstore",
+      "name:es": "Wangfujing Bookstore",
+      "name:zh": "王府井书店",
+      "name:zh-Hans": "王府井书店",
+      "name:zh-Hant": "王府井書店",
+      "shop": "books",
+      "source:name": "name on the building"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "146689778",
+    "lon": 116.38076292727273,
+    "lat": 39.89854179090909,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "中山公园音乐堂",
+    "type": "way",
+    "id": "149216919",
+    "lon": 116.38932651111112,
+    "lat": 39.90929523888889,
+    "tags": {
+      "amenity": "theatre",
+      "brand": "保利剧院",
+      "building": "yes",
+      "name": "中山公园音乐堂",
+      "name:ko": "중산공원음악당",
+      "name:ru": "концертный зал парка Чжуншань",
+      "name:vi": "Nhà hát Công viên Trung Sơn",
+      "name:zh": "中山公园音乐堂",
+      "name:zh-Hans": "中山公园音乐堂",
+      "name:zh-Hant": "中山公園音樂堂",
+      "name:zh-Latn-pinyin": "Zhōngshān Gōngyuán Yīnyuètáng",
+      "operator": "保利剧院",
+      "wikidata": "Q5467326",
+      "wikimedia_commons": "Category:Forbidden City Concert Hall",
+      "wikipedia": "en:Forbidden City Concert Hall"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "162382436",
+    "lon": 116.40518836999999,
+    "lat": 39.90780203,
+    "tags": {
+      "highway": "tertiary",
+      "name": "王府井大街",
+      "name:en": "Wangfujing Street",
+      "name:zh": "王府井大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "168609619",
+    "lon": 116.3899559,
+    "lat": 39.89821255,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西后河沿街",
+    "type": "way",
+    "id": "168609621",
+    "lon": 116.38799025714286,
+    "lat": 39.8980228,
+    "tags": {
+      "highway": "service",
+      "name": "前门西后河沿街",
+      "service": "alley",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "172805320",
+    "lon": 116.38089098,
+    "lat": 39.898837220000004,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "West Qianmen Street",
+      "name:zh": "前门西大街",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门东路",
+    "type": "way",
+    "id": "173323014",
+    "lon": 116.39476041666667,
+    "lat": 39.891017133333335,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门东路",
+      "name:en": "Qianmen East Road",
+      "name:fr": "Route Est de Qiánmén",
+      "name:zh": "前门东路",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Lù",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "184540880",
+    "lon": 116.39983543333334,
+    "lat": 39.8993164,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "East Qianmen Street",
+      "name:zh": "前门东大街",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "194267354",
+    "lon": 116.38090644444443,
+    "lat": 39.898707900000005,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "Qianmen West Street",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门2号通道",
+    "type": "way",
+    "id": "194281553",
+    "lon": 116.39444230000001,
+    "lat": 39.898964899999996,
+    "tags": {
+      "highway": "footway",
+      "layer": "1",
+      "name": "前门2号通道",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "name": "前门3号通道",
+    "type": "way",
+    "id": "194281554",
+    "lon": 116.39352790000001,
+    "lat": 39.898118139999994,
+    "tags": {
+      "highway": "footway",
+      "layer": "-1",
+      "name": "前门3号通道",
+      "surface": "paving_stones",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "name": "前门6号通道",
+    "type": "way",
+    "id": "194282667",
+    "lon": 116.3900465,
+    "lat": 39.89792235,
+    "tags": {
+      "alt_name": "箭楼西地下通道",
+      "highway": "footway",
+      "layer": "1",
+      "name": "前门6号通道",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "194283844",
+    "lon": 116.39320711428572,
+    "lat": 39.89799814285714,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "225932290",
+    "lon": 116.38868355,
+    "lat": 39.898746583333335,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "Qianmen West Street",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "225932291",
+    "lon": 116.39169835714286,
+    "lat": 39.89745385714286,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井南口东通道",
+    "type": "way",
+    "id": "229703433",
+    "lon": 116.40595429999999,
+    "lat": 39.906689150000005,
+    "tags": {
+      "highway": "footway",
+      "layer": "-1",
+      "name": "王府井南口东通道",
+      "tunnel": "yes"
+    }
+  },
+  {
+    "name": "王府井喜悦购物中心",
+    "type": "way",
+    "id": "233692527",
+    "lon": 116.40440818333333,
+    "lat": 39.908508291666664,
+    "tags": {
+      "building": "yes",
+      "building:levels": "9",
+      "name": "王府井喜悦购物中心",
+      "name:en": "Beijing Mall",
+      "name:zh": "王府井喜悦购物中心",
+      "opening_hours": "10:00-22:00",
+      "shop": "mall",
+      "wikidata": "Q4881122",
+      "wikimedia_commons": "Category:Beijing Wangfujing Department Store",
+      "wikipedia": "en:Beijing Department Store"
+    }
+  },
+  {
+    "name": "前门东路",
+    "type": "way",
+    "id": "238470908",
+    "lon": 116.39474516190475,
+    "lat": 39.89401878571429,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门东路",
+      "name:en": "East Qianmen Road",
+      "name:fr": "Route Est de Qiánmén",
+      "name:zh": "前门东路",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Lù",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井淘汇新天购物广场",
+    "type": "way",
+    "id": "262848828",
+    "lon": 116.40442128333335,
+    "lat": 39.914476908333334,
+    "tags": {
+      "building": "yes",
+      "name": "王府井淘汇新天购物广场",
+      "name:zh": "王府井淘汇新天购物广场",
+      "name:zh-Hans": "王府井淘汇新天购物广场",
+      "name:zh-Hant": "王府井淘匯新天購物廣場",
+      "shop": "mall"
+    }
+  },
+  {
+    "name": "北京王府井希尔顿酒店",
+    "type": "way",
+    "id": "368736558",
+    "lon": 116.4070398923077,
+    "lat": 39.91338240769231,
+    "tags": {
+      "addr:city": "Beijing",
+      "addr:housenumber": "8",
+      "addr:postcode": "100006",
+      "addr:street": "Wangfujing East StreetI",
+      "brand": "Hilton",
+      "brand:wikidata": "Q598884",
+      "brand:wikipedia": "en:Hilton Hotels & Resorts",
+      "building": "yes",
+      "building:levels": "9",
+      "contact:facebook": "https://www.facebook.com/pages/Hilton-Beijing-Wangfujing/152252541503398",
+      "email": "Wangfujing@hilton.com",
+      "name": "北京王府井希尔顿酒店",
+      "name:en": "Hilton Beijing Wangfujing",
+      "name:zh": "北京王府井希尔顿酒店",
+      "operator": "Hilton",
+      "phone": "+86 10 5812 8888",
+      "rooms": "255",
+      "stars": "5",
+      "tourism": "hotel",
+      "website": "https://www3.hilton.com/en/hotels/china/hilton-beijing-wangfujing-BJSWFHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BJSWFHI",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "王府井银泰in88",
+    "type": "way",
+    "id": "476128739",
+    "lon": 116.40549637586207,
+    "lat": 39.91487605862069,
+    "tags": {
+      "building": "yes",
+      "name": "王府井银泰in88",
+      "name:zh": "王府井银泰in88",
+      "name:zh-Hans": "王府井银泰in88",
+      "name:zh-Hant": "王府井銀泰in88",
+      "shop": "mall"
+    }
+  },
+  {
+    "name": "前门街道办事处",
+    "type": "way",
+    "id": "477916214",
+    "lon": 116.4007412,
+    "lat": 39.89245531428571,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "南芦草原胡同",
+      "amenity": "townhall",
+      "building": "yes",
+      "name": "前门街道办事处",
+      "townhall:type": "town"
+    }
+  },
+  {
+    "name": "北京市前门外国语学校",
+    "type": "way",
+    "id": "478555219",
+    "lon": 116.39683418333334,
+    "lat": 39.89834938333333,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市前门外国语学校"
+    }
+  },
+  {
+    "name": "前门西河沿街",
+    "type": "way",
+    "id": "485905446",
+    "lon": 116.38400935714286,
+    "lat": 39.897544221428575,
+    "tags": {
+      "highway": "service",
+      "int_name": "qianmen xi he yan jie",
+      "name": "前门西河沿街",
+      "name:en": "Qianmenxiheyan Street",
+      "name:zh": "前门西河沿街",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "大栅栏西街警务工作室",
+    "type": "way",
+    "id": "520259387",
+    "lon": 116.38595311111112,
+    "lat": 39.89428167777778,
+    "tags": {
+      "amenity": "police",
+      "building": "yes",
+      "height": "3.15",
+      "name": "大栅栏西街警务工作室"
+    }
+  },
+  {
+    "name": "劳动人民文化宫派出所",
+    "type": "way",
+    "id": "523763746",
+    "lon": 116.3933622,
+    "lat": 39.907448239999994,
+    "tags": {
+      "amenity": "police",
+      "building": "yes",
+      "building:levels": "1",
+      "name": "劳动人民文化宫派出所"
+    }
+  },
+  {
+    "name": "王府井西街",
+    "type": "way",
+    "id": "590039505",
+    "lon": 116.40262926666666,
+    "lat": 39.911013233333335,
+    "tags": {
+      "highway": "living_street",
+      "name": "王府井西街"
+    }
+  },
+  {
+    "name": "前门",
+    "type": "way",
+    "id": "685107463",
+    "lon": 116.39366867741936,
+    "lat": 39.90876658064516,
+    "tags": {
+      "building": "yes",
+      "name": "前门",
+      "name:zh": "前门",
+      "name:zh-Hans": "前门",
+      "name:zh-Hant": "前門",
+      "name:zh-Latn-pinyin": "Qiánmén"
+    }
+  },
+  {
+    "name": "前门小学新怡校区",
+    "type": "way",
+    "id": "707995796",
+    "lon": 116.40691364,
+    "lat": 39.89692888,
+    "tags": {
+      "amenity": "school",
+      "name": "前门小学新怡校区"
+    }
+  },
+  {
+    "name": "北京第一实验小学（前门分校）",
+    "type": "way",
+    "id": "922791259",
+    "lon": 116.382789925,
+    "lat": 39.897977624999996,
+    "tags": {
+      "amenity": "school",
+      "name": "北京第一实验小学（前门分校）"
+    }
+  },
+  {
+    "name": "前门小学正义校区",
+    "type": "way",
+    "id": "962574353",
+    "lon": 116.40144878333332,
+    "lat": 39.898559733333336,
+    "tags": {
+      "amenity": "school",
+      "name": "前门小学正义校区"
+    }
+  },
+  {
+    "name": "北京市东交民巷小学西校区",
+    "type": "way",
+    "id": "962574354",
+    "lon": 116.4065933,
+    "lat": 39.90197002727273,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市东交民巷小学西校区"
+    }
+  },
+  {
+    "name": "北京市东交民巷小学（东校区）",
+    "type": "way",
+    "id": "962574355",
+    "lon": 116.41381806666666,
+    "lat": 39.90254091111112,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市东交民巷小学（东校区）",
+      "name:zh": "北京市东交民巷小学（东校区）",
+      "name:zh-Hans": "北京市东交民巷小学（东校区）",
+      "name:zh-Hant": "北京市東交民巷小學（東校區）"
+    }
+  },
+  {
+    "name": "前门消防救援站及战勤保障站",
+    "type": "way",
+    "id": "983879819",
+    "lon": 116.39461424285714,
+    "lat": 39.897533842857136,
+    "tags": {
+      "amenity": "fire_station",
+      "name": "前门消防救援站及战勤保障站",
+      "operator": "应急管理部消防救援局",
+      "operator:wikidata": "Q60573921",
+      "operator:zh": "应急管理部消防救援局"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "1052210061",
+    "lon": 116.39054375,
+    "lat": 39.89771905,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "1052210062",
+    "lon": 116.39245826666667,
+    "lat": 39.89762036666667,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "1056011297",
+    "lon": 116.3902352,
+    "lat": 39.89788336666667,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "1060946258",
+    "lon": 116.40344495,
+    "lat": 39.8995166625,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门东大街辅路",
+    "type": "way",
+    "id": "1060946260",
+    "lon": 116.40148049999999,
+    "lat": 39.8995418,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门东大街辅路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门东路",
+    "type": "way",
+    "id": "1061756821",
+    "lon": 116.39391909999999,
+    "lat": 39.89752703,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门东路",
+      "name:en": "East Qianmen Road",
+      "name:fr": "Route Est de Qiánmén",
+      "name:zh": "前门东路",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Lù",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "1067065527",
+    "lon": 116.4038288375,
+    "lat": 39.8994179875,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "East Qianmen Street",
+      "name:zh": "前门东大街",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1070838875",
+    "lon": 116.386320325,
+    "lat": 39.89886955,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "Qianmen West Street",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "1084247376",
+    "lon": 116.39283835,
+    "lat": 39.89776775,
+    "tags": {
+      "highway": "secondary",
+      "name": "前门大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1140792813",
+    "lon": 116.38506796666667,
+    "lat": 39.898843666666664,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "Qianmen West Street",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1140792814",
+    "lon": 116.38698968333334,
+    "lat": 39.89869888333333,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1140792815",
+    "lon": 116.38481005,
+    "lat": 39.8986841,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1145602704",
+    "lon": 116.38527755000001,
+    "lat": 39.898698800000005,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1145602706",
+    "lon": 116.38546006666667,
+    "lat": 39.898705,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门西大街",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1145602707",
+    "lon": 116.38649605,
+    "lat": 39.89897666666667,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "West Qianmen Street",
+      "name:zh": "前门西大街",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门东大街辅路",
+    "type": "way",
+    "id": "1163031543",
+    "lon": 116.40487672857144,
+    "lat": 39.8993337,
+    "tags": {
+      "cycleway:left": "no",
+      "cycleway:right": "lane",
+      "highway": "tertiary",
+      "name": "前门东大街辅路",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街辅路",
+    "type": "way",
+    "id": "1163031544",
+    "lon": 116.40098210000001,
+    "lat": 39.89959736666666,
+    "tags": {
+      "cycleway:right": "lane",
+      "highway": "tertiary",
+      "name": "前门东大街辅路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门商业大厦",
+    "type": "way",
+    "id": "1163508875",
+    "lon": 116.39407028571429,
+    "lat": 39.8981817,
+    "tags": {
+      "building": "commercial",
+      "building:levels": "3",
+      "name": "前门商业大厦"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "1181110241",
+    "lon": 116.40452538,
+    "lat": 39.899700280000005,
+    "tags": {
+      "cycleway:right": "lane",
+      "highway": "cycleway",
+      "motor_vehicle": "yes",
+      "name": "前门东大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "1191265284",
+    "lon": 116.40219185000001,
+    "lat": 39.899212150000004,
+    "tags": {
+      "highway": "cycleway",
+      "motor_vehicle": "yes",
+      "name": "前门东大街",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "前门东大街辅路",
+    "type": "way",
+    "id": "1191265285",
+    "lon": 116.40256853333334,
+    "lat": 39.899598166666664,
+    "tags": {
+      "highway": "tertiary",
+      "name": "前门东大街辅路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1350422341",
+    "lon": 116.40522394999999,
+    "lat": 39.906663449999996,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Taijichang Lu",
+      "name": "王府井大街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1354141147",
+    "lon": 116.40498525357143,
+    "lat": 39.91549749285714,
+    "tags": {
+      "area": "yes",
+      "bicycle": "yes",
+      "highway": "pedestrian",
+      "motor_vehicle": "no",
+      "name": "王府井大街",
+      "name:de": "Wangfujing Einkaufsstraße",
+      "name:en": "Wangfujing Street",
+      "name:ko": "왕푸징",
+      "name:ru": "Ванфуцзин",
+      "name:th": "ถนนหวังฟูจิ้ง",
+      "name:zh": "王府井大街",
+      "name:zh-Hans": "王府井大街",
+      "name:zh-Hant": "王府井大街",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "前门东大街",
+    "type": "way",
+    "id": "1362527643",
+    "lon": 116.40093845,
+    "lat": 39.899452275,
+    "tags": {
+      "highway": "primary",
+      "name": "前门东大街",
+      "name:en": "Qianmen East Street",
+      "name:zh-Latn-pinyin": "Qiánmén Dōng Dà Jiē",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1364427803",
+    "lon": 116.40526415,
+    "lat": 39.90666495,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Taijichang Lu",
+      "name": "王府井大街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "前门西大街",
+    "type": "way",
+    "id": "1424222213",
+    "lon": 116.3779633,
+    "lat": 39.89874715,
+    "tags": {
+      "highway": "primary",
+      "name": "前门西大街",
+      "name:en": "West Qianmen Street",
+      "name:zh": "前门西大街",
+      "name:zh-Latn-pinyin": "qiánmén xī dàjiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "9671804275",
+    "lon": 116.4328994,
+    "lat": 39.9535969,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃"
+    }
+  },
+  {
+    "name": "三里屯北小街",
+    "type": "way",
+    "id": "173394530",
+    "lon": 116.44627619999999,
+    "lat": 39.94174594,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯北小街"
+    }
+  },
+  {
+    "name": "三里屯西六街",
+    "type": "way",
+    "id": "173394533",
+    "lon": 116.4479606,
+    "lat": 39.943002175000004,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯西六街",
+      "name:en": "Santilun West Sixth Street",
+      "name:zh": "三里屯西六街",
+      "name:zh-Latn-pinyin": "Sānlǐtún xī liù jiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "三里屯西五街",
+    "type": "way",
+    "id": "173394537",
+    "lon": 116.44663203333334,
+    "lat": 39.94114913333333,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯西五街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "三里屯路",
+    "type": "way",
+    "id": "186756778",
+    "lon": 116.44929616666667,
+    "lat": 39.94183482222222,
+    "tags": {
+      "highway": "tertiary",
+      "name": "三里屯路",
+      "name:en": "Sanlitun Road",
+      "name:zh-Latn-pinyin": "Sānlǐtún lù",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "北京三里屯英国学校",
+    "type": "way",
+    "id": "236077929",
+    "lon": 116.44803071999999,
+    "lat": 39.9433614,
+    "tags": {
+      "addr:city": "Beijing",
+      "addr:postcode": "100027",
+      "addr:street": "Sanlitun Road",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "5",
+      "name": "北京三里屯英国学校",
+      "name:en": "The British School of Beijing, Sanlitun",
+      "name:zh": "北京三里屯英国学校"
+    }
+  },
+  {
+    "name": "北京三里屯英国学校",
+    "type": "way",
+    "id": "315128248",
+    "lon": 116.44746652857143,
+    "lat": 39.943375628571424,
+    "tags": {
+      "amenity": "school",
+      "name": "北京三里屯英国学校",
+      "name:en": "The British School of Beijing, Sanlitun",
+      "name:zh": "北京三里屯英国学校"
+    }
+  },
+  {
+    "name": "三里屯西六街",
+    "type": "way",
+    "id": "315128249",
+    "lon": 116.4453078,
+    "lat": 39.9430138,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯西六街",
+      "name:en": "Santilun West Sixth Street",
+      "name:zh": "三里屯西六街",
+      "name:zh-Latn-pinyin": "Sanlitun Xiliujie",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "北京景山学校（北校区）",
+    "type": "way",
+    "id": "964176202",
+    "lon": 116.42059077272728,
+    "lat": 39.94685018181818,
+    "tags": {
+      "amenity": "school",
+      "name": "北京景山学校（北校区）"
+    }
+  },
+  {
+    "name": "什刹海九门小吃",
+    "type": "node",
+    "id": "4826963813",
+    "lon": 116.3756216,
+    "lat": 39.9442901,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "什刹海九门小吃",
+      "name:en": "Jiumen Snacks"
+    }
+  },
+  {
+    "name": "什刹海城市探索中心",
+    "type": "node",
+    "id": "9105357477",
+    "lon": 116.3740409,
+    "lat": 39.9465297,
+    "tags": {
+      "amenity": "community_centre",
+      "name": "什刹海城市探索中心",
+      "name:en": "Shichahai City Discovery Center"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "10832166973",
+    "lon": 116.3662814,
+    "lat": 39.9461879,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese;local",
+      "diet:halal": "yes",
+      "name": "护国寺小吃",
+      "opening_hours": "06:00-21:00"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "10832167831",
+    "lon": 116.3574801,
+    "lat": 39.9410624,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "diet:halal": "yes",
+      "name": "护国寺小吃",
+      "opening_hours": "06:00-21:00"
+    }
+  },
+  {
+    "name": "鼓楼西大街",
+    "type": "way",
+    "id": "24399553",
+    "lon": 116.38044042121213,
+    "lat": 39.943305787878785,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼西大街",
+      "name:en": "West Gulou Street",
+      "name:zh": "鼓楼西大街",
+      "name:zh-Latn-pinyin": "Gǔlóu Xī Dà Jiē",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "风雨雪日坛公园攀岩墙",
+    "type": "node",
+    "id": "4915768599",
+    "lon": 116.4394186,
+    "lat": 39.9147345,
+    "tags": {
+      "fee": "yes",
+      "leisure": "sports_centre",
+      "name": "风雨雪日坛公园攀岩墙",
+      "name:en": "Ritan Park Rock Climbing Area",
+      "outdoor": "yes",
+      "sport": "climbing"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317114734",
+    "lon": 116.4355999,
+    "lat": 39.9072735,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317114735",
+    "lon": 116.4358225,
+    "lat": 39.9072797,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317114737",
+    "lon": 116.4383894,
+    "lat": 39.9072848,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317114739",
+    "lon": 116.4383586,
+    "lat": 39.9069721,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317114741",
+    "lon": 116.4385758,
+    "lat": 39.9069751,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "node",
+    "id": "9317122291",
+    "lon": 116.4367881,
+    "lat": 39.9069854,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛路",
+      "name:zh": "日坛路",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛公园",
+    "type": "node",
+    "id": "10696108769",
+    "lon": 116.4362383,
+    "lat": 39.9119747,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "日坛公园",
+      "name:zh": "日坛公园",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "日坛涮肉",
+    "type": "node",
+    "id": "11133630912",
+    "lon": 116.4401748,
+    "lat": 39.9132248,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "日坛涮肉"
+    }
+  },
+  {
+    "name": "日坛公园",
+    "type": "way",
+    "id": "24476204",
+    "lon": 116.43770798666667,
+    "lat": 39.91422411777778,
+    "tags": {
+      "addr:district": "朝阳区",
+      "addr:housenumber": "6号",
+      "addr:province": "北京市",
+      "addr:street": "日坛北路",
+      "check_date": "2026-03-20",
+      "leisure": "park",
+      "name": "日坛公园",
+      "name:en": "Ritan Park",
+      "name:ru": "Парк Житань",
+      "name:zh": "日坛公园",
+      "name:zh-Latn-pinyin": "Rìtán Gōngyuán",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "phone": "+86 10 8561 9984",
+      "wikidata": "Q964720",
+      "wikimedia_commons": "Category:Temple of the Sun",
+      "wikipedia": "en:Ritan (Beijing)"
+    }
+  },
+  {
+    "name": "日坛东路",
+    "type": "way",
+    "id": "24476233",
+    "lon": 116.440352,
+    "lat": 39.9097266,
+    "tags": {
+      "highway": "tertiary",
+      "name": "日坛东路",
+      "name:en": "Ritan East Road",
+      "oneway": "yes",
+      "oneway:bicycle": "no"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "way",
+    "id": "33616161",
+    "lon": 116.43485028333333,
+    "lat": 39.91412893333334,
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "tertiary",
+      "lanes": "2",
+      "name": "日坛路",
+      "name:en": "Ritan Road",
+      "name:zh-Latn-pinyin": "Rìtán Lù",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "日坛东二街",
+    "type": "way",
+    "id": "42709603",
+    "lon": 116.44175425,
+    "lat": 39.913835399999996,
+    "tags": {
+      "highway": "residential",
+      "name": "日坛东二街",
+      "name:en": "Ritan Dongertiao"
+    }
+  },
+  {
+    "name": "日坛",
+    "type": "way",
+    "id": "123893918",
+    "lon": 116.4381683173913,
+    "lat": 39.91446441739131,
+    "tags": {
+      "access": "no",
+      "area": "yes",
+      "check_date": "2026-03-20",
+      "foot:conditional": "yes @ 08:00-17:00",
+      "highway": "pedestrian",
+      "name": "日坛",
+      "name:en": "Altar of the Sun",
+      "name:ru": "Храм Солнца",
+      "name:zh": "日坛",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "日坛东路",
+    "type": "way",
+    "id": "202361370",
+    "lon": 116.44039382000001,
+    "lat": 39.91463238,
+    "tags": {
+      "highway": "unclassified",
+      "name": "日坛东路",
+      "name:en": "East Ritan Road",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "日坛东路",
+    "type": "way",
+    "id": "244777928",
+    "lon": 116.44035604999999,
+    "lat": 39.911205100000004,
+    "tags": {
+      "highway": "unclassified",
+      "name": "日坛东路",
+      "name:en": "E. Ritan"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "way",
+    "id": "244777931",
+    "lon": 116.43481085,
+    "lat": 39.908178516666666,
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "tertiary",
+      "lanes": "2",
+      "name": "日坛路",
+      "name:en": "Ritan Road",
+      "name:zh-Latn-pinyin": "Rìtán Lù",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "北京市日坛中学（高中部）",
+    "type": "way",
+    "id": "975553953",
+    "lon": 116.4463076875,
+    "lat": 39.909453150000004,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市日坛中学（高中部）",
+      "name:zh": "日坛中学"
+    }
+  },
+  {
+    "name": "北京市日坛中学（初中部）",
+    "type": "way",
+    "id": "981124995",
+    "lon": 116.44120912999999,
+    "lat": 39.90541612,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市日坛中学（初中部）"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "way",
+    "id": "1539681128",
+    "lon": 116.4348222,
+    "lat": 39.90727315,
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "tertiary",
+      "lanes": "2",
+      "name": "日坛路",
+      "name:en": "Ritan Road",
+      "name:zh-Latn-pinyin": "Rìtán Lù",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "日坛路",
+    "type": "way",
+    "id": "1539681129",
+    "lon": 116.43480704999999,
+    "lat": 39.91116765,
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "tertiary",
+      "lanes": "2",
+      "name": "日坛路",
+      "name:en": "Ritan Road",
+      "name:zh-Latn-pinyin": "Rìtán Lù",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "北京市三里屯一中百子园校区",
+    "type": "way",
+    "id": "442185080",
+    "lon": 116.47740527142857,
+    "lat": 39.896957199999996,
+    "tags": {
+      "amenity": "school",
+      "grades": "1-9",
+      "name": "北京市三里屯一中百子园校区"
+    }
+  },
+  {
+    "name": "鼓楼桥西",
+    "type": "node",
+    "id": "1502634008",
+    "lon": 116.3845594,
+    "lat": 39.9474227,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥西",
+      "name:zh": "鼓楼桥西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼桥西",
+    "type": "node",
+    "id": "1502634010",
+    "lon": 116.3843962,
+    "lat": 39.947691,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥西",
+      "name:zh": "鼓楼桥西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼桥西",
+    "type": "node",
+    "id": "1502668718",
+    "lon": 116.385274,
+    "lat": 39.947791,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥西",
+      "name:zh": "鼓楼桥西",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "北锣鼓巷5号旁",
+    "type": "node",
+    "id": "1555209347",
+    "lon": 116.3964719,
+    "lat": 39.9470041,
+    "tags": {
+      "amenity": "toilets",
+      "name": "北锣鼓巷5号旁",
+      "opening_hours": "24/7",
+      "operator": "北京市东城区环境卫生服务中心六所",
+      "ref": "101102304097"
+    }
+  },
+  {
+    "name": "北京雍和宫国际青年旅舍",
+    "type": "node",
+    "id": "1668284807",
+    "lon": 116.4117958,
+    "lat": 39.9403175,
+    "tags": {
+      "name": "北京雍和宫国际青年旅舍",
+      "name:en": "Beijing Lama Temple Youth Hostel",
+      "name:zh": "北京雍和宫国际青年旅舍",
+      "source": "GPS",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "name": "喆啡酒店北京鼓楼店",
+    "type": "node",
+    "id": "5189728421",
+    "lon": 116.3874807,
+    "lat": 39.9436276,
+    "tags": {
+      "addr:street": "旧鼓楼大街47号",
+      "name": "喆啡酒店北京鼓楼店",
+      "name:en": "James Joyce Coffetel",
+      "phone": "+86 10 6405 8188",
+      "tourism": "hotel",
+      "website": "http://www.jjcoffetels.com"
+    }
+  },
+  {
+    "name": "地坛体育馆",
+    "type": "node",
+    "id": "5391458824",
+    "lon": 116.4027186,
+    "lat": 39.9550564,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "地坛体育馆",
+      "name:zh": "地坛体育馆",
+      "name:zh-Hans": "地坛体育馆",
+      "name:zh-Hant": "地壇體育館"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "6475573503",
+    "lon": 116.410408,
+    "lat": 39.9637226,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "diet:halal": "yes",
+      "name": "护国寺小吃",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "name": "鼓楼西剧场",
+    "type": "node",
+    "id": "7092467722",
+    "lon": 116.3816681,
+    "lat": 39.9443877,
+    "tags": {
+      "amenity": "theatre",
+      "name": "鼓楼西剧场"
+    }
+  },
+  {
+    "name": "地坛体育馆",
+    "type": "node",
+    "id": "7605605582",
+    "lon": 116.4019641,
+    "lat": 39.9541148,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛体育馆",
+      "name:zh": "地坛体育馆",
+      "name:zh-Hans": "地坛体育馆",
+      "name:zh-Hant": "地壇體育館",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛体育馆",
+    "type": "node",
+    "id": "7605605583",
+    "lon": 116.4015746,
+    "lat": 39.9553259,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛体育馆",
+      "name:zh": "地坛体育馆",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛西门",
+    "type": "node",
+    "id": "7605619569",
+    "lon": 116.4020417,
+    "lat": 39.9510081,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛西门",
+      "name:zh": "地坛西门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛西门",
+    "type": "node",
+    "id": "7605619570",
+    "lon": 116.4019994,
+    "lat": 39.9523468,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛西门",
+      "name:zh": "地坛西门",
+      "name:zh-Hans": "地坛西门",
+      "name:zh-Hant": "地壇西門",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼外大街北站",
+    "type": "node",
+    "id": "7605917330",
+    "lon": 116.3884916,
+    "lat": 39.960798,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼外大街北站",
+      "name:zh": "鼓楼外大街北站",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼外大街北站",
+    "type": "node",
+    "id": "7605917331",
+    "lon": 116.3888535,
+    "lat": 39.9605938,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼外大街北站",
+      "name:zh": "鼓楼外大街北站",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼外大街南站",
+    "type": "node",
+    "id": "7605918481",
+    "lon": 116.3889246,
+    "lat": 39.9592472,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼外大街南站",
+      "name:zh": "鼓楼外大街南站",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼外大街南站",
+    "type": "node",
+    "id": "7605918482",
+    "lon": 116.3888858,
+    "lat": 39.9531124,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼外大街南站",
+      "name:zh": "鼓楼外大街南站",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛东门",
+    "type": "node",
+    "id": "7640270533",
+    "lon": 116.4123885,
+    "lat": 39.9530066,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛东门",
+      "name:zh": "地坛东门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛东门",
+    "type": "node",
+    "id": "7640270534",
+    "lon": 116.4128479,
+    "lat": 39.95134,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛东门",
+      "name:zh": "地坛东门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛东门",
+    "type": "node",
+    "id": "7640302311",
+    "lon": 116.4140472,
+    "lat": 39.9526913,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛东门",
+      "name:zh": "地坛东门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛南门",
+    "type": "node",
+    "id": "7640333786",
+    "lon": 116.4113163,
+    "lat": 39.9497088,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛南门",
+      "name:zh": "地坛南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛南门",
+    "type": "node",
+    "id": "7640333787",
+    "lon": 116.4097329,
+    "lat": 39.9489712,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛南门",
+      "name:zh": "地坛南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫",
+    "type": "node",
+    "id": "9673878276",
+    "lon": 116.4104703,
+    "lat": 39.9467513,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫",
+      "name:zh": "雍和宫",
+      "name:zh-Hans": "雍和宫",
+      "name:zh-Hant": "雍和宮",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫",
+    "type": "node",
+    "id": "9673878278",
+    "lon": 116.4101994,
+    "lat": 39.9467667,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫",
+      "name:zh": "雍和宫",
+      "name:zh-Hans": "雍和宫",
+      "name:zh-Hant": "雍和宮",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "国子监",
+    "type": "node",
+    "id": "9673878280",
+    "lon": 116.4103651,
+    "lat": 39.9434824,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "国子监",
+      "name:zh": "国子监",
+      "name:zh-Hans": "国子监",
+      "name:zh-Hant": "國子監",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "国子监",
+    "type": "node",
+    "id": "9673878281",
+    "lon": 116.4104716,
+    "lat": 39.9445849,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "国子监",
+      "name:zh": "国子监",
+      "name:zh-Hans": "国子监",
+      "name:zh-Hant": "國子監",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫桥东",
+    "type": "node",
+    "id": "9676263976",
+    "lon": 116.4141288,
+    "lat": 39.9481331,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫桥东",
+      "name:zh": "雍和宫桥东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫桥东",
+    "type": "node",
+    "id": "9676263978",
+    "lon": 116.4122808,
+    "lat": 39.9482647,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫桥东",
+      "name:zh": "雍和宫桥东",
+      "name:zh-Hans": "雍和宫桥东",
+      "name:zh-Hant": "雍和宮橋東",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫桥东",
+    "type": "node",
+    "id": "9676263979",
+    "lon": 116.4121681,
+    "lat": 39.9476931,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫桥东",
+      "name:zh": "雍和宫桥东",
+      "name:zh-Hans": "雍和宫桥东",
+      "name:zh-Hant": "雍和宮橋東",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "雍和宫桥东",
+    "type": "node",
+    "id": "9676263980",
+    "lon": 116.4144051,
+    "lat": 39.9479151,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "雍和宫桥东",
+      "name:zh": "雍和宫桥东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛西门",
+    "type": "node",
+    "id": "9700881752",
+    "lon": 116.4016995,
+    "lat": 39.9510142,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛西门",
+      "name:zh": "地坛西门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛西门",
+    "type": "node",
+    "id": "9700881753",
+    "lon": 116.4017129,
+    "lat": 39.9512812,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛西门",
+      "name:zh": "地坛西门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "地坛西门",
+    "type": "node",
+    "id": "9700881756",
+    "lon": 116.4020535,
+    "lat": 39.9512565,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛西门",
+      "name:zh": "地坛西门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼桥西",
+    "type": "node",
+    "id": "9749200718",
+    "lon": 116.3863358,
+    "lat": 39.9473497,
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥西",
+      "name:zh": "鼓楼桥西",
+      "passenger_information_display": "yes",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "tactile_paving": "yes"
+    }
+  },
+  {
+    "name": "鼓楼北",
+    "type": "node",
+    "id": "9797817269",
+    "lon": 116.3877735,
+    "lat": 39.9436133,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼北",
+      "name:zh": "鼓楼北",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼桥南",
+    "type": "node",
+    "id": "9797859399",
+    "lon": 116.3877574,
+    "lat": 39.9457951,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥南",
+      "name:zh": "鼓楼桥南",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼桥南",
+    "type": "node",
+    "id": "9797859400",
+    "lon": 116.3874891,
+    "lat": 39.9466526,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼桥南",
+      "name:zh": "鼓楼桥南",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼北",
+    "type": "node",
+    "id": "9797859401",
+    "lon": 116.3876179,
+    "lat": 39.9434056,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼北",
+      "name:zh": "鼓楼北",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "钟楼北桥北",
+    "type": "node",
+    "id": "9935637096",
+    "lon": 116.389254,
+    "lat": 39.95219,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "钟楼北桥北",
+      "name:zh": "钟楼北桥北",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "钟楼北桥北",
+    "type": "node",
+    "id": "9935698736",
+    "lon": 116.3889698,
+    "lat": 39.9513717,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "钟楼北桥北",
+      "name:zh": "钟楼北桥北",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "name": "钟楼北桥北",
+    "type": "node",
+    "id": "10137803558",
+    "lon": 116.3888584,
+    "lat": 39.9513583,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "钟楼北桥北",
+      "name:zh": "钟楼北桥北",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "name": "地坛北门",
+    "type": "node",
+    "id": "10271410799",
+    "lon": 116.4091158,
+    "lat": 39.9555722,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "地坛北门",
+      "name:zh": "地坛北门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "五道营社区",
+    "type": "node",
+    "id": "12824153203",
+    "lon": 116.4045024,
+    "lat": 39.9457725,
+    "tags": {
+      "name": "五道营社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "钟楼湾社区",
+    "type": "node",
+    "id": "12824153205",
+    "lon": 116.390984,
+    "lat": 39.940541,
+    "tags": {
+      "name": "钟楼湾社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "国子监社区",
+    "type": "node",
+    "id": "12824153206",
+    "lon": 116.409502,
+    "lat": 39.9453612,
+    "tags": {
+      "name": "国子监社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "北锣鼓巷社区",
+    "type": "node",
+    "id": "12824153207",
+    "lon": 116.3952756,
+    "lat": 39.945789,
+    "tags": {
+      "name": "北锣鼓巷社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "地坛社区",
+    "type": "node",
+    "id": "12824940093",
+    "lon": 116.4095878,
+    "lat": 39.9564975,
+    "tags": {
+      "name": "地坛社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "钟楼湾胡同",
+    "type": "way",
+    "id": "4947938",
+    "lon": 116.38920447857143,
+    "lat": 39.94062736428572,
+    "tags": {
+      "highway": "service",
+      "name": "钟楼湾胡同",
+      "name:en": "Zhonglouwan Hutong",
+      "name:zh-Hant": "鐘樓灣胡同",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "雍和宫",
+    "type": "way",
+    "id": "24825312",
+    "lon": 116.41096088666667,
+    "lat": 39.94586479111111,
+    "tags": {
+      "addr:city": "北京",
+      "alt_name:en": "Yonghegong Lama Temple;YongHe Lama Temple;Yonghe Palace;Yonghe Lamasery",
+      "amenity": "place_of_worship",
+      "denomination": "gelug",
+      "fee": "￥25",
+      "name": "雍和宫",
+      "name:bo": "དགའ་ལྡན་བྱིན་ཆགས་གླང་།",
+      "name:en": "Lama Temple",
+      "name:es": "Templo de los Lama",
+      "name:ko": "옹화궁",
+      "name:mn": "ᠨᠠᠶᠢᠷᠠᠯᠲᠣ ᠨᠠᠶᠢᠷᠠᠮᠳᠠᠬᠣ ᠰᠦᠮ᠎ᠡ᠃",
+      "name:mnc": "ᡥᡡᠸᠠᠯᡳᠶᠠᠰᡠᠨ ᡥᡡᠸᠠᠯᡳᠶᠠᡴᠠ ᡤᡠᠩ᠉",
+      "name:th": "วัดลามะ",
+      "name:zh": "雍和宫",
+      "name:zh-Hans": "雍和宫",
+      "name:zh-Hant": "雍和宮",
+      "name:zh-Latn-pinyin": "Yōnghé Gōng",
+      "opening_hours": "Mo-Su 09:00-16:00",
+      "phone": "+86 10 8419 1906",
+      "religion": "buddhist",
+      "start_date": "1694",
+      "tourism": "attraction",
+      "website": "http://www.yonghegong.cn/",
+      "wikidata": "Q692723",
+      "wikimedia_commons": "Category:Yonghe Temple",
+      "wikipedia": "zh:雍和宫"
+    }
+  },
+  {
+    "name": "地坛公园",
+    "type": "way",
+    "id": "24825400",
+    "lon": 116.40883951875,
+    "lat": 39.953653075,
+    "tags": {
+      "leisure": "park",
+      "name": "地坛公园",
+      "name:en": "Temple of Earth Park",
+      "name:zh": "地坛公园",
+      "name:zh-Hans": "地坛公园",
+      "name:zh-Hant": "地壇公園",
+      "name:zh-Latn-pinyin": "Dìtán gōngyuán",
+      "wikidata": "Q615178"
+    }
+  },
+  {
+    "name": "孔庙",
+    "type": "way",
+    "id": "24825402",
+    "lon": 116.40818810625,
+    "lat": 39.94497195,
+    "tags": {
+      "amenity": "place_of_worship",
+      "historic": "monument",
+      "name": "孔庙",
+      "name:en": "Confucius Temple",
+      "name:es": "Templo confucio",
+      "name:zh": "北京孔庙",
+      "name:zh-Latn-pinyin": "Běijīng Kǒngmiào",
+      "opening_hours": "Mo-Su 08:30-17:00",
+      "religion": "confucian",
+      "start_date": "1302",
+      "tourism": "attraction",
+      "wikidata": "Q1064580",
+      "wikipedia": "en:Beijing Temple of Confucius"
+    }
+  },
+  {
+    "name": "钟楼湾胡同",
+    "type": "way",
+    "id": "29207286",
+    "lon": 116.38990263000001,
+    "lat": 39.9411294,
+    "tags": {
+      "highway": "service",
+      "name": "钟楼湾胡同",
+      "name:en": "Zhonglouwan Hutong",
+      "name:zh-Hant": "鐘樓灣胡同",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "五道营胡同",
+    "type": "way",
+    "id": "30662318",
+    "lon": 116.40576858333333,
+    "lat": 39.947052025,
+    "tags": {
+      "highway": "living_street",
+      "name": "五道营胡同",
+      "name:en": "Wudaoying Alley",
+      "name:zh": "五道营胡同",
+      "name:zh-Hans": "五道营胡同",
+      "name:zh-Hant": "五道營胡同"
+    }
+  },
+  {
+    "name": "国子监街",
+    "type": "way",
+    "id": "30767439",
+    "lon": 116.40551627777778,
+    "lat": 39.94404308888889,
+    "tags": {
+      "highway": "residential",
+      "name": "国子监街",
+      "name:en": "Guozijian Street",
+      "name:zh": "国子监街",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "国子监",
+    "type": "way",
+    "id": "30784273",
+    "lon": 116.40696328571428,
+    "lat": 39.94562320714285,
+    "tags": {
+      "historic": "heritage",
+      "name": "国子监",
+      "name:en": "Imperial College",
+      "name:zh": "国子监",
+      "name:zh-Latn-pinyin": "Guózǐjiān",
+      "tourism": "attraction",
+      "wikidata": "Q718582",
+      "wikimedia_commons": "Category:Beijing Guozijian",
+      "wikipedia": "en:Beijing Guozijian"
+    }
+  },
+  {
+    "name": "北锣鼓巷",
+    "type": "way",
+    "id": "30784359",
+    "lon": 116.39664722,
+    "lat": 39.94420118666667,
+    "tags": {
+      "highway": "service",
+      "name": "北锣鼓巷",
+      "name:en": "Beiluogu Alley",
+      "name:zh-Latn-pinyin": "Beiluogu Xiang",
+      "oneway": "yes",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "雍和宫大街",
+    "type": "way",
+    "id": "34104274",
+    "lon": 116.41049632380953,
+    "lat": 39.94270085238095,
+    "tags": {
+      "highway": "primary",
+      "name": "雍和宫大街",
+      "name:en": "Yonghegong Street",
+      "name:zh": "雍和宫大街",
+      "name:zh-Hans": "雍和宫大街",
+      "name:zh-Hant": "雍和宮大街",
+      "name:zh-Latn-pinyin": "Yōnghégōng Dà Jiē"
+    }
+  },
+  {
+    "name": "旧鼓楼大街",
+    "type": "way",
+    "id": "42362228",
+    "lon": 116.387664288,
+    "lat": 39.943895888,
+    "tags": {
+      "highway": "secondary",
+      "int_name": "Jiugulou Dajie",
+      "name": "旧鼓楼大街",
+      "name:en": "Jiugulou Street",
+      "name:zh": "旧鼓楼大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "42412027",
+    "lon": 116.38842611428572,
+    "lat": 39.96481412857143,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:en": "Gulouwai Street",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼立交西天桥",
+    "type": "way",
+    "id": "42488579",
+    "lon": 116.38507206666667,
+    "lat": 39.94753863333333,
+    "tags": {
+      "bridge": "yes",
+      "highway": "footway",
+      "layer": "1",
+      "name": "鼓楼立交西天桥"
+    }
+  },
+  {
+    "name": "地坛",
+    "type": "way",
+    "id": "78050667",
+    "lon": 116.40964383333333,
+    "lat": 39.95164485,
+    "tags": {
+      "historic": "yes",
+      "landuse": "religious",
+      "name": "地坛",
+      "name:en": "Temple of Earth",
+      "name:fr": "Palais de la Terre",
+      "name:zh": "地坛",
+      "name:zh-Latn-pinyin": "Dìtán",
+      "start_date": "1530",
+      "wikidata": "Q615178",
+      "wikimedia_commons": "Category:Temple of Earth (Beijing)",
+      "wikipedia": "en:Temple of Earth",
+      "wikipedia:zh": "地坛"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399185",
+    "lon": 116.38920970000001,
+    "lat": 39.9481327,
+    "tags": {
+      "bridge": "yes",
+      "highway": "secondary",
+      "layer": "1",
+      "name": "鼓楼外大街",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399187",
+    "lon": 116.38939545,
+    "lat": 39.94813775,
+    "tags": {
+      "bridge": "yes",
+      "highway": "secondary",
+      "layer": "1",
+      "name": "鼓楼外大街",
+      "name:en": "Gulouwai Dajie",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399247",
+    "lon": 116.38839238333333,
+    "lat": 39.96250186666666,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399353",
+    "lon": 116.38951379999999,
+    "lat": 39.94768573333334,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399356",
+    "lon": 116.38910545,
+    "lat": 39.947722399999996,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399443",
+    "lon": 116.38895852857142,
+    "lat": 39.95954727142857,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399477",
+    "lon": 116.38921966666668,
+    "lat": 39.947832866666666,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399478",
+    "lon": 116.3894142,
+    "lat": 39.9475879,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "121399482",
+    "lon": 116.3889756625,
+    "lat": 39.9563013125,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "雍和宫大街",
+    "type": "way",
+    "id": "173308108",
+    "lon": 116.4102779375,
+    "lat": 39.946892175,
+    "tags": {
+      "highway": "primary",
+      "name": "雍和宫大街",
+      "name:en": "Yonghegong Street",
+      "name:zh": "雍和宫大街",
+      "name:zh-Hans": "雍和宫大街",
+      "name:zh-Hant": "雍和宮大街",
+      "name:zh-Latn-pinyin": "Yōnghégōng Dà Jiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "旧鼓楼外大街",
+    "type": "way",
+    "id": "173308115",
+    "lon": 116.38753295,
+    "lat": 39.94802745,
+    "tags": {
+      "bridge": "yes",
+      "highway": "secondary",
+      "layer": "1",
+      "name": "旧鼓楼外大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "旧鼓楼外大街",
+    "type": "way",
+    "id": "173308128",
+    "lon": 116.38753743333332,
+    "lat": 39.94780756666666,
+    "tags": {
+      "highway": "secondary",
+      "name": "旧鼓楼外大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "旧鼓楼外大街",
+    "type": "way",
+    "id": "173308130",
+    "lon": 116.38746544285713,
+    "lat": 39.95024265714286,
+    "tags": {
+      "highway": "secondary",
+      "name": "旧鼓楼外大街",
+      "name:en": "Outer Jiugulou Street",
+      "name:zh": "旧鼓楼外大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "钟鼓楼文化广场",
+    "type": "way",
+    "id": "186874287",
+    "lon": 116.38961225999999,
+    "lat": 39.94023604,
+    "tags": {
+      "area": "yes",
+      "description": "Stationary Tabels with different games",
+      "highway": "pedestrian",
+      "name": "钟鼓楼文化广场"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "227135625",
+    "lon": 116.38865885,
+    "lat": 39.9591698,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "雍和宫小学",
+    "type": "way",
+    "id": "306984143",
+    "lon": 116.41178949090909,
+    "lat": 39.945856809090905,
+    "tags": {
+      "addr:district": "东城区",
+      "addr:housenumber": "27号",
+      "addr:province": "北京市",
+      "addr:street": "藏经馆胡同",
+      "amenity": "school",
+      "name": "雍和宫小学",
+      "name:zh": "雍和宫小学",
+      "name:zh-Hans": "雍和宫小学",
+      "name:zh-Hant": "雍和宮小學",
+      "official_name": "北京市东直门中学附属雍和宫小学本部",
+      "operator": "北京市东直门中学"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "384269063",
+    "lon": 116.41127495999999,
+    "lat": 39.94558308,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼",
+      "name:en": "Bell Tower",
+      "name:zh": "钟楼",
+      "name:zh-Hans": "钟楼",
+      "name:zh-Hant": "鐘樓"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "384269064",
+    "lon": 116.41067401999999,
+    "lat": 39.94557536,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼",
+      "name:en": "Drum Tower",
+      "name:zh": "鼓楼",
+      "name:zh-Hans": "鼓楼",
+      "name:zh-Hant": "鼓樓"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "425993664",
+    "lon": 116.38961852222224,
+    "lat": 39.941050499999996,
+    "tags": {
+      "building": "yes",
+      "man_made": "tower",
+      "name": "钟楼",
+      "name:en": "Bell Tower",
+      "name:es": "Torre de la Campana",
+      "name:zh-Hant": "鐘樓",
+      "wikidata": "Q21039255",
+      "wikimedia_commons": "Category:Beijing Bell Tower"
+    }
+  },
+  {
+    "name": "地坛北里3号楼",
+    "type": "way",
+    "id": "916088586",
+    "lon": 116.41054701111112,
+    "lat": 39.95745693333333,
+    "tags": {
+      "building": "yes",
+      "building:levels": "6",
+      "name": "地坛北里3号楼"
+    }
+  },
+  {
+    "name": "地坛北里4号楼",
+    "type": "way",
+    "id": "916091286",
+    "lon": 116.41057819999999,
+    "lat": 39.957091355555555,
+    "tags": {
+      "building": "yes",
+      "building:levels": "6",
+      "name": "地坛北里4号楼"
+    }
+  },
+  {
+    "name": "地坛北里5号楼",
+    "type": "way",
+    "id": "916091287",
+    "lon": 116.4105815,
+    "lat": 39.95673086666667,
+    "tags": {
+      "building": "yes",
+      "building:levels": "6",
+      "name": "地坛北里5号楼"
+    }
+  },
+  {
+    "name": "地坛北里6号楼",
+    "type": "way",
+    "id": "916091288",
+    "lon": 116.41058923333334,
+    "lat": 39.956366744444445,
+    "tags": {
+      "building": "yes",
+      "building:levels": "6",
+      "name": "地坛北里6号楼"
+    }
+  },
+  {
+    "name": "地坛北里1号楼",
+    "type": "way",
+    "id": "916929357",
+    "lon": 116.41161021111111,
+    "lat": 39.957357111111115,
+    "tags": {
+      "building": "yes",
+      "building:levels": "4",
+      "name": "地坛北里1号楼"
+    }
+  },
+  {
+    "name": "地坛北里11号楼",
+    "type": "way",
+    "id": "916929361",
+    "lon": 116.40974739999999,
+    "lat": 39.95650494,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里11号楼"
+    }
+  },
+  {
+    "name": "地坛北里10号楼",
+    "type": "way",
+    "id": "916929362",
+    "lon": 116.40939278,
+    "lat": 39.95687306,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里10号楼"
+    }
+  },
+  {
+    "name": "地坛北里9号楼",
+    "type": "way",
+    "id": "916929363",
+    "lon": 116.40943753846153,
+    "lat": 39.9571939,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里9号楼"
+    }
+  },
+  {
+    "name": "地坛北里8号楼",
+    "type": "way",
+    "id": "916929364",
+    "lon": 116.40905993333334,
+    "lat": 39.957453611111106,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里8号楼"
+    }
+  },
+  {
+    "name": "地坛北里12号楼",
+    "type": "way",
+    "id": "916929365",
+    "lon": 116.40872615999999,
+    "lat": 39.957144140000004,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里12号楼"
+    }
+  },
+  {
+    "name": "地坛北里13号楼",
+    "type": "way",
+    "id": "917228139",
+    "lon": 116.40823964,
+    "lat": 39.95738154,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里13号楼"
+    }
+  },
+  {
+    "name": "地坛北里14号楼",
+    "type": "way",
+    "id": "917228140",
+    "lon": 116.40787456000001,
+    "lat": 39.95738626,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里14号楼"
+    }
+  },
+  {
+    "name": "地坛北里物业",
+    "type": "way",
+    "id": "917228141",
+    "lon": 116.40870676,
+    "lat": 39.95696568,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里物业"
+    }
+  },
+  {
+    "name": "地坛北里15号楼",
+    "type": "way",
+    "id": "917228142",
+    "lon": 116.40830658571429,
+    "lat": 39.95675717142857,
+    "tags": {
+      "building": "yes",
+      "name": "地坛北里15号楼"
+    }
+  },
+  {
+    "name": "北京市国子监中学",
+    "type": "way",
+    "id": "921973970",
+    "lon": 116.40823758571428,
+    "lat": 39.94368717142857,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市国子监中学"
+    }
+  },
+  {
+    "name": "东城区地坛小学",
+    "type": "way",
+    "id": "964176205",
+    "lon": 116.40414486,
+    "lat": 39.95923558,
+    "tags": {
+      "amenity": "school",
+      "name": "东城区地坛小学"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "1021068665",
+    "lon": 116.38399758,
+    "lat": 39.96224822,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1021068666",
+    "lon": 116.38448886,
+    "lat": 39.96227752,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "雍和宫大街",
+    "type": "way",
+    "id": "1052625905",
+    "lon": 116.41039487999998,
+    "lat": 39.94692544,
+    "tags": {
+      "highway": "primary",
+      "name": "雍和宫大街",
+      "name:en": "Yonghegong Street",
+      "name:zh": "雍和宫大街",
+      "name:zh-Hans": "雍和宫大街",
+      "name:zh-Hant": "雍和宮大街",
+      "name:zh-Latn-pinyin": "Yōnghégōng Dà Jiē",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "旧鼓楼外大街",
+    "type": "way",
+    "id": "1067065525",
+    "lon": 116.3872605,
+    "lat": 39.95552775,
+    "tags": {
+      "highway": "secondary",
+      "name": "旧鼓楼外大街",
+      "name:en": "Outer Jiugulou Street",
+      "name:zh": "旧鼓楼外大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "旧鼓楼外大街",
+    "type": "way",
+    "id": "1067065530",
+    "lon": 116.38733506666667,
+    "lat": 39.95376186666667,
+    "tags": {
+      "highway": "secondary",
+      "name": "旧鼓楼外大街",
+      "name:en": "Outer Jiugulou Street",
+      "name:zh": "旧鼓楼外大街",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1067065531",
+    "lon": 116.3889468,
+    "lat": 39.953694766666665,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1067065532",
+    "lon": 116.38909885,
+    "lat": 39.950540724999996,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1081193425",
+    "lon": 116.38855605,
+    "lat": 39.965007625,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1084247369",
+    "lon": 116.3892243,
+    "lat": 39.94758625,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1107971842",
+    "lon": 116.3889234,
+    "lat": 39.95125216666667,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1110322599",
+    "lon": 116.3890242,
+    "lat": 39.94924365,
+    "tags": {
+      "highway": "tertiary",
+      "name": "鼓楼外大街",
+      "name:en": "Outer Gulou Street",
+      "name:zh": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1137845456",
+    "lon": 116.38941055000001,
+    "lat": 39.9478261,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼外大街",
+    "type": "way",
+    "id": "1308597361",
+    "lon": 116.38933415,
+    "lat": 39.94924675,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼外大街",
+      "name:zh-Latn-pinyin": "Gulouwai Dajie",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "北京市东城区地坛幼儿园",
+    "type": "way",
+    "id": "1371155660",
+    "lon": 116.40022872857142,
+    "lat": 39.94924314285714,
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "北京市东城区地坛幼儿园"
+    }
+  },
+  {
+    "name": "护国寺街74号迤西",
+    "type": "node",
+    "id": "1742785898",
+    "lon": 116.3681353,
+    "lat": 39.933457,
+    "tags": {
+      "amenity": "toilets",
+      "name": "护国寺街74号迤西",
+      "opening_hours": "Mo-Su 05:00-24:00",
+      "operator": "北京市西城区环境卫生服务中心",
+      "ref": "1021020731063"
+    }
+  },
+  {
+    "name": "护国寺宾馆",
+    "type": "node",
+    "id": "1742785937",
+    "lon": 116.3676397,
+    "lat": 39.9337914,
+    "tags": {
+      "name": "护国寺宾馆",
+      "name:nl": "H01 Hu Guo Si, Beijing",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "护国寺网吧",
+    "type": "node",
+    "id": "1742835335",
+    "lon": 116.3699745,
+    "lat": 39.9337815,
+    "tags": {
+      "addr:housenumber": "73",
+      "addr:street": "护国寺街",
+      "amenity": "cafe",
+      "internet_access": "terminal",
+      "name": "护国寺网吧",
+      "name:zh": "原建平家",
+      "opening_hours": "Mo-Su,PH 00:00-24:00"
+    }
+  },
+  {
+    "name": "恭王府",
+    "type": "node",
+    "id": "1742845404",
+    "lon": 116.3807588,
+    "lat": 39.9341793,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "恭王府",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "name": "护国寺小吃店",
+    "type": "node",
+    "id": "4800373423",
+    "lon": 116.3684396,
+    "lat": 39.9336971,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃店",
+      "name:zh": "老白家"
+    }
+  },
+  {
+    "name": "护国寺中医医院",
+    "type": "node",
+    "id": "4801328125",
+    "lon": 116.3701463,
+    "lat": 39.9349921,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "护国寺中医医院",
+      "name:zh": "护国寺中医医院"
+    }
+  },
+  {
+    "name": "护国寺小吃店",
+    "type": "node",
+    "id": "6594346466",
+    "lon": 116.3686551,
+    "lat": 39.9336889,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃店",
+      "name:en": "Huguo Temple Snack",
+      "opening_hours": "Mo-Su 06:30-20:30"
+    }
+  },
+  {
+    "name": "什刹海街道",
+    "type": "node",
+    "id": "8986305155",
+    "lon": 116.3757239,
+    "lat": 39.9321325,
+    "tags": {
+      "capital": "8",
+      "division_code": "110102012000",
+      "name": "什刹海街道",
+      "name:en": "Shichahai",
+      "name:ko": "스차하이가도",
+      "name:zh": "什刹海街道",
+      "name:zh-Hans": "什刹海街道",
+      "name:zh-Hant": "什刹海街道",
+      "name:zh-Latn-pinyin": "Shíchàhǎi Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q10883676",
+      "wikipedia": "zh:什刹海街道"
+    }
+  },
+  {
+    "name": "白塔寺南",
+    "type": "node",
+    "id": "9250854421",
+    "lon": 116.3582356,
+    "lat": 39.9212066,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺南",
+      "name:zh": "白塔寺南",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "白塔寺东",
+    "type": "node",
+    "id": "9334248650",
+    "lon": 116.3610077,
+    "lat": 39.9224138,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺东",
+      "name:zh": "白塔寺东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "白塔寺东",
+    "type": "node",
+    "id": "9334248652",
+    "lon": 116.3602084,
+    "lat": 39.9226079,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺东",
+      "name:zh": "白塔寺东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "白塔寺东",
+    "type": "node",
+    "id": "9334250988",
+    "lon": 116.3604498,
+    "lat": 39.9226087,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺东",
+      "name:zh": "白塔寺东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "白塔寺东",
+    "type": "node",
+    "id": "9334250989",
+    "lon": 116.3608467,
+    "lat": 39.9226195,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺东",
+      "name:zh": "白塔寺东",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "白塔寺南",
+    "type": "node",
+    "id": "9669600781",
+    "lon": 116.3586876,
+    "lat": 39.9205265,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "白塔寺南",
+      "name:zh": "白塔寺南",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "护国寺",
+    "type": "node",
+    "id": "9704669365",
+    "lon": 116.3666859,
+    "lat": 39.9337317,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "护国寺",
+      "name:zh": "护国寺",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "护国寺",
+    "type": "node",
+    "id": "9704669366",
+    "lon": 116.366761,
+    "lat": 39.9339795,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "护国寺",
+      "name:zh": "护国寺",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "护国寺",
+    "type": "node",
+    "id": "9704669367",
+    "lon": 116.3667583,
+    "lat": 39.9342613,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "护国寺",
+      "name:zh": "护国寺",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "10289813030",
+    "lon": 116.3512307,
+    "lat": 39.9224353,
+    "tags": {
+      "addr:housenumber": "349",
+      "addr:street": "阜成门内大街",
+      "amenity": "restaurant",
+      "name": "护国寺小吃",
+      "opening_hours": "Mo-Su 06:00-20:30"
+    }
+  },
+  {
+    "name": "恭王府",
+    "type": "way",
+    "id": "26514871",
+    "lon": 116.38000470625,
+    "lat": 39.93550661875,
+    "tags": {
+      "addr:housenumber": "17",
+      "addr:street": "前海西街",
+      "alt_name": "恭亲王府",
+      "alt_name:zh": "恭王府",
+      "barrier": "wall",
+      "museum": "history",
+      "name": "恭王府",
+      "name:en": "Prince Kung's Mansion",
+      "name:es": "Mansión del Príncipe Kung",
+      "name:ru": "Гунванфу",
+      "official_name": "恭王府博物馆",
+      "tourism": "museum",
+      "wikidata": "Q2666344",
+      "wikipedia": "zh:恭王府"
+    }
+  },
+  {
+    "name": "护国寺街",
+    "type": "way",
+    "id": "30748909",
+    "lon": 116.370072325,
+    "lat": 39.9337062125,
+    "tags": {
+      "highway": "residential",
+      "int_name": "Huguosi Jie",
+      "name": "护国寺街",
+      "name:en": "Huguosi Street",
+      "name:zh": "护国寺街",
+      "oneway": "no",
+      "oneway:conditional": "yes @ 07:00-22:00",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "护国寺东巷",
+    "type": "way",
+    "id": "30767098",
+    "lon": 116.36946594000001,
+    "lat": 39.9347743,
+    "tags": {
+      "highway": "service",
+      "int_name": "Huguosi Dongxiang",
+      "name": "护国寺东巷",
+      "name:en": "East Huguosi Street",
+      "name:zh": "护国寺东巷",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "护国寺西巷",
+    "type": "way",
+    "id": "30767099",
+    "lon": 116.36857617999999,
+    "lat": 39.9350588,
+    "tags": {
+      "highway": "service",
+      "name": "护国寺西巷",
+      "name:en": "Huguosi Xixiang",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "护国寺大院",
+    "type": "way",
+    "id": "33610866",
+    "lon": 116.36866563999999,
+    "lat": 39.935899240000005,
+    "tags": {
+      "highway": "unclassified",
+      "name": "护国寺大院",
+      "name:en": "Huguosi Dayuan"
+    }
+  },
+  {
+    "name": "西城区什刹海街道公共服务大厅",
+    "type": "way",
+    "id": "235270899",
+    "lon": 116.37587836,
+    "lat": 39.93193006,
+    "tags": {
+      "amenity": "public_building",
+      "building": "yes",
+      "name": "西城区什刹海街道公共服务大厅"
+    }
+  },
+  {
+    "name": "恭王府花园",
+    "type": "way",
+    "id": "268548508",
+    "lon": 116.37953302727273,
+    "lat": 39.936690863636365,
+    "tags": {
+      "leisure": "garden",
+      "name": "恭王府花园"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "606113402",
+    "lon": 116.34579358,
+    "lat": 39.91654302,
+    "tags": {
+      "building": "yes",
+      "historic": "yes",
+      "name": "钟楼",
+      "name:en": "Bell Tower",
+      "name:fr": "Tour de la cloche"
+    }
+  },
+  {
+    "name": "护国寺东巷",
+    "type": "way",
+    "id": "616198350",
+    "lon": 116.36912493333335,
+    "lat": 39.93535424444445,
+    "tags": {
+      "highway": "service",
+      "name": "护国寺东巷"
+    }
+  },
+  {
+    "name": "北京大学人民医院（白塔寺院区）",
+    "type": "way",
+    "id": "931453418",
+    "lon": 116.35988975384615,
+    "lat": 39.92334372307692,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "北京大学人民医院（白塔寺院区）"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1021040740",
+    "lon": 116.36150711999998,
+    "lat": 39.92283438,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1021068626",
+    "lon": 116.35733952000001,
+    "lat": 39.92287818,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "1021068627",
+    "lon": 116.356977,
+    "lat": 39.92286548,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "王府井丽景酒店",
+    "type": "node",
+    "id": "1827353366",
+    "lon": 116.4126804,
+    "lat": 39.9153268,
+    "tags": {
+      "brand": "Park Plaza",
+      "brand:wikidata": "Q2052550",
+      "brand:wikipedia": "en:Park Plaza Hotels & Resorts",
+      "name": "王府井丽景酒店",
+      "name:en": "Park Plaza Hotel",
+      "name:zh": "王府井丽景酒店",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "node",
+    "id": "2103119706",
+    "lon": 116.397856,
+    "lat": 39.9322003,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "南锣鼓巷",
+      "name:zh": "南锣鼓巷",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "桔子水晶北京天安门王府井酒店",
+    "type": "node",
+    "id": "2445896285",
+    "lon": 116.4074636,
+    "lat": 39.9160069,
+    "tags": {
+      "name": "桔子水晶北京天安门王府井酒店",
+      "source": "GPX",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "3815540247",
+    "lon": 116.3902185,
+    "lat": 39.932341,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "node",
+    "id": "4315893490",
+    "lon": 116.3968298,
+    "lat": 39.9321487,
+    "tags": {
+      "addr:street": "Nanluoguxiang",
+      "name": "南锣鼓巷",
+      "name:es": "5 salida tren",
+      "name:zh": "南锣鼓巷",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "什刹海",
+    "type": "node",
+    "id": "5196349279",
+    "lon": 116.3878305,
+    "lat": 39.9336488,
+    "tags": {
+      "name": "什刹海",
+      "name:en": "Shichahai",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "name": "漫曲酒店(北京王府井店)",
+    "type": "node",
+    "id": "5589822321",
+    "lon": 116.4015861,
+    "lat": 39.9168303,
+    "tags": {
+      "addr:housenumber": "36",
+      "addr:postcode": "100006",
+      "addr:street": "West Dengshikou",
+      "name": "漫曲酒店(北京王府井店)",
+      "name:en": "Beijijg Hongwei Yijia Hotel - Wangfujin",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "鼓楼吃面",
+    "type": "node",
+    "id": "6926285886",
+    "lon": 116.4004629,
+    "lat": 39.939726,
+    "tags": {
+      "addr:housenumber": "25",
+      "addr:street": "Donggong Jie",
+      "amenity": "restaurant",
+      "cuisine": "noodle",
+      "internet_access": "wlan",
+      "name": "鼓楼吃面",
+      "name:en": "Punk Rock Noodles",
+      "opening_hours": "Mo-Su 12:00-02:00",
+      "operator": "Ma Yue",
+      "phone": "+86 10 8402 3180"
+    }
+  },
+  {
+    "name": "景山街道",
+    "type": "node",
+    "id": "8985515548",
+    "lon": 116.4042521,
+    "lat": 39.9253805,
+    "tags": {
+      "capital": "8",
+      "division_code": "110101002000",
+      "name": "景山街道",
+      "name:en": "Jingshan",
+      "name:ko": "징산가도",
+      "name:zh": "景山街道",
+      "name:zh-Hans": "景山街道",
+      "name:zh-Hant": "景山街道",
+      "name:zh-Latn-pinyin": "Jǐngshān Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q6202425",
+      "wikipedia": "zh:景山街道 (北京市)"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "node",
+    "id": "9333207935",
+    "lon": 116.3970841,
+    "lat": 39.9319423,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "南锣鼓巷",
+      "name:zh": "南锣鼓巷",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "node",
+    "id": "9378344191",
+    "lon": 116.3899675,
+    "lat": 39.9362593,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼",
+      "name:zh": "鼓楼",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "node",
+    "id": "9378344193",
+    "lon": 116.3897717,
+    "lat": 39.9366665,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼",
+      "name:zh": "鼓楼",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "node",
+    "id": "9378344194",
+    "lon": 116.389128,
+    "lat": 39.9391961,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "鼓楼",
+      "name:zh": "鼓楼",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "景山后街",
+    "type": "node",
+    "id": "9378369169",
+    "lon": 116.3889027,
+    "lat": 39.926934,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山后街",
+      "name:zh": "景山后街",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "景山后街",
+    "type": "node",
+    "id": "9378369170",
+    "lon": 116.3889907,
+    "lat": 39.9270722,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山后街",
+      "name:zh": "景山后街",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "景山东街",
+    "type": "node",
+    "id": "9796114010",
+    "lon": 116.3931781,
+    "lat": 39.9260289,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山东街",
+      "name:zh": "景山东街",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "景山东街",
+    "type": "node",
+    "id": "9796114011",
+    "lon": 116.3933095,
+    "lat": 39.9262141,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山东街",
+      "name:zh": "景山东街",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "景山东门",
+    "type": "node",
+    "id": "9796114012",
+    "lon": 116.3933635,
+    "lat": 39.9234599,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山东门",
+      "name:zh": "景山东门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "景山东门",
+    "type": "node",
+    "id": "9796114013",
+    "lon": 116.3932803,
+    "lat": 39.9233871,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "景山东门",
+      "name:zh": "景山东门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "景山东街10号对",
+    "type": "node",
+    "id": "9939137560",
+    "lon": 116.3930672,
+    "lat": 39.924674,
+    "tags": {
+      "amenity": "toilets",
+      "name": "景山东街10号对"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "10169105224",
+    "lon": 116.41109,
+    "lat": 39.93114,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃"
+    }
+  },
+  {
+    "name": "南锣鼓巷社区",
+    "type": "node",
+    "id": "12824126624",
+    "lon": 116.3971209,
+    "lat": 39.936395,
+    "tags": {
+      "name": "南锣鼓巷社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "鼓楼苑社区",
+    "type": "node",
+    "id": "12824126626",
+    "lon": 116.3945889,
+    "lat": 39.9375138,
+    "tags": {
+      "name": "鼓楼苑社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "景山东街社区",
+    "type": "node",
+    "id": "12824133185",
+    "lon": 116.3953614,
+    "lat": 39.9242353,
+    "tags": {
+      "name": "景山东街社区",
+      "place": "quarter",
+      "place:CN": "neighbourhood"
+    }
+  },
+  {
+    "name": "什刹海邮政所",
+    "type": "node",
+    "id": "12998385701",
+    "lon": 116.3883443,
+    "lat": 39.9377269,
+    "tags": {
+      "amenity": "post_office",
+      "brand": "中国邮政",
+      "brand:en": "China Post",
+      "brand:wikidata": "Q1066476",
+      "brand:zh": "中国邮政",
+      "name": "什刹海邮政所",
+      "name:en": "Shichahai Post Office",
+      "name:zh": "什刹海邮政所",
+      "opening_hours": "Mo-Su 10:00-18:00"
+    }
+  },
+  {
+    "name": "Stey王府井店",
+    "type": "node",
+    "id": "13429896501",
+    "lon": 116.4091313,
+    "lat": 39.9164263,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "柏树胡同",
+      "internet_access": "wlan",
+      "name": "Stey王府井店",
+      "phone": "18510863805",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "府门京贝簕铜锅涮肉(王府井店)",
+    "type": "node",
+    "id": "13429903401",
+    "lon": 116.4051662,
+    "lat": 39.9174377,
+    "tags": {
+      "addr:housenumber": "48",
+      "addr:street": "王府井大街",
+      "amenity": "restaurant",
+      "name": "府门京贝簕铜锅涮肉(王府井店)"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "way",
+    "id": "4922662",
+    "lon": 116.3968783,
+    "lat": 39.93512891538462,
+    "tags": {
+      "bicycle": "no",
+      "highway": "pedestrian",
+      "name": "南锣鼓巷",
+      "name:de": "nanluoguxiang",
+      "name:en": "South Luogu Alley",
+      "name:zh": "南锣鼓巷",
+      "name:zh-Latn-pinyin": "Nanluogu Xiang",
+      "service": "alley",
+      "surface": "paving_stones",
+      "tourism": "attraction",
+      "wikidata": "Q9529545",
+      "wikipedia": "zh:南锣鼓巷"
+    }
+  },
+  {
+    "name": "景山西街",
+    "type": "way",
+    "id": "25081292",
+    "lon": 116.38743373571428,
+    "lat": 39.924698264285716,
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "name": "景山西街",
+      "name:en": "Jingshan Str West",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼东大街",
+    "type": "way",
+    "id": "25091600",
+    "lon": 116.3961232826087,
+    "lat": 39.93938563478261,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼东大街",
+      "name:de": "Gulou Ost Straße",
+      "name:en": "Gulou East Street",
+      "name:zh-Latn-pinyin": "Gulou Dongdajie",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山东街",
+    "type": "way",
+    "id": "25093057",
+    "lon": 116.39326439444443,
+    "lat": 39.92459070555556,
+    "tags": {
+      "highway": "tertiary",
+      "name": "景山东街",
+      "name:en": "Jingshan East Street",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山公园",
+    "type": "way",
+    "id": "29201967",
+    "lon": 116.39007959459458,
+    "lat": 39.92435055135135,
+    "tags": {
+      "alt_name:de": "Kohlehügel-Park",
+      "barrier": "wall",
+      "leisure": "park",
+      "name": "景山公园",
+      "name:de": "Jingshan Park",
+      "name:en": "Jingshan Park",
+      "name:eo": "Ĝingŝan-parko",
+      "name:fr": "Jingshan Park",
+      "name:ja": "景山公園",
+      "name:ko": "경산 공원",
+      "name:ml": "ജിങ്ഷാൻ പാർക്ക്",
+      "name:ru": "парк Цзиншань",
+      "name:vi": "Công viên Cảnh Sơn",
+      "name:zh": "景山公园",
+      "name:zh-Hans": "景山公园",
+      "name:zh-Hant": "景山公園",
+      "wikidata": "Q734499",
+      "wikipedia": "zh:景山公园"
+    }
+  },
+  {
+    "name": "前鼓楼苑胡同",
+    "type": "way",
+    "id": "30802721",
+    "lon": 116.39502085,
+    "lat": 39.937674349999995,
+    "tags": {
+      "highway": "service",
+      "name": "前鼓楼苑胡同",
+      "name:en": "Qiangulouyuan Alley",
+      "name:zh": "前鼓楼苑胡同",
+      "name:zh-Latn-pinyin": "Qiangulouyuan Hutong",
+      "service": "alley"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "42501522",
+    "lon": 116.39455088,
+    "lat": 39.92204012,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Jingshan Qianjie",
+      "name": "景山前街",
+      "name:zh": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "烟袋斜街",
+    "type": "way",
+    "id": "42676210",
+    "lon": 116.38894076666666,
+    "lat": 39.93780104444445,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "pedestrian",
+      "motor_vehicle": "no",
+      "name": "烟袋斜街",
+      "name:en": "Yandai Byway",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "王府井天主堂",
+    "type": "way",
+    "id": "85902975",
+    "lon": 116.40605923846154,
+    "lat": 39.91594600769231,
+    "tags": {
+      "alt_name": "东堂",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "王府井天主堂",
+      "name:ca": "Església de Sant Josep",
+      "name:cs": "Kostel svatého Josefa",
+      "name:da": "Josefskatedralen",
+      "name:en": "St. Joseph's Wangfujing Cathedral",
+      "name:eo": "Katedralo Sankta Jozefo",
+      "name:es": "Iglesia de San José",
+      "name:fi": "Pyhän Josefin Wangfujingin katedraali",
+      "name:fr": "Église Saint-Joseph",
+      "name:hu": "Vangfucsing katedrális",
+      "name:id": "Gereja Santo Yosef",
+      "name:it": "Chiesa di San Giuseppe",
+      "name:ja": "王府井天主堂",
+      "name:nl": "Sint-Jozefkerk",
+      "name:pl": "Kościół św. Józefa",
+      "name:ro": "Catedrala Sfântul Iosif",
+      "name:ru": "Собор Святого Иосифа",
+      "name:tr": "Aziz Yusuf Kilisesi",
+      "name:vi": "Nhà thờ Thánh Giuse",
+      "name:zh": "王府井天主堂",
+      "name:zh-Hant": "王府井天主堂",
+      "religion": "christian",
+      "wikidata": "Q1064185",
+      "wikipedia": "zh:王府井天主堂",
+      "wikipedia:en": "en:St. Joseph's Church, Beijing"
+    }
+  },
+  {
+    "name": "中国美术馆",
+    "type": "way",
+    "id": "131710744",
+    "lon": 116.40272178571429,
+    "lat": 39.92393401785714,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "五四大街",
+      "alt_name:en": "China Art Museum",
+      "building": "yes",
+      "name": "中国美术馆",
+      "name:en": "National Art Museum of China",
+      "name:es": "Museo Nacional de Arte de China",
+      "name:zh": "中国美术馆",
+      "opening_hours": "Mo-Su 09:00-17:00",
+      "tourism": "museum",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "景山后街",
+    "type": "way",
+    "id": "156453758",
+    "lon": 116.39233987,
+    "lat": 39.92701929,
+    "tags": {
+      "highway": "tertiary",
+      "name": "景山后街",
+      "name:en": "Jingshan Back Street",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "156453763",
+    "lon": 116.38574797272727,
+    "lat": 39.92160256363636,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Jingshan Qianjie",
+      "name": "景山前街",
+      "name:en": "Jingshan Fore Street",
+      "name:zh": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山后街",
+    "type": "way",
+    "id": "156453764",
+    "lon": 116.38838481428571,
+    "lat": 39.926996585714285,
+    "tags": {
+      "highway": "tertiary",
+      "name": "景山后街",
+      "name:en": "Jingshan Back Street",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "175226668",
+    "lon": 116.3928313,
+    "lat": 39.921979,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Jingshan Qianjie",
+      "name": "景山前街",
+      "name:en": "Jingshan Fore Street",
+      "name:zh": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "way",
+    "id": "188456530",
+    "lon": 116.39765856,
+    "lat": 39.932312460000006,
+    "tags": {
+      "building": "yes",
+      "location": "underground",
+      "name": "南锣鼓巷",
+      "name:en": "Nanluoguxiang",
+      "name:zh": "南锣鼓巷",
+      "name:zh-Latn-pinyin": "Nánluógŭxiàng",
+      "public_transport": "station"
+    }
+  },
+  {
+    "name": "南锣鼓巷",
+    "type": "way",
+    "id": "200325773",
+    "lon": 116.39602892,
+    "lat": 39.931761519999995,
+    "tags": {
+      "building": "yes",
+      "layer": "-5",
+      "location": "underground",
+      "name": "南锣鼓巷",
+      "name:en": "Nanluoguxiang",
+      "name:zh": "南锣鼓巷",
+      "name:zh-Latn-pinyin": "Nánluógŭxiàng",
+      "public_transport": "station"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "267371087",
+    "lon": 116.38971104444444,
+    "lat": 39.939317611111115,
+    "tags": {
+      "building": "yes",
+      "height": "47",
+      "man_made": "tower",
+      "name": "鼓楼",
+      "name:en": "Drum Tower",
+      "name:es": "Torre del Tambor",
+      "name:zh-Hant": "鼓樓",
+      "roof:colour": "grey",
+      "roof:shape": "gabled",
+      "wikidata": "Q10397389",
+      "wikimedia_commons": "Category:Beijing Drum Tower"
+    }
+  },
+  {
+    "name": "首都医科大学附属北京口腔医院（王府井院区）",
+    "type": "way",
+    "id": "476128749",
+    "lon": 116.40324064444445,
+    "lat": 39.91525203333333,
+    "tags": {
+      "building": "yes",
+      "name": "首都医科大学附属北京口腔医院（王府井院区）",
+      "name:en": "Beijing Stomatological Hospital (Wangfujing Branch), Capital Medical University",
+      "name:zh": "首都医科大学附属北京口腔医院（王府井院区）",
+      "name:zh-Hans": "首都医科大学附属北京口腔医院（王府井院区）",
+      "name:zh-Hant": "首都醫科大學附屬北京口腔醫院（王府井院區）",
+      "operator": "首都医科大学",
+      "smoking": "no",
+      "website": "https://www.ccmu.edu.cn/",
+      "wheelchair": "yes",
+      "wikidata": "Q30279843",
+      "wikipedia": "zh:首都医科大学附属北京口腔医院"
+    }
+  },
+  {
+    "name": "中国美术馆",
+    "type": "way",
+    "id": "838504139",
+    "lon": 116.402672225,
+    "lat": 39.9237818375,
+    "tags": {
+      "area": "yes",
+      "landuse": "commercial",
+      "name": "中国美术馆",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "中国美术馆",
+    "type": "way",
+    "id": "838569632",
+    "lon": 116.40452714,
+    "lat": 39.923324300000004,
+    "tags": {
+      "building": "transportation",
+      "layer": "-4",
+      "location": "underground",
+      "name": "中国美术馆",
+      "name:en": "National Art Museum",
+      "name:zh": "中国美术馆"
+    }
+  },
+  {
+    "name": "美后肆时景山市民文化中心",
+    "type": "way",
+    "id": "859951257",
+    "lon": 116.40334237142858,
+    "lat": 39.92929375714285,
+    "tags": {
+      "amenity": "arts_centre",
+      "building": "yes",
+      "name": "美后肆时景山市民文化中心",
+      "name:en": "MEIHOUSISHI Jingshan Civic Cultural Center"
+    }
+  },
+  {
+    "name": "北京景山学校",
+    "type": "way",
+    "id": "921973976",
+    "lon": 116.40873908235294,
+    "lat": 39.91835687647058,
+    "tags": {
+      "amenity": "school",
+      "name": "北京景山学校",
+      "wikidata": "Q4881151",
+      "wikimedia_commons": "Category:Beijing Jingshan School",
+      "wikipedia": "en:Beijing Jingshan School"
+    }
+  },
+  {
+    "name": "西城区什刹海小学",
+    "type": "way",
+    "id": "922791289",
+    "lon": 116.38715048571429,
+    "lat": 39.9279745,
+    "tags": {
+      "amenity": "school",
+      "name": "西城区什刹海小学"
+    }
+  },
+  {
+    "name": "西城区什刹海小学分校",
+    "type": "way",
+    "id": "922791290",
+    "lon": 116.3887948888889,
+    "lat": 39.92865895555556,
+    "tags": {
+      "amenity": "school",
+      "name": "西城区什刹海小学分校"
+    }
+  },
+  {
+    "name": "北京联合大学（什刹海校区）",
+    "type": "way",
+    "id": "929752816",
+    "lon": 116.38879445714285,
+    "lat": 39.93720845714286,
+    "tags": {
+      "amenity": "school",
+      "name": "北京联合大学（什刹海校区）"
+    }
+  },
+  {
+    "name": "北京市什刹海运动学校",
+    "type": "way",
+    "id": "931453417",
+    "lon": 116.38453628214286,
+    "lat": 39.93348985,
+    "tags": {
+      "amenity": "school",
+      "barrier": "wall",
+      "name": "北京市什刹海运动学校",
+      "name:en": "Beijing Shi Cha Hai Sports School"
+    }
+  },
+  {
+    "name": "北京市第五中学分校（鼓楼校区）",
+    "type": "way",
+    "id": "962135678",
+    "lon": 116.39529734615385,
+    "lat": 39.93867060769231,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市第五中学分校（鼓楼校区）"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "1015780638",
+    "lon": 116.384724525,
+    "lat": 39.921106725,
+    "tags": {
+      "highway": "primary",
+      "name": "景山前街",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "1021068648",
+    "lon": 116.38503155000001,
+    "lat": 39.918445883333334,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1021068649",
+    "lon": 116.38533867142857,
+    "lat": 39.918431157142855,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "鼓楼西大街",
+    "type": "way",
+    "id": "1056898240",
+    "lon": 116.38897892857143,
+    "lat": 39.93909968571428,
+    "tags": {
+      "highway": "secondary",
+      "name": "鼓楼西大街",
+      "name:en": "West Gulou Street",
+      "name:zh": "鼓楼西大街",
+      "name:zh-Latn-pinyin": "Gǔlóu Xī Dà Jiē",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1058613507",
+    "lon": 116.40468793333334,
+    "lat": 39.91939986666667,
+    "tags": {
+      "highway": "secondary",
+      "name": "王府井大街",
+      "name:en": "Wangfujing Street",
+      "name:zh": "王府井大街",
+      "note": "The road is not being physically separated (no barrier at the middle). Do not separate the road into two. Check out https://wiki.openstreetmap.org/wiki/Dual_carriageway for reference.",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "1066854240",
+    "lon": 116.38881227499999,
+    "lat": 39.921825475,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Jingshan Qianjie",
+      "name": "景山前街",
+      "name:en": "Jingshan Fore Street",
+      "name:zh": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "1066854251",
+    "lon": 116.39025593333334,
+    "lat": 39.9218723,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Jingshan Qianjie",
+      "name": "景山前街",
+      "name:en": "Jingshan Fore Street",
+      "name:zh": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1251625975",
+    "lon": 116.40458607999999,
+    "lat": 39.92269506,
+    "tags": {
+      "highway": "secondary",
+      "name": "王府井大街",
+      "name:en": "Wangfujing Street",
+      "name:zh": "王府井大街",
+      "note": "The road is not being physically separated (no barrier at the middle). Do not separate the road into two. Check out https://wiki.openstreetmap.org/wiki/Dual_carriageway for reference.",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "王府井大街",
+    "type": "way",
+    "id": "1354141146",
+    "lon": 116.40458685,
+    "lat": 39.922955,
+    "tags": {
+      "highway": "secondary",
+      "name": "王府井大街",
+      "name:en": "Wangfujing Street",
+      "name:zh": "王府井大街",
+      "note": "The road is not being physically separated (no barrier at the middle). Do not separate the road into two. Check out https://wiki.openstreetmap.org/wiki/Dual_carriageway for reference.",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "景山前街",
+    "type": "way",
+    "id": "1386781909",
+    "lon": 116.38757785384615,
+    "lat": 39.921653126923076,
+    "tags": {
+      "highway": "primary",
+      "int_name": "Wusi Dajie",
+      "name": "景山前街",
+      "oneway": "yes",
+      "surface": "asphalt",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "北京前门富力智选假日酒店",
+    "type": "node",
+    "id": "4396996089",
+    "lon": 116.3847307,
+    "lat": 39.8789694,
+    "tags": {
+      "addr:city": "北京市",
+      "addr:district": "西城区",
+      "addr:housenumber": "38",
+      "addr:province": "北京市",
+      "addr:street": "南纬路",
+      "brand": "Holiday Inn Express",
+      "brand:wikidata": "Q5880423",
+      "name": "北京前门富力智选假日酒店",
+      "name:en": "Holiday Inn Express Beijing Temple of Heaven",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "护国寺小吃",
+    "type": "node",
+    "id": "5209561875",
+    "lon": 116.3881073,
+    "lat": 39.8857819,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "护国寺小吃"
+    }
+  },
+  {
+    "name": "陶然亭公园",
+    "type": "way",
+    "id": "30784976",
+    "lon": 116.37518091866667,
+    "lat": 39.87368972,
+    "tags": {
+      "leisure": "park",
+      "name": "陶然亭公园",
+      "name:en": "Taoranting Park",
+      "wikidata": "Q835886",
+      "wikimedia_commons": "Category:Taoranting Park",
+      "wikipedia": "en:Taoranting Park"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "30834115",
+    "lon": 116.392371325,
+    "lat": 39.8879841,
+    "tags": {
+      "highway": "primary",
+      "name": "前门大街",
+      "name:en": "Qianmen Avenue",
+      "name:fr": "Avenue Qiánmén",
+      "name:zh": "前门大街",
+      "name:zh-Latn-pinyin": "qiánmén dàjiē",
+      "oneway": "yes",
+      "oneway:hour_off": "20:00",
+      "oneway:hour_on": "08:00",
+      "oneway:psv": "no",
+      "surface": "asphalt",
+      "wikidata": "Q10899082",
+      "wikipedia": "zh:前門大街"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "43925087",
+    "lon": 116.40141666,
+    "lat": 39.87884082,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼",
+      "name:en": "Belfry",
+      "name:zh": "钟楼"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "59210688",
+    "lon": 116.37854324,
+    "lat": 39.87756624,
+    "tags": {
+      "highway": "secondary",
+      "name": "陶然亭路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门大街",
+    "type": "way",
+    "id": "59210908",
+    "lon": 116.39182972500001,
+    "lat": 39.88799104375,
+    "tags": {
+      "highway": "primary",
+      "name": "前门大街",
+      "name:en": "Qianmen Street",
+      "name:zh": "前门大街",
+      "name:zh-Latn-pinyin": "qiánmén dàjiē",
+      "oneway": "yes",
+      "oneway:hour_off": "20:00",
+      "oneway:hour_on": "08:00",
+      "oneway:psv": "no",
+      "surface": "asphalt",
+      "wikidata": "Q10899082",
+      "wikipedia": "zh:前門大街"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "164954117",
+    "lon": 116.37806905,
+    "lat": 39.877434925,
+    "tags": {
+      "highway": "secondary",
+      "name": "陶然亭路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "前门建国饭店",
+    "type": "way",
+    "id": "477923929",
+    "lon": 116.37948638571429,
+    "lat": 39.885499135714284,
+    "tags": {
+      "addr:city": "北京市",
+      "addr:district": "西城区",
+      "addr:housenumber": "175",
+      "addr:province": "北京市",
+      "addr:street": "永安路",
+      "building": "yes",
+      "fax": "+86 10 6301 3883",
+      "internet_access": "wlan",
+      "name": "前门建国饭店",
+      "name:en": "Qianmen Jianguo Hotel",
+      "phone": "+86 10 6301 6688",
+      "tourism": "hotel",
+      "website": "http://www.qianmenhotel.com"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "1060439999",
+    "lon": 116.38114935,
+    "lat": 39.8775115,
+    "tags": {
+      "highway": "secondary",
+      "name": "陶然亭路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "1066877321",
+    "lon": 116.3811408,
+    "lat": 39.8776492,
+    "tags": {
+      "highway": "secondary",
+      "name": "陶然亭路",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "大董烤鸭团结湖分店",
+    "type": "node",
+    "id": "600243400",
+    "lon": 116.4562015,
+    "lat": 39.9313007,
+    "tags": {
+      "addr:housename": "3号楼",
+      "addr:housenumber": "3号楼",
+      "addr:street": "团结湖北口",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "description": "Beijing Duck Restaurant",
+      "name": "大董烤鸭团结湖分店",
+      "name:an": "Dadong Kaoya",
+      "name:ko": "대동 베이징덕",
+      "opening_hours": "11:00-22:00",
+      "phone": "+86 10 6582 2892",
+      "website": "http://www.dadongdadong.com/"
+    }
+  },
+  {
+    "name": "团结湖街道",
+    "type": "node",
+    "id": "8986961568",
+    "lon": 116.4576958,
+    "lat": 39.9305557,
+    "tags": {
+      "capital": "8",
+      "name": "团结湖街道",
+      "name:en": "Tuanjiehu",
+      "name:ko": "퇀제후가도",
+      "name:zh": "团结湖街道",
+      "name:zh-Hans": "团结湖街道",
+      "name:zh-Hant": "團結湖街道",
+      "name:zh-Latn-pinyin": "Tuánjiéhú Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q10925715",
+      "wikipedia": "zh:团结湖街道"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723273543",
+    "lon": 116.4621216,
+    "lat": 39.9325244,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723273544",
+    "lon": 116.462709,
+    "lat": 39.9325264,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "name:zh-Hans": "团结湖",
+      "name:zh-Hant": "團結湖",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723274224",
+    "lon": 116.46189,
+    "lat": 39.93227,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723274225",
+    "lon": 116.46157,
+    "lat": 39.93227,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723274226",
+    "lon": 116.46132,
+    "lat": 39.93227,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "node",
+    "id": "9723274227",
+    "lon": 116.4632428,
+    "lat": 39.9322817,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖",
+      "name:zh": "团结湖",
+      "name:zh-Hans": "团结湖",
+      "name:zh-Hant": "團結湖",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖路北口",
+    "type": "node",
+    "id": "9723274229",
+    "lon": 116.4609441,
+    "lat": 39.9315639,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖路北口",
+      "name:zh": "团结湖路北口",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖路北口",
+    "type": "node",
+    "id": "9723274230",
+    "lon": 116.4607644,
+    "lat": 39.9318066,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖路北口",
+      "name:zh": "团结湖路北口",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖公园",
+    "type": "node",
+    "id": "10053258071",
+    "lon": 116.4609334,
+    "lat": 39.923865,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖公园",
+      "name:zh": "团结湖公园",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖公园",
+    "type": "node",
+    "id": "10053258072",
+    "lon": 116.4608046,
+    "lat": 39.9240728,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖公园",
+      "name:zh": "团结湖公园",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "团结湖路",
+    "type": "node",
+    "id": "11203076207",
+    "lon": 116.4599651,
+    "lat": 39.9277804,
+    "tags": {
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "团结湖路",
+      "name:zh": "团结湖路",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "name": "王缸钵重庆鲜货火锅·夜市餐厅(三里屯精品店)",
+    "type": "node",
+    "id": "12134251747",
+    "lon": 116.4570532,
+    "lat": 39.9328021,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "王缸钵重庆鲜货火锅·夜市餐厅(三里屯精品店)"
+    }
+  },
+  {
+    "name": "团结湖H口垂直电梯",
+    "type": "node",
+    "id": "12433719330",
+    "lon": 116.45311,
+    "lat": 39.93209,
+    "tags": {
+      "highway": "elevator",
+      "name": "团结湖H口垂直电梯",
+      "railway": "subway_entrance",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "团结湖F口垂直电梯",
+    "type": "node",
+    "id": "12433719331",
+    "lon": 116.45429,
+    "lat": 39.93266,
+    "tags": {
+      "highway": "elevator",
+      "name": "团结湖F口垂直电梯",
+      "railway": "subway_entrance",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "团结湖北五条",
+    "type": "way",
+    "id": "22800935",
+    "lon": 116.4667416125,
+    "lat": 39.9283305,
+    "tags": {
+      "highway": "tertiary",
+      "name": "团结湖北五条",
+      "name:en": "N. Tuanjiehu 5th Lane",
+      "name:zh": "团结湖北五条",
+      "name:zh-Hans": "团结湖北五条",
+      "name:zh-Hant": "團結湖北五條"
+    }
+  },
+  {
+    "name": "三里屯中街",
+    "type": "way",
+    "id": "23892431",
+    "lon": 116.451363575,
+    "lat": 39.9385446,
+    "tags": {
+      "highway": "unclassified",
+      "name": "三里屯中街",
+      "name:en": "Sanlitun Zhongjie",
+      "name:zh": "三里屯中街"
+    }
+  },
+  {
+    "name": "三里屯东二街",
+    "type": "way",
+    "id": "42709486",
+    "lon": 116.45181459999999,
+    "lat": 39.93518973333333,
+    "tags": {
+      "highway": "residential",
+      "name": "三里屯东二街",
+      "name:en": "Sanlitun East 2nd St",
+      "name:zh-Latn-pinyin": "Sanlitun Dongerjie"
+    }
+  },
+  {
+    "name": "团结湖南路",
+    "type": "way",
+    "id": "42709560",
+    "lon": 116.46414911428572,
+    "lat": 39.9242321,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖南路",
+      "name:en": "South Tuanjiehu Road"
+    }
+  },
+  {
+    "name": "团结湖路",
+    "type": "way",
+    "id": "164913736",
+    "lon": 116.46087831111112,
+    "lat": 39.924496644444446,
+    "tags": {
+      "highway": "tertiary",
+      "name": "团结湖路",
+      "name:en": "Tuanjiehu Road",
+      "name:zh": "团结湖路",
+      "name:zh-Latn-pinyin": "Tuanjiehu Lu",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "团结湖路",
+    "type": "way",
+    "id": "169088990",
+    "lon": 116.46086815000001,
+    "lat": 39.92194965,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖路",
+      "name:en": "Tuanjiehu Road",
+      "name:zh": "团结湖路"
+    }
+  },
+  {
+    "name": "三里屯东四街",
+    "type": "way",
+    "id": "173394334",
+    "lon": 116.452314925,
+    "lat": 39.93789715,
+    "tags": {
+      "highway": "unclassified",
+      "name": "三里屯东四街",
+      "name:en": "Sanlitun Dongsijie",
+      "name:zh": "三里屯东四街"
+    }
+  },
+  {
+    "name": "三里屯东三街",
+    "type": "way",
+    "id": "173394340",
+    "lon": 116.4523088,
+    "lat": 39.936628775,
+    "tags": {
+      "highway": "unclassified",
+      "name": "三里屯东三街",
+      "name:en": "Sanlitun Dongsanjie",
+      "name:zh": "三里屯东三街"
+    }
+  },
+  {
+    "name": "团结湖北路",
+    "type": "way",
+    "id": "175394535",
+    "lon": 116.46054488571428,
+    "lat": 39.930653785714284,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖北路",
+      "name:en": "Tuanjiehu North Road",
+      "name:zh": "团结湖北路",
+      "name:zh-Hans": "团结湖北路",
+      "name:zh-Hant": "團結湖北路"
+    }
+  },
+  {
+    "name": "团结湖公园",
+    "type": "way",
+    "id": "233218915",
+    "lon": 116.4582425632653,
+    "lat": 39.9241778122449,
+    "tags": {
+      "leisure": "park",
+      "name": "团结湖公园",
+      "name:en": "Tuanjiehu Park"
+    }
+  },
+  {
+    "name": "团结湖小学丽水嘉园校区",
+    "type": "way",
+    "id": "234199655",
+    "lon": 116.4764574375,
+    "lat": 39.9305172875,
+    "tags": {
+      "amenity": "school",
+      "name": "团结湖小学丽水嘉园校区"
+    }
+  },
+  {
+    "name": "团结湖中路",
+    "type": "way",
+    "id": "234200260",
+    "lon": 116.463834625,
+    "lat": 39.9257615,
+    "tags": {
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "residential",
+      "motor_vehicle": "yes",
+      "name": "团结湖中路",
+      "name:en": "Middle Tuanjiehu Road",
+      "oneway": "yes"
+    }
+  },
+  {
+    "name": "团结湖北三条",
+    "type": "way",
+    "id": "346399199",
+    "lon": 116.46220745999999,
+    "lat": 39.93045468,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖北三条",
+      "name:en": "Tuanjiehu North 3 Street",
+      "name:zh": "团结湖北三条",
+      "name:zh-Hans": "团结湖北三条",
+      "name:zh-Hant": "團結湖北三條"
+    }
+  },
+  {
+    "name": "团结湖北头条",
+    "type": "way",
+    "id": "350793568",
+    "lon": 116.45782971666667,
+    "lat": 39.93075856666667,
+    "tags": {
+      "highway": "residential",
+      "layer": "-1",
+      "name": "团结湖北头条",
+      "name:en": "Tuanjiehu North 1 Street"
+    }
+  },
+  {
+    "name": "团结湖北二条",
+    "type": "way",
+    "id": "350793580",
+    "lon": 116.45952855,
+    "lat": 39.93044045,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖北二条",
+      "name:en": "Tuanjiehu North 2 Street"
+    }
+  },
+  {
+    "name": "团结湖北四条",
+    "type": "way",
+    "id": "424935380",
+    "lon": 116.46418646666666,
+    "lat": 39.92961063333333,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖北四条",
+      "name:en": "Tuanjie North 4 Street",
+      "name:zh": "团结湖北四条",
+      "name:zh-Hans": "团结湖北四条",
+      "name:zh-Hant": "團結湖北四條"
+    }
+  },
+  {
+    "name": "北京市朝阳区实验小学三里屯分校",
+    "type": "way",
+    "id": "671353178",
+    "lon": 116.45003984,
+    "lat": 39.93483062,
+    "tags": {
+      "amenity": "school",
+      "name": "北京市朝阳区实验小学三里屯分校",
+      "name:zh": "朝阳区三里屯小学"
+    }
+  },
+  {
+    "name": "团结湖路",
+    "type": "way",
+    "id": "723910484",
+    "lon": 116.46086919999999,
+    "lat": 39.921629100000004,
+    "tags": {
+      "highway": "residential",
+      "name": "团结湖路",
+      "name:en": "Tuanjiehu Road",
+      "name:zh": "团结湖路"
+    }
+  },
+  {
+    "name": "朝阳区呼家楼中心小学团结湖分校（北校区）",
+    "type": "way",
+    "id": "980766805",
+    "lon": 116.45823401428571,
+    "lat": 39.93030042857142,
+    "tags": {
+      "amenity": "school",
+      "name": "朝阳区呼家楼中心小学团结湖分校（北校区）",
+      "operator": "团结湖第一小学"
+    }
+  },
+  {
+    "name": "朝阳区呼家楼中心小学团结湖分校（南校区）",
+    "type": "way",
+    "id": "980766806",
+    "lon": 116.46345124,
+    "lat": 39.92540558,
+    "tags": {
+      "amenity": "school",
+      "name": "朝阳区呼家楼中心小学团结湖分校（南校区）",
+      "name:zh": "团结湖第二小学"
+    }
+  },
+  {
+    "name": "北京陈经纶中学团结湖分校（初中部）",
+    "type": "way",
+    "id": "981124993",
+    "lon": 116.46735944,
+    "lat": 39.92315572,
+    "tags": {
+      "amenity": "school",
+      "name": "北京陈经纶中学团结湖分校（初中部）",
+      "name:zh": "团结湖第三中学"
+    }
+  },
+  {
+    "name": "北京陈经纶中学团结湖分校（高中部）",
+    "type": "way",
+    "id": "981124994",
+    "lon": 116.46521807777779,
+    "lat": 39.92660734444444,
+    "tags": {
+      "amenity": "school",
+      "name": "北京陈经纶中学团结湖分校（高中部）",
+      "name:zh": "团结湖第三中学"
+    }
+  },
+  {
+    "name": "团结湖路",
+    "type": "way",
+    "id": "1058131101",
+    "lon": 116.460845875,
+    "lat": 39.9309571625,
+    "tags": {
+      "highway": "tertiary",
+      "name": "团结湖路",
+      "name:en": "Tuanjiehu Road",
+      "name:zh": "团结湖路",
+      "name:zh-Latn-pinyin": "Tuanjiehu Lu",
+      "trolley_wire": "yes"
+    }
+  },
+  {
+    "name": "团结湖",
+    "type": "way",
+    "id": "1343802167",
+    "lon": 116.45209990000001,
+    "lat": 39.93204441666666,
+    "tags": {
+      "building": "transportation",
+      "name": "团结湖"
+    }
+  },
+  {
+    "name": "三里屯",
+    "type": "node",
+    "id": "1288686966",
+    "lon": 116.44832,
+    "lat": 39.9322497,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "三里屯",
+      "name:zh": "三里屯",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "三里屯",
+    "type": "node",
+    "id": "5174023921",
+    "lon": 116.4492262,
+    "lat": 39.9352006,
+    "tags": {
+      "name": "三里屯",
+      "name:en": "Sanlitun Shopping Arcade",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "三里屯",
+    "type": "node",
+    "id": "5196308746",
+    "lon": 116.4488126,
+    "lat": 39.9361049,
+    "tags": {
+      "name": "三里屯",
+      "name:en": "Sanlitun",
+      "place": "neighbourhood",
+      "population": "40000",
+      "wikidata": "Q1203969",
+      "wikimedia_commons": "Category:Sanlitun",
+      "wikipedia": "en:Sanlitun"
+    }
+  },
+  {
+    "name": "北京英福瑞海晟服务公寓三里屯店",
+    "type": "node",
+    "id": "6299575637",
+    "lon": 116.4357178,
+    "lat": 39.9378715,
+    "tags": {
+      "addr:city": "Beijing",
+      "addr:housenumber": "36b",
+      "addr:postcode": "100027",
+      "addr:street": "Dongzhimen Outer Street",
+      "name": "北京英福瑞海晟服务公寓三里屯店",
+      "name:en": "Beijing New Oriental Suites",
+      "tourism": "apartment"
+    }
+  },
+  {
+    "name": "北京三里屯通盈中心洲际酒店",
+    "type": "node",
+    "id": "6813781743",
+    "lon": 116.4487857,
+    "lat": 39.9312369,
+    "tags": {
+      "brand": "InterContinental",
+      "brand:wikidata": "Q1825730",
+      "brand:wikipedia": "en:InterContinental",
+      "name": "北京三里屯通盈中心洲际酒店",
+      "name:en": "InterContinental Beijing Sanlitun",
+      "name:zh": "北京三里屯通盈中心洲际酒店",
+      "operator": "Intercontinental",
+      "phone": "+86 10 65308888",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "三里屯街道",
+    "type": "node",
+    "id": "8986305159",
+    "lon": 116.4408423,
+    "lat": 39.9362307,
+    "tags": {
+      "capital": "8",
+      "division_code": "110105004000",
+      "name": "三里屯街道",
+      "name:en": "Sanlitun",
+      "name:ko": "싼리툰가도",
+      "name:zh": "三里屯街道",
+      "name:zh-Hans": "三里屯街道",
+      "name:zh-Hant": "三里屯街道",
+      "name:zh-Latn-pinyin": "Sānlǐtún Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q10867012",
+      "wikipedia": "zh:三里屯街道"
+    }
+  },
+  {
+    "name": "三里屯社区卫生服务中心",
+    "type": "node",
+    "id": "9297702118",
+    "lon": 116.4471871,
+    "lat": 39.9351035,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "三里屯社区卫生服务中心",
+      "name:en": "Chaoyang Area Health Clinic"
+    }
+  },
+  {
+    "name": "三里屯",
+    "type": "node",
+    "id": "9360070917",
+    "lon": 116.4484142,
+    "lat": 39.9324637,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "三里屯",
+      "name:zh": "三里屯",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "三里屯酒吧街",
+    "type": "node",
+    "id": "13165548723",
+    "lon": 116.4493583,
+    "lat": 39.9339929,
+    "tags": {
+      "name": "三里屯酒吧街",
+      "name:en": "Sanlitun Bar Street",
+      "tourism": "attraction",
+      "wikipedia": "zh:三里屯酒吧街"
+    }
+  },
+  {
+    "name": "均禾酒店(儿研所日坛公园店)",
+    "type": "node",
+    "id": "14162435001",
+    "lon": 116.4368721,
+    "lat": 39.9168969,
+    "tags": {
+      "addr:housenumber": "17",
+      "addr:street": "日坛路",
+      "name": "均禾酒店(儿研所日坛公园店)",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "均禾酒店(儿研所日坛公园店)",
+    "type": "node",
+    "id": "14162439201",
+    "lon": 116.4368721,
+    "lat": 39.9168969,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "日坛路",
+      "name": "均禾酒店(儿研所日坛公园店)",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "日坛北路",
+    "type": "way",
+    "id": "11315578",
+    "lon": 116.43761055,
+    "lat": 39.916347,
+    "tags": {
+      "highway": "unclassified",
+      "lanes": "2",
+      "name": "日坛北路",
+      "name:en": "Ritan North Road",
+      "name:zh-Latn-pinyin": "Rìtán Běi Lù",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "日坛东一街",
+    "type": "way",
+    "id": "42709595",
+    "lon": 116.44240625,
+    "lat": 39.915379375,
+    "tags": {
+      "highway": "residential",
+      "name": "日坛东一街",
+      "name:en": "Ritan Dongyitiao"
+    }
+  },
+  {
+    "name": "南三里屯西路",
+    "type": "way",
+    "id": "117091909",
+    "lon": 116.4447469,
+    "lat": 39.9310047,
+    "tags": {
+      "highway": "residential",
+      "name": "南三里屯西路",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "三里屯路",
+    "type": "way",
+    "id": "175425318",
+    "lon": 116.44925485384616,
+    "lat": 39.93606382307692,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Sanlitun Lu",
+      "name": "三里屯路",
+      "name:en": "Sanlitun Road",
+      "oneway": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "南三里屯路",
+    "type": "way",
+    "id": "239092015",
+    "lon": 116.44896094,
+    "lat": 39.92309602,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Sanlitun Lu",
+      "name": "南三里屯路",
+      "name:en": "Sanlitun South Road",
+      "name:zh": "南三里屯路",
+      "name:zh-Hans": "南三里屯路",
+      "name:zh-Hant": "南三里屯路",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "日坛北路",
+    "type": "way",
+    "id": "244777929",
+    "lon": 116.44297412857144,
+    "lat": 39.91635074285715,
+    "tags": {
+      "highway": "unclassified",
+      "lanes": "2",
+      "name": "日坛北路",
+      "name:en": "Ritan North Road",
+      "name:zh-Latn-pinyin": "Rìtán Běi Lù",
+      "oneway": "no",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "南三里屯中街",
+    "type": "way",
+    "id": "345219807",
+    "lon": 116.4480187875,
+    "lat": 39.929573149999996,
+    "tags": {
+      "highway": "service",
+      "name": "南三里屯中街"
+    }
+  },
+  {
+    "name": "日坛宾馆",
+    "type": "way",
+    "id": "349213082",
+    "lon": 116.43402412857142,
+    "lat": 39.91597628571429,
+    "tags": {
+      "check_date": "2026-03-20",
+      "contact:website": "http://bjritanhotel.com",
+      "name": "日坛宾馆",
+      "name:en": "Ritan Hotel",
+      "name:zh": "日坛宾馆",
+      "phone": "+86 10 8563 5588",
+      "tourism": "hotel"
+    }
+  },
+  {
+    "name": "南三里屯路",
+    "type": "way",
+    "id": "568523119",
+    "lon": 116.4491834181818,
+    "lat": 39.93000759090909,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Sanlitun Lu",
+      "name": "南三里屯路",
+      "name:en": "Sanlitun South Road",
+      "name:zh": "南三里屯路",
+      "name:zh-Hans": "南三里屯路",
+      "name:zh-Hant": "南三里屯路",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "南三里屯路",
+    "type": "way",
+    "id": "568523121",
+    "lon": 116.44920755,
+    "lat": 39.93236455,
+    "tags": {
+      "footway": "crossing",
+      "highway": "footway",
+      "int_name": "Sanlitun Lu",
+      "name": "南三里屯路",
+      "name:en": "Sanlitun South Road",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "芳草地国际学校日坛校区",
+    "type": "way",
+    "id": "980766804",
+    "lon": 116.44252945714285,
+    "lat": 39.916963800000005,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "芳草地国际学校日坛校区"
+    }
+  },
+  {
+    "name": "南三里屯路",
+    "type": "way",
+    "id": "1209142699",
+    "lon": 116.44901619999999,
+    "lat": 39.926275700000005,
+    "tags": {
+      "highway": "tertiary",
+      "int_name": "Sanlitun Lu",
+      "name": "南三里屯路",
+      "name:en": "Sanlitun South Road",
+      "name:zh": "南三里屯路",
+      "name:zh-Hans": "南三里屯路",
+      "name:zh-Hant": "南三里屯路",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "1368732103",
+    "lon": 116.42591436000001,
+    "lat": 39.91584772,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1368732105",
+    "lon": 116.42631415999999,
+    "lat": 39.91585642,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1370812416",
+    "lon": 116.43747690000001,
+    "lat": 39.92254316,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "1370812417",
+    "lon": 116.43783716,
+    "lat": 39.922521419999995,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "1551951784",
+    "lon": 116.43747744,
+    "lat": 39.91546146,
+    "tags": {
+      "building": "yes",
+      "historic": "building",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "陶然亭街道",
+    "type": "node",
+    "id": "8985515589",
+    "lon": 116.3766002,
+    "lat": 39.8788313,
+    "tags": {
+      "capital": "8",
+      "division_code": "110102016000",
+      "name": "陶然亭街道",
+      "name:en": "Taoranting",
+      "name:ko": "타오란팅가도",
+      "name:zh": "陶然亭街道",
+      "name:zh-Hans": "陶然亭街道",
+      "name:zh-Hant": "陶然亭街道",
+      "name:zh-Latn-pinyin": "Táorántíng Jiēdào",
+      "place": "suburb",
+      "place:CN": "subdistrict",
+      "wikidata": "Q13649574",
+      "wikipedia": "zh:陶然亭街道"
+    }
+  },
+  {
+    "name": "陶然亭公园南门",
+    "type": "node",
+    "id": "9719874858",
+    "lon": 116.3777542,
+    "lat": 39.8703643,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园南门",
+      "name:zh": "陶然亭公园南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园南门",
+    "type": "node",
+    "id": "9719874859",
+    "lon": 116.3760737,
+    "lat": 39.8702666,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园南门",
+      "name:zh": "陶然亭公园南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园南门",
+    "type": "node",
+    "id": "9719874861",
+    "lon": 116.371766,
+    "lat": 39.8689976,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园南门",
+      "name:zh": "陶然亭公园南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园南门",
+    "type": "node",
+    "id": "9719874863",
+    "lon": 116.3746248,
+    "lat": 39.8690832,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园南门",
+      "name:zh": "陶然亭公园南门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园北门",
+    "type": "node",
+    "id": "9747742246",
+    "lon": 116.3743785,
+    "lat": 39.8774685,
+    "tags": {
+      "bench": "no",
+      "bin": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园北门",
+      "name:zh": "陶然亭公园北门",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "name": "陶然亭路东口",
+    "type": "node",
+    "id": "9747742248",
+    "lon": 116.3787881,
+    "lat": 39.8776497,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭路东口",
+      "name:zh": "陶然亭路东口",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园北门",
+    "type": "node",
+    "id": "9747742249",
+    "lon": 116.3776749,
+    "lat": 39.8773265,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "陶然亭公园北门",
+      "name:zh": "陶然亭公园北门",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "name": "陶然亭公园南门西侧",
+    "type": "node",
+    "id": "10036336111",
+    "lon": 116.3732332,
+    "lat": 39.8700714,
+    "tags": {
+      "access": "yes",
+      "amenity": "toilets",
+      "fee": "no",
+      "name": "陶然亭公园南门西侧",
+      "opening_hours": "24/7",
+      "operator": "北京环雅丽都投资有限公司西城第二环卫分公司",
+      "ref": "1021020162140",
+      "toilets:disposal": "flush",
+      "toilets:position": "urinal",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "164955452",
+    "lon": 116.3716686,
+    "lat": 39.877306385714284,
+    "tags": {
+      "cycleway:left": "track",
+      "cycleway:right": "lane",
+      "cycleway:right:lane": "exclusive",
+      "highway": "secondary",
+      "lanes": "2",
+      "name": "陶然亭路",
+      "name:en": "Taoranting Road",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "王府井百货",
+    "type": "way",
+    "id": "519921945",
+    "lon": 116.35848514,
+    "lat": 39.87058806,
+    "tags": {
+      "building": "retail",
+      "building:levels": "5",
+      "name": "王府井百货"
+    }
+  },
+  {
+    "name": "钟楼",
+    "type": "way",
+    "id": "646701758",
+    "lon": 116.3638971,
+    "lat": 39.883173060000004,
+    "tags": {
+      "building": "yes",
+      "name": "钟楼"
+    }
+  },
+  {
+    "name": "鼓楼",
+    "type": "way",
+    "id": "646701867",
+    "lon": 116.36348942,
+    "lat": 39.88315798,
+    "tags": {
+      "building": "yes",
+      "name": "鼓楼"
+    }
+  },
+  {
+    "name": "西城区陶然亭小学",
+    "type": "way",
+    "id": "922791266",
+    "lon": 116.37209549285714,
+    "lat": 39.876534371428576,
+    "tags": {
+      "amenity": "school",
+      "name": "西城区陶然亭小学"
+    }
+  },
+  {
+    "name": "陶然亭路",
+    "type": "way",
+    "id": "1084252271",
+    "lon": 116.36812405,
+    "lat": 39.87716315,
+    "tags": {
+      "cycleway:left": "track",
+      "cycleway:right": "lane",
+      "cycleway:right:lane": "exclusive",
+      "highway": "secondary_link",
+      "lanes": "2",
+      "name": "陶然亭路",
+      "name:en": "Taoranting Road",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "name": "陶然亭",
+    "type": "way",
+    "id": "1507764566",
+    "lon": 116.37478080000001,
+    "lat": 39.87174176,
+    "tags": {
+      "building": "yes",
+      "name": "陶然亭"
+    }
+  }
+]

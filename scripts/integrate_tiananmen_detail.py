@@ -1,0 +1,8 @@
+from pathlib import Path
+import json,math
+ROOT=Path(__file__).resolve().parents[1];p=ROOT/'public/assets/route-landmarks/manifest.json';m=json.loads(p.read_text());f=json.loads((ROOT/'data/tiananmen-footprint.json').read_text());a,b=f['rect'][:2]
+angle=math.atan2(a[1]-b[1],a[0]-b[0]);x,y=f['center'];bounds=[f['bounds'][0]-.006,f['bounds'][1]-.006,f['bounds'][2]+.006,f['bounds'][3]+.006]
+s={'id':'tiananmen','name':'天安门','subject':'天安门城楼','methodLabel':'实景参考重建','x':x,'y':y,'span':1.21,'height':.347,'rotation':math.degrees(angle),'anchorOsmId':8847697,'bounds':bounds,'groundHeight':.011,'viewOffset':[25,55,160],'detailView':{'label':'走近城楼与瓦顶','height':.21,'span':.80,'offset':[20,34,160]},'additionalViews':{'portals':{'label':'看门洞与石栏','height':.08,'span':.90,'offset':[8,10,160]}},'author':'实景照片：Daniel Case；建筑重建：本项目','license':'CC BY-SA 3.0','licenseUrl':'https://creativecommons.org/licenses/by-sa/3.0/','source':'https://commons.wikimedia.org/wiki/File:Front_view_of_Tiananmen_gate_from_north_end_of_Tiananmen_Square.jpg','method':'以 OSM 城台轮廓和实景照片在 Blender 中重建五个拱门、九开间柱廊、双层歇山屋顶、瓦垄、脊饰、门窗与石栏。总高按公开资料设置为 34.7 米；构件尺寸与背面细节为推定，彩绘为生成材质，文字为重新排印，并非测绘模型。肖像和国徽使用署名照片的局部 UV 贴图。','lods':{}}
+for level in ['preview','detail']:
+ au=json.loads((ROOT/f'output/tiananmen-detail/{level}-audit.json').read_text());s['lods'][level]=f'public/assets/tiananmen-detail/{level}.glb?v={au["sha"]}'
+m['assets']=[e for e in m['assets']if e['id']!='tiananmen']+[s];m['retainedExisting']=[e for e in m['retainedExisting']if e!='tiananmen'];p.write_text(json.dumps(m,ensure_ascii=False,indent=2));print('Integrated Tiananmen:',s['rotation'],s['lods'])

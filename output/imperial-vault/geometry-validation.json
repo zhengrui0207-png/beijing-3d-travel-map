@@ -1,0 +1,14 @@
+{
+  "heightMetres": 19.499999284744263,
+  "threePortalApproachesClear": [
+    true,
+    true,
+    true
+  ],
+  "plaqueTriangles": {
+    "皇": 2444,
+    "穹": 4488,
+    "宇": 2896
+  },
+  "meshCount": 21
+}

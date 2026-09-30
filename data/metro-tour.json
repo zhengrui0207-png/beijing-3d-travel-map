@@ -1,0 +1,17 @@
+{
+  "id": "metro1",
+  "name": "跟着地铁 1 号线游北京",
+  "short": "长安街上的北京",
+  "en": "BEIJING BY METRO · LINE 1",
+  "color": "#ae383c",
+  "motif": "metro",
+  "duration": "一日精选 · 按兴趣删减",
+  "season": "四季可游 · 天安门西—国贸段",
+  "description": "沿1号线从皇城园林走向城市天际线。中山公园看古树与坛墙，天安门看中轴气象，国博读历史，王府井逛街休息，最后到国贸与央视大楼看现代北京。地铁衔接片区，出站后步行游览。",
+  "stops": ["zhongshan", "tiananmen", "national", "wangfujing", "guomao", "cctv"],
+  "metro": "天安门西 → 天安门东 → 王府井 → 国贸",
+  "note": "选取1号线八通线的市中心段，并非全线站站下车。以上仅列游览下车站，王府井至国贸之间还有中间站。同一地铁站对应的景点可步行串联；国贸至央视大楼需继续步行，仅在公共区域看外观。国博建议预留半天，若入馆深度参观，可删减园林或购物站。天安门地区通行、景点预约与地铁临时运营调整请临行核实。地图显示景点直线连线，不是地铁轨道或乘车里程。",
+  "source": "https://www.bjsubway.com/station/xltcx/line1/",
+  "sourceName": "北京地铁 · 1号线八通线站点",
+  "guideSource": "https://www.visitbeijing.com.cn/article/4IR1DO7v9mp"
+}

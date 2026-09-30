@@ -1,0 +1,90 @@
+[
+  {
+    "id": "qianmen",
+    "level": "preview",
+    "throughPortalRays": 9,
+    "solidFlankRays": 2,
+    "windowRays": 0,
+    "errors": [],
+    "heightMetres": 43.65000128746033,
+    "stairRays": [
+      [
+        -0.35499998927116394,
+        0.1679999977350235,
+        0.07546249032020569
+      ],
+      [
+        0.35499998927116394,
+        0.1679999977350235,
+        0.07546249032020569
+      ]
+    ],
+    "assetRevision": "0c94db279eb9"
+  },
+  {
+    "id": "qianmen",
+    "level": "detail",
+    "throughPortalRays": 9,
+    "solidFlankRays": 2,
+    "windowRays": 0,
+    "errors": [],
+    "heightMetres": 43.65000128746033,
+    "stairRays": [
+      [
+        -0.35499998927116394,
+        0.1679999977350235,
+        0.07546249032020569
+      ],
+      [
+        0.35499998927116394,
+        0.1679999977350235,
+        0.07546249032020569
+      ]
+    ],
+    "assetRevision": "18d162d93ee5"
+  },
+  {
+    "id": "qianmen-arrow",
+    "level": "preview",
+    "throughPortalRays": 9,
+    "solidFlankRays": 2,
+    "windowRays": 95,
+    "errors": [],
+    "heightMetres": 35.37000119686127,
+    "stairRays": [
+      [
+        -0.1899999976158142,
+        0.1899999976158142,
+        0.0638020932674408
+      ],
+      [
+        0.1899999976158142,
+        0.1899999976158142,
+        0.0638020932674408
+      ]
+    ],
+    "assetRevision": "126dbebe8a52"
+  },
+  {
+    "id": "qianmen-arrow",
+    "level": "detail",
+    "throughPortalRays": 9,
+    "solidFlankRays": 2,
+    "windowRays": 95,
+    "errors": [],
+    "heightMetres": 35.37000119686127,
+    "stairRays": [
+      [
+        -0.1899999976158142,
+        0.1899999976158142,
+        0.0638020932674408
+      ],
+      [
+        0.1899999976158142,
+        0.1899999976158142,
+        0.0638020932674408
+      ]
+    ],
+    "assetRevision": "a4ee3d1595d6"
+  }
+]

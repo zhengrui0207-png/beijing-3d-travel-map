@@ -1,0 +1,18 @@
+{
+  "sidewalkTopTrianglesChecked": 196047,
+  "centroidsInsideExcludedFeatures": {
+    "buildings": 0,
+    "water": 0,
+    "roads": 0
+  },
+  "areaM2": {
+    "parking": 788741.2,
+    "campus": 6115983.0,
+    "residential": 13840088.8,
+    "sidewalk": 2698606.1,
+    "commercial": 8807980.5,
+    "service": 2834592.6,
+    "paved": 323535.7,
+    "green": 137709.1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "level": "preview",
+  "meshes": 16,
+  "triangles": 120198,
+  "bytes": 2008292,
+  "revision": "fc4d5579846c",
+  "tiers": [
+    {
+      "radius": 27.455,
+      "top": 1.67,
+      "stones": 1863,
+      "flights": 4,
+      "stepsPerFlight": 9
+    },
+    {
+      "radius": 19.655,
+      "top": 3.3,
+      "stones": 1134,
+      "flights": 4,
+      "stepsPerFlight": 9
+    },
+    {
+      "radius": 11.825,
+      "top": 5.17,
+      "stones": 405,
+      "flights": 4,
+      "stepsPerFlight": 9
+    }
+  ]
+}

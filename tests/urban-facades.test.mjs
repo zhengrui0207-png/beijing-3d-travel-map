@@ -1,0 +1,19 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {FACADE_PROFILES} from '../public/facade-profiles.js';
+const root=new URL('../',import.meta.url),read=p=>JSON.parse(fs.readFileSync(new URL(p,root),'utf8'));
+test('Blender facade shells retain semantic profiles, finite UVs and all streamed districts',()=>{
+ const manifest=read('public/assets/urban/manifest.json');assert.equal(manifest.stats.buildings,25039);assert.equal(manifest.tiles.length,144);assert(manifest.facades.floorSources['osm-levels']>7400);
+ const b=fs.readFileSync(new URL(manifest.shell,root)),j=JSON.parse(b.subarray(20,20+b.readUInt32LE(12)));const profiles=new Set();
+ for(const n of j.nodes){if(!n.extras?.facadeProfile)continue;profiles.add(n.extras.facadeProfile);assert(FACADE_PROFILES[n.extras.facadeProfile]);assert(['buildings_urban_walls','buildings_urban_tagged_facade'].includes(n.extras.layer));for(const p of j.meshes[n.mesh].primitives){assert(p.attributes.TEXCOORD_0!==undefined);const a=j.accessors[p.attributes.TEXCOORD_0];assert.equal(a.count,j.accessors[p.attributes.POSITION].count);}}
+ assert.equal(profiles.size,6);for(const p of Object.values(FACADE_PROFILES)){const [l,b,r,t]=p.opening;assert(l>0&&l<r&&r<1&&b>0&&b<t&&t<1);}
+});
+test('every facade shader profile preserves masks and emits valid signed numeric expressions',async()=>{
+ const vm=await import('node:vm');const source=fs.readFileSync(new URL('public/cartographic-style.js',root),'utf8').replace(/^import .*;$/gm,'').replace('export class CartographicStyle','class CartographicStyle')+'\nthis.C=CartographicStyle';const context={FACADE_PROFILES};vm.createContext(context);vm.runInContext(source,context);const painter=Object.create(context.C.prototype);
+ for(const profile of Object.keys(FACADE_PROFILES))for(const kind of ['facade','tagged-facade']){
+  const material={onBeforeCompile:s=>{s.fragmentShader+='\n// existing clip';},customProgramCacheKey:()=> 'original'};painter.material({material,userData:{facadeProfile:profile}},kind);const s={vertexShader:'#include <project_vertex>',fragmentShader:'#include <color_fragment>\n#include <normal_fragment_maps>\n#include <roughnessmap_fragment>'};material.onBeforeCompile(s);assert(!/--\d/.test(s.fragmentShader),profile);assert(s.fragmentShader.includes('existing clip'));assert(s.fragmentShader.includes('roughnessFactor'));assert(material.customProgramCacheKey().endsWith('/'+profile));
+ }
+});
+test('flat roof texture augments original colour without replacing pitched roofs or geographic clips',async()=>{
+ const vm=await import('node:vm');const source=fs.readFileSync(new URL('public/cartographic-style.js',root),'utf8').replace(/^import .*;$/gm,'').replace('export class CartographicStyle','class CartographicStyle')+'\nthis.C=CartographicStyle';const context={FACADE_PROFILES};vm.createContext(context);vm.runInContext(source,context);
+ for(const textured of [false,true]){const painter=Object.create(context.C.prototype);if(textured)painter.roofSurface={isTexture:true};const m={onBeforeCompile:s=>{s.fragmentShader+='\n// replacement clip';},customProgramCacheKey:()=> 'roof'};painter.material({material:m,userData:{}},'roof');const s={uniforms:{},vertexShader:'#include <project_vertex>',fragmentShader:'#include <color_fragment>\n#include <normal_fragment_maps>'};m.onBeforeCompile(s);assert.ok(s.fragmentShader.includes('// replacement clip'));assert.match(s.fragmentShader,/diffuseColor.rgb\*=mix\(flatFinish,tiledFinish,slope\)/);assert.match(s.fragmentShader,/atlasRelief/);assert.equal(!!s.uniforms.atlasRoofSurface,textured);assert.equal(s.fragmentShader.includes('uniform sampler2D atlasRoofSurface'),textured);}
+ const bytes=fs.readFileSync(new URL('public/assets/urban-materials/concrete-roof-v1.png',root));assert.equal(bytes.subarray(1,4).toString(),'PNG');assert.ok(bytes.readUInt32BE(16)>=1024&&bytes.readUInt32BE(20)>=1024);
+});
