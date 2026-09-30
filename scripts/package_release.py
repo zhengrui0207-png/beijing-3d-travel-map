@@ -9,7 +9,7 @@ def digest(p):
  return h.hexdigest()
 def main():
  p=argparse.ArgumentParser();p.add_argument('source',type=pathlib.Path);p.add_argument('destination',type=pathlib.Path);p.add_argument('--repo');a=p.parse_args();src=a.source.resolve();a.destination.mkdir(parents=True,exist_ok=True)
- runtime=[p for p in(src/'public/assets').rglob('*')if p.is_file()and p.suffix.lower()in['.glb','.png','.jpg','.jpeg','.webp']and not any(x in p.parts for x in['tripo-out','cathedral-detail'])]
+ runtime=[p for p in(src/'public/assets').rglob('*')if p.is_file()and p.suffix.lower()in['.glb','.png','.jpg','.jpeg','.webp']and not any(x in p.parts for x in['tripo-out'])]
  data=[]
  for rel in['data/urban','data/urban-ground','data/terrain','data/tiles','data/osm_beijing.json','data/geometry.json']:
   root=src/rel

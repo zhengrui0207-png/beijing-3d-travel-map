@@ -11,6 +11,8 @@
 
 ## 逐项说明
 
+- [cathedral-detail · ATTRIBUTION.html](public/assets/cathedral-detail/ATTRIBUTION.html)
+
 - [axis-courts · ATTRIBUTION.html](public/assets/axis-courts/ATTRIBUTION.html)
 - [beihai-temples · ATTRIBUTION.html](public/assets/beihai-temples/ATTRIBUTION.html)
 - [beihai-terrain · ATTRIBUTION.html](public/assets/beihai-terrain/ATTRIBUTION.html)

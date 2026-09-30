@@ -2,7 +2,7 @@ import test from 'node:test';import assert from 'node:assert/strict';import fs f
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url),'utf8'));
 const plan=read('data/qianmen-plan.json'),manifest=read('public/assets/route-landmarks/manifest.json');
 test('Qianmen pair keeps separate geographic anchors and replaces only its two old footprints',()=>{
- for(const p of plan.assets){const a=manifest.assets.find(a=>a.id===p.id);assert(a);assert.equal(a.x,p.center[0]);assert.equal(a.y,p.center[1]);assert.equal(a.rotation,p.angle);assert.deepEqual(a.sourceOsmIds,[p.osmId]);assert.deepEqual(a.maskPolygon,p.maskPolygon);assert.equal(a.height,p.dimensions[2]/100);assert(a.relatedModels.some(q=>q.id===(p.id==='qianmen'?'qianmen-arrow':'qianmen')));}
+ for(const p of plan.assets){const a=manifest.assets.find(a=>a.id===p.id);assert(a);assert.equal(a.x,p.center[0]);assert.equal(a.y,p.center[1]);assert(Math.abs(a.rotation*Math.PI/180-p.angle)<1e-12);assert.deepEqual(a.sourceOsmIds,[p.osmId]);assert.deepEqual(a.maskPolygon,p.maskPolygon);assert.equal(a.height,p.dimensions[2]/100);assert(a.relatedModels.some(q=>q.id===(p.id==='qianmen'?'qianmen-arrow':'qianmen')));}
  assert.equal(manifest.assets.find(a=>a.id==='qianmen-arrow').parentPlace,'qianmen');assert(plan.assets[0].center[1]>plan.assets[1].center[1]);
 });
 test('both Qianmen LODs exist with byte revisions, corrected heights and distinct roof meshes',()=>{

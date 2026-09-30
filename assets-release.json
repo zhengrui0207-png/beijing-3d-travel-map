@@ -5,8 +5,8 @@
     {
       "name": "beijing-models.tar.gz",
       "optional": false,
-      "bytes": 527169729,
-      "sha256": "cfa4f989153d31a44d1b8b3ed80eacab247adb36974f3c114b8bc504bbad907d",
+      "bytes": 527872684,
+      "sha256": "2ffcb281bf63b84c0a845effe41f1bd78c0e70c42d56dc3d4f8be588395f3e6b",
       "files": [
         {
           "path": "public/assets/axis-courts/axis-ne-detail.glb",
@@ -87,6 +87,16 @@
           "path": "public/assets/cartographic/botanical-tree.glb",
           "bytes": 1552928,
           "sha256": "dc0ec2ec120708068d7b49317d72551d45a5c570f4a3dbc3e4725e648a5e6f5b"
+        },
+        {
+          "path": "public/assets/cathedral-detail/cathedral-detail.glb",
+          "bytes": 1135452,
+          "sha256": "88c9879e22fdbbf3827c388a09db6cb73e84d61cdb0e136f54c5d004abcb1eb9"
+        },
+        {
+          "path": "public/assets/cathedral-detail/cathedral-preview.glb",
+          "bytes": 371128,
+          "sha256": "8f1a663a09d72d161b89201ff1e7de349475e9ddecfb6a9789d10582b43cd870"
         },
         {
           "path": "public/assets/circular-mound/detail.glb",
@@ -960,8 +970,8 @@
         },
         {
           "path": "public/assets/urban/detail--1_0.glb",
-          "bytes": 1451448,
-          "sha256": "4bbf8e2b1dad978fd0eb60e1fca42f9736470736b8fbe8d54473ab5c4997161a"
+          "bytes": 1444320,
+          "sha256": "3bc243f291af50abc1895d25d4c740066e30e0db49b50fb764e2aff2a3b0f2bc"
         },
         {
           "path": "public/assets/urban/detail--1_1.glb",
@@ -2414,7 +2424,7 @@
       "name": "beijing-geodata.tar.gz",
       "optional": true,
       "bytes": 136608217,
-      "sha256": "5f588acec42419fb229b0bd3b3573de5ad72dc7c328f6519c0d11dc778dd3b5b",
+      "sha256": "39785cb99eabfa7c5024d886c84be76229fae888f169352bd824a91b86c4f13a",
       "files": [
         {
           "path": "data/geometry.json",
