@@ -11,6 +11,8 @@
 
 ## 逐项说明
 
+- [art-detail · ATTRIBUTION.html](public/assets/art-detail/ATTRIBUTION.html)
+
 - [cathedral-detail · ATTRIBUTION.html](public/assets/cathedral-detail/ATTRIBUTION.html)
 
 - [axis-courts · ATTRIBUTION.html](public/assets/axis-courts/ATTRIBUTION.html)

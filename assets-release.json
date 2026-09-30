@@ -1,13 +1,23 @@
 {
   "repository": "zhengrui0207-png/beijing-3d-travel-map",
-  "tag": "assets-2026-09-30",
+  "tag": "assets-2026-10-01",
   "bundles": [
     {
       "name": "beijing-models.tar.gz",
       "optional": false,
-      "bytes": 527872684,
-      "sha256": "2ffcb281bf63b84c0a845effe41f1bd78c0e70c42d56dc3d4f8be588395f3e6b",
+      "bytes": 534490035,
+      "sha256": "cd9ca39f29ea1300a492e6310a6352b842fd684ba688daca76a32e80a20dab4f",
       "files": [
+        {
+          "path": "public/assets/art-detail/art-detail.glb",
+          "bytes": 7342908,
+          "sha256": "7604bc83a7363b4a35c3074a31433c0c9519e45df8504c8510f331f77f8083b8"
+        },
+        {
+          "path": "public/assets/art-detail/art-preview.glb",
+          "bytes": 1363704,
+          "sha256": "dec82080542a0b3dcd567fb8ceac24368bbb36b41c9eefea8cff8ce4d2e3b9d1"
+        },
         {
           "path": "public/assets/axis-courts/axis-ne-detail.glb",
           "bytes": 2367528,
@@ -1030,8 +1040,8 @@
         },
         {
           "path": "public/assets/urban/detail--2_0.glb",
-          "bytes": 1032836,
-          "sha256": "f9f01fd4b9dce658461397c3906e40a2f8f665189e98352dba96a95932f013a8"
+          "bytes": 1015340,
+          "sha256": "9b4eaad4ccc95301613c960a1c6fb6c7af92081500fd653b8e83b74be35d8afd"
         },
         {
           "path": "public/assets/urban/detail--2_1.glb",
@@ -2423,8 +2433,8 @@
     {
       "name": "beijing-geodata.tar.gz",
       "optional": true,
-      "bytes": 136608217,
-      "sha256": "39785cb99eabfa7c5024d886c84be76229fae888f169352bd824a91b86c4f13a",
+      "bytes": 136607457,
+      "sha256": "1305c662c109d918657a50b5ee67febf9f29bf48c5a76af142e889e077f0e067",
       "files": [
         {
           "path": "data/geometry.json",

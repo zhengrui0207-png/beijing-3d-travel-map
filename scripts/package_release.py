@@ -8,13 +8,13 @@ def digest(p):
   for c in iter(lambda:f.read(1024*1024),b''):h.update(c)
  return h.hexdigest()
 def main():
- p=argparse.ArgumentParser();p.add_argument('source',type=pathlib.Path);p.add_argument('destination',type=pathlib.Path);p.add_argument('--repo');a=p.parse_args();src=a.source.resolve();a.destination.mkdir(parents=True,exist_ok=True)
+ p=argparse.ArgumentParser();p.add_argument('source',type=pathlib.Path);p.add_argument('destination',type=pathlib.Path);p.add_argument('--repo');p.add_argument('--tag',default='assets-2026-09-30');a=p.parse_args();src=a.source.resolve();a.destination.mkdir(parents=True,exist_ok=True)
  runtime=[p for p in(src/'public/assets').rglob('*')if p.is_file()and p.suffix.lower()in['.glb','.png','.jpg','.jpeg','.webp']and not any(x in p.parts for x in['tripo-out'])]
  data=[]
  for rel in['data/urban','data/urban-ground','data/terrain','data/tiles','data/osm_beijing.json','data/geometry.json']:
   root=src/rel
   data.extend([root]if root.is_file()else[p for p in root.rglob('*')if p.is_file()and p.suffix.lower()in['.json','.osm']])
- manifest={'repository':a.repo,'tag':'assets-2026-09-30','bundles':[]}
+ manifest={'repository':a.repo,'tag':a.tag,'bundles':[]}
  for name,files,optional in[('beijing-models.tar.gz',runtime,False),('beijing-geodata.tar.gz',data,True)]:
   target=a.destination/name;rows=[]
   with tarfile.open(target,'w:gz',compresslevel=3)as tar:
