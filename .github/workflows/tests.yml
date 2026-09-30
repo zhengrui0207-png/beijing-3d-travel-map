@@ -13,5 +13,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: python3 -m unittest discover -s tests -p test_travel_api.py
+      - run: python3 -m unittest discover -s tests -p 'test_*.py'
       - run: node --test tests/route-core.test.mjs tests/travel-core.test.mjs tests/route-poster.test.mjs

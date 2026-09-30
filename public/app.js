@@ -1,4 +1,4 @@
-import {Travel} from './travel.js?v=ip210fix1';
+import {Travel} from './travel.js?v=20261001-hosted1';
 import * as THREE from 'three';
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';

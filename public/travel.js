@@ -13,13 +13,13 @@ export class Travel {
   this.ready=this.status();
  }
  async status(){
-  try{const r=await fetch('/api/travel/status',{cache:'no-store'});if(!r.ok)throw Error();const data=await r.json();this.token=data.token;this.configured=data.configured;this.statusError='';}
-  catch{this.statusError='出行服务未启动，请用项目的启动器重新启动地图。';}
+  try{const r=await fetch('./api/travel/status',{cache:'no-store'});if(!r.ok)throw Error();const data=await r.json();this.token=data.token;this.configured=data.configured;this.readOnly=!!data.readOnly;this.statusError='';}
+  catch{this.statusError='出行服务暂时不可用，请稍后刷新重试。';}
   this.render();return this.configured;
  }
  async post(path,body,signal){
-  const r=await fetch('/api/travel/'+path,{method:'POST',headers:{'Content-Type':'application/json','X-Atlas-Token':this.token||''},body:JSON.stringify(body),signal});
-  let data;try{data=await r.json();}catch{throw Error('出行服务返回异常，请重新启动本地服务。');}
+  const r=await fetch('./api/travel/'+path,{method:'POST',headers:{'Content-Type':'application/json','X-Atlas-Token':this.token||''},body:JSON.stringify(body),signal});
+  let data;try{data=await r.json();}catch{throw Error('出行服务返回异常，请稍后重试。');}
   if(!r.ok){const e=Error(data.error||'查询失败');e.code=data.code;throw e;}return data;
  }
  async diagnose(){
@@ -28,7 +28,7 @@ export class Travel {
   catch(e){this.diagnosticMessage=e.message;}this.render();
  }
  async configure(){
-  await this.status();let d=document.querySelector('#baidu-config');if(!d){d=document.createElement('dialog');d.id='baidu-config';document.body.append(d);}
+  await this.status();if(this.readOnly)return;let d=document.querySelector('#baidu-config');if(!d){d=document.createElement('dialog');d.id='baidu-config';document.body.append(d);}
   d.innerHTML=`<form><button type="button" class="dialog-close" aria-label="关闭百度配置">×</button><h2>连接百度出行服务</h2><p>使用百度地图开放平台的服务端 AK，开通地点检索、轻量级路线规划，采用 IP 白名单校验。此本机版不支持 SN 签名型 AK。</p><label for="baidu-ak">服务端 AK</label><input id="baidu-ak" type="password" required autocomplete="off" placeholder="密钥仅保存在本机服务端"><p>将写入用户目录 .config/beijing-atlas/baidu.json，不会写入前端或海报。</p><p><a href="https://lbsyun.baidu.com/apiconsole/key" target="_blank" rel="noreferrer">打开百度控制台申请 / 查看 AK ↗</a></p><p role="status" id="config-result"></p><button type="submit" class="primary-button">验证并连接</button></form>`;
   d.querySelector('[type=button]').onclick=()=>d.close();
   d.querySelector('form').onsubmit=async e=>{e.preventDefault();const button=d.querySelector('[type=submit]');button.disabled=true;const input=d.querySelector('input');try{await this.post('config',{ak:input.value.trim()});input.value='';this.configured=true;this.cache.clear();d.close();this.load();}catch(e){d.querySelector('#config-result').textContent=e.message;}finally{button.disabled=false;}};d.showModal();
@@ -56,10 +56,10 @@ export class Travel {
  }
  forLeg(index){return this.legs[index]?.route;}
  render(){
-  document.querySelector('#baidu-connect').hidden=this.configured;
+  document.querySelector('#baidu-connect').hidden=this.configured||this.readOnly;
   const total=this.legs.reduce((n,l)=>n+(l.route?.duration||0),0),all=this.legs.length>0&&this.legs.every(l=>l.route),stops=this.stops;
-  this.panel.innerHTML=`<div class="travel-heading"><strong>百度出行</strong><button data-connect>${this.configured?'已配置 · 设置':'连接服务'}</button></div><div class="travel-modes"><button data-mode="walking" aria-pressed="${this.mode==='walking'}">实际步行</button><button data-mode="transit" aria-pressed="${this.mode==='transit'}">公交 / 地铁</button></div><label class="travel-label">方案偏好<select id="travel-preference"><option value="fastest">更省时间</option><option value="less-walking">少走路</option><option value="few-transfers">少换乘</option></select></label>
-  ${this.authError?`<p class="travel-error">${esc(this.authError)}</p><button data-diagnose>检测百度连接与公网 IP</button><p role="status">${esc(this.diagnosticMessage||'')}</p><a href="https://lbsyun.baidu.com/apiconsole/key" target="_blank" rel="noreferrer">打开百度控制台修改白名单 ↗</a>`:''}
+  this.panel.innerHTML=`<div class="travel-heading"><strong>百度出行</strong>${this.readOnly?'<span>在线服务</span>':`<button data-connect>${this.configured?'已配置 · 设置':'连接服务'}</button>`}</div><div class="travel-modes"><button data-mode="walking" aria-pressed="${this.mode==='walking'}">实际步行</button><button data-mode="transit" aria-pressed="${this.mode==='transit'}">公交 / 地铁</button></div><label class="travel-label">方案偏好<select id="travel-preference"><option value="fastest">更省时间</option><option value="less-walking">少走路</option><option value="few-transfers">少换乘</option></select></label>
+  ${this.authError&&!this.readOnly?`<p class="travel-error">${esc(this.authError)}</p><button data-diagnose>检测百度连接与公网 IP</button><p role="status">${esc(this.diagnosticMessage||'')}</p><a href="https://lbsyun.baidu.com/apiconsole/key" target="_blank" rel="noreferrer">打开百度控制台修改白名单 ↗</a>`:''}
   ${!this.configured?`<p class="travel-message">${esc(this.statusError||'连接服务端 AK 后，可计算实际道路距离和预计耗时。下方导航链接可直接使用。')}</p>`:''}
   ${stops.length<2?'<p class="travel-message">选择至少两个地点，按行程顺序计算交通。</p>':''}
   ${all?`<div class="travel-total"><strong>${minutes(total)}</strong><span>预计交通总耗时 · ${formatDistance(this.legs.reduce((n,l)=>n+l.route.distance,0))}</span></div>`:''}
@@ -121,7 +121,7 @@ export class Travel {
  async search(){
   const q=document.querySelector('#baidu-query').value.trim(),container=document.querySelector('#baidu-search-results');if(!q)return;
   this.searchController?.abort();const controller=this.searchController=new AbortController();container.textContent='正在搜索百度地图…';
-  await this.ready;if(!this.configured){container.textContent='请先点击「连接百度」配置服务端 AK。';return;}
+  await this.ready;if(!this.configured){container.textContent=this.readOnly?'地点检索暂时不可用，请稍后重试。':'请先点击「连接百度」配置服务端 AK。';return;}
   try{
    const response=await this.post('search',{query:q},controller.signal);if(controller.signal.aborted)return;
    this.searchResults=response.places.map(p=>({...p,...gcjToWgs(p.lon,p.lat),baiduUid:p.uid}));

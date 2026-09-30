@@ -1,0 +1,18 @@
+[Unit]
+Description=Beijing 3D travel map API
+After=network.target
+[Service]
+Type=simple
+User=nobody
+Group=nobody
+WorkingDirectory=/var/www/beijing-3d-travel-map/current
+EnvironmentFile=/etc/beijing-map.env
+ExecStart=/usr/bin/python3.11 hosted_server.py
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+[Install]
+WantedBy=multi-user.target
