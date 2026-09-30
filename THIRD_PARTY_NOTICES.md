@@ -32,3 +32,7 @@
 - [urban-ground · ATTRIBUTION.html](public/assets/urban-ground/ATTRIBUTION.html)
 - [urban-materials · README.md](public/assets/urban-materials/README.md)
 - [wumen-detail · ATTRIBUTION.html](public/assets/wumen-detail/ATTRIBUTION.html)
+
+## 北京孔庙·大成殿
+
+建筑轮廓来自 OpenStreetMap way 227782229（ODbL）；摄影参考为 호고호 的 CC0 大成殿照片。原创几何采用 MIT；字体仅生成文字几何，未分发字体文件。高度与部分雕饰为推定，详见 [来源与精度说明](public/assets/confucius-detail/ATTRIBUTION.html)。

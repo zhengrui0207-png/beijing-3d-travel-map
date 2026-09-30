@@ -1,0 +1,89 @@
+{
+  "id": "confucius",
+  "level": "detail",
+  "revision": "e1310f353c62",
+  "bytes": 5557212,
+  "triangles": 555050,
+  "heightSource": "photo-proportion estimate ~23 m; reported 33 m not reconciled, not survey verified",
+  "openings": [
+    {
+      "origin": [
+        -5.289439529349596,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    },
+    {
+      "origin": [
+        -4.28067518949413,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    },
+    {
+      "origin": [
+        -0.5043821699277332,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    },
+    {
+      "origin": [
+        0.5043821699277332,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    },
+    {
+      "origin": [
+        4.280675189494134,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    },
+    {
+      "origin": [
+        5.2894395293495995,
+        -14.688705818441704,
+        4.986666666666666
+      ],
+      "direction": [
+        -0.0,
+        1.0,
+        0
+      ],
+      "depth": 1.5
+    }
+  ],
+  "status": "Integrated photo-informed reconstruction; height and carvings require further review"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "level": "preview",
+    "revision": "bc6cc87229da",
+    "meshCount": 10,
+    "boundsLocal": [
+      [
+        -0.23982758820056915,
+        -0.2683870494365692,
+        0.0
+      ],
+      [
+        0.23982758820056915,
+        0.16538706421852112,
+        0.23172599077224731
+      ]
+    ],
+    "doorRays": [
+      {
+        "opening": 0,
+        "hitDistance": null
+      },
+      {
+        "opening": 1,
+        "hitDistance": null
+      },
+      {
+        "opening": 2,
+        "hitDistance": null
+      },
+      {
+        "opening": 3,
+        "hitDistance": null
+      },
+      {
+        "opening": 4,
+        "hitDistance": null
+      },
+      {
+        "opening": 5,
+        "hitDistance": null
+      }
+    ],
+    "errors": [],
+    "scope": "Door aperture clearance and finite mesh/bounds only. Not a fidelity approval."
+  },
+  {
+    "level": "detail",
+    "revision": "e1310f353c62",
+    "meshCount": 12,
+    "boundsLocal": [
+      [
+        -0.23982758820056915,
+        -0.2683870494365692,
+        0.0
+      ],
+      [
+        0.23982758820056915,
+        0.16538706421852112,
+        0.23172599077224731
+      ]
+    ],
+    "doorRays": [
+      {
+        "opening": 0,
+        "hitDistance": null
+      },
+      {
+        "opening": 1,
+        "hitDistance": null
+      },
+      {
+        "opening": 2,
+        "hitDistance": null
+      },
+      {
+        "opening": 3,
+        "hitDistance": null
+      },
+      {
+        "opening": 4,
+        "hitDistance": null
+      },
+      {
+        "opening": 5,
+        "hitDistance": null
+      }
+    ],
+    "errors": [],
+    "scope": "Door aperture clearance and finite mesh/bounds only. Not a fidelity approval."
+  }
+]

@@ -1,12 +1,12 @@
 {
   "repository": "zhengrui0207-png/beijing-3d-travel-map",
-  "tag": "assets-2026-10-01",
+  "tag": "assets-2026-10-01-confucius",
   "bundles": [
     {
       "name": "beijing-models.tar.gz",
       "optional": false,
-      "bytes": 534490035,
-      "sha256": "cd9ca39f29ea1300a492e6310a6352b842fd684ba688daca76a32e80a20dab4f",
+      "bytes": 538723815,
+      "sha256": "62ec04042eb0913faefd56ce3f7e3a4632a0a86063ea765dadcdeb0655b2c369",
       "files": [
         {
           "path": "public/assets/art-detail/art-detail.glb",
@@ -117,6 +117,16 @@
           "path": "public/assets/circular-mound/preview.glb",
           "bytes": 2008292,
           "sha256": "fc4d5579846c5efee8b1629b8e21d69a18d3095d3d2ff98abede6c3bf95c8d46"
+        },
+        {
+          "path": "public/assets/confucius-detail/confucius-detail.glb",
+          "bytes": 5557212,
+          "sha256": "e1310f353c6214dd924bfde75ed84ba9ba06f676ec73de7a0b8a44293cb4efa5"
+        },
+        {
+          "path": "public/assets/confucius-detail/confucius-preview.glb",
+          "bytes": 902904,
+          "sha256": "bc6cc87229dad1a87fa62216eca44c102762193eeda2dd3c3434c2a3e46e4032"
         },
         {
           "path": "public/assets/duanmen-detail/detail.glb",
@@ -995,8 +1005,8 @@
         },
         {
           "path": "public/assets/urban/detail--1_3.glb",
-          "bytes": 616168,
-          "sha256": "bbe7883614fb278317051ba00cc38da33121cf9809ae034c08ac6404b184c2de"
+          "bytes": 613576,
+          "sha256": "d114e9b0535cd8a4401e5d346b36512d1387922fcf18ce42cadf0fb3fecef2a2"
         },
         {
           "path": "public/assets/urban/detail--1_4.glb",
@@ -2434,7 +2444,7 @@
       "name": "beijing-geodata.tar.gz",
       "optional": true,
       "bytes": 136607457,
-      "sha256": "1305c662c109d918657a50b5ee67febf9f29bf48c5a76af142e889e077f0e067",
+      "sha256": "4aeb9dfb0e16d2eb6ae520d7afd9afe271a90b84ae75090179059600271346bf",
       "files": [
         {
           "path": "data/geometry.json",

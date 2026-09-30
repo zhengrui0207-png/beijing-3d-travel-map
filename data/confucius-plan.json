@@ -1,0 +1,77 @@
+{
+  "id": "confucius",
+  "name": "北京孔庙·大成殿",
+  "osmId": 227782229,
+  "center": [
+    -5.712192415078855,
+    33.968184800000174
+  ],
+  "angle": 0.02176181310703118,
+  "maskPolygon": [
+    [
+      -5.480337247353602,
+      34.130155399998586
+    ],
+    [
+      -5.950878153013499,
+      34.119913959997554
+    ],
+    [
+      -5.944047582791975,
+      33.806214200001754
+    ],
+    [
+      -5.473506677144211,
+      33.81645564000279
+    ]
+  ],
+  "localFootprint": [
+    [
+      23.53247650355409,
+      15.688705818428149
+    ],
+    [
+      -23.53275811739844,
+      15.688705818428138
+    ],
+    [
+      -23.53247650234114,
+      -15.688705818455261
+    ],
+    [
+      23.53275811739835,
+      -15.688705818428136
+    ]
+  ],
+  "roofWidth": 47.06551623479679,
+  "roofDepth": 31.37741163688341,
+  "reportedHeight": 33,
+  "heightSource": "Beijing Cultural Heritage Bureau published description; not survey verified; photo proportions require review",
+  "sources": [
+    {
+      "url": "https://wwj.beijing.gov.cn/bjww/resource/cms/article/362762/515685/2018052316362925466.pdf",
+      "role": "official description: nine by five bays, double-eave hipped roof, reported 33 m; search excerpt, PDF fetch pending"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47QtU9q713x",
+      "role": "nine by five bays and yellow double-eave hipped roof"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Dacheng_Hall,_Beijing_Confucius_Temple_1.jpg",
+      "author": "호고호",
+      "license": "CC0-1.0",
+      "local": "output/confucius-detail/references/front.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Dacheng_Hall,_Beijing_Confucius_Temple_3.jpg",
+      "author": "호고호",
+      "license": "CC0-1.0",
+      "local": "output/confucius-detail/references/oblique.jpg"
+    }
+  ],
+  "limitations": [
+    "Photographs obscure outer bays with trees.",
+    "No surveyed elevations or hidden rear details.",
+    "Do not use Qufu Dacheng Hall dimensions or dragon-column details."
+  ]
+}

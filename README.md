@@ -65,3 +65,7 @@ node --test tests/route-core.test.mjs tests/travel-core.test.mjs tests/route-pos
 ## 许可和署名
 
 原创代码使用 MIT。OpenStreetMap／Overture 数据、第三方模型和照片**各自保留原许可**，不因代码开源而变成 MIT。详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 和各资产目录中的署名文件。路线仅作为旅行规划辅助，开放时间、预约和通行入口请以景点与导航服务当日信息为准。
+
+### 重建孔庙主殿模型
+
+运行 Demo 无需字体。若修改模型并在 Blender 中重新导出，先用 `python3 scripts/prepare_confucius_font.py /path/to/your-cjk-font.ttf` 准备自行授权使用的中文字体（需要 fonttools），再运行 `prepare_confucius.py` 和 Blender 内的 `build_confucius_detail.py`、`validate_confucius.py`。字体文件不进入 Git 或模型包。模型高度为照片比例推定，尚未解决与公开高度描述的差异。
