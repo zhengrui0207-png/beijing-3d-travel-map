@@ -1,0 +1,9 @@
+{
+  "source": "https://www.tiantanpark.cn/scenic_spot_list_g7yU_96/detail/1182.html",
+  "note": "Photo-informed form and estimated heights, not survey measurements. Preserve OSM footprint coordinates.",
+  "buildings": {
+    "43921141": {"height": 5.0, "roofShape": "hipped", "roofColor": "blue", "heritage": true},
+    "371497104": {"height": 6.5, "roofShape": "hipped", "roofColor": "blue", "heritage": true},
+    "371497115": {"height": 6.5, "roofShape": "hipped", "roofColor": "blue", "heritage": true}
+  }
+}

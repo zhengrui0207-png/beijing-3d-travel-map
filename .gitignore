@@ -1,30 +1,61 @@
+# macOS
 .DS_Store
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 构建
+dist/
+dist-*/
+build/
+out/
+*.tsbuildinfo
+.cache/
+
+# Python（混入）
 __pycache__/
 *.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 环境变量（绝密！）
 .env
-.env.*
-!.env.example
-.config/
-baidu.json
-.dream-loop/
+.env.local
+.env.*.local
+.auth/
+*.key
+*.pem
+
+# 工具缓存
 .playwright-cli/
+
+# 日志
 *.log
-*.blend
+
+# 3D 资产（不需要进 git）
 *.blend1
-*.glb
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.ttf
-*.ttc
-*.tar.gz
+*.blend2
+*.blend3
 *.zip
-.cache/
+*.tar.gz
+
+# 临时
+tmp/
+temp/
+
+# 大数据文件（不进 git）
 data/tiles/
-data/urban/
-data/osm_beijing.json
-data/terrain/beihai-meshes.json
-!docs/preview.png
-data/geometry.json
-data/urban-ground/
+data/urban/*.json
+data/urban-ground/*.json
+data/terrain/*.json
+public/assets/*.glb
+public/assets/**/*.glb
+*.osm

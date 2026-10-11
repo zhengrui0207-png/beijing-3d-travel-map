@@ -19,7 +19,7 @@ def main():
   target=a.destination/name;rows=[]
   with tarfile.open(target,'w:gz',compresslevel=3)as tar:
    for f in sorted(set(files)):
-    rel=f.relative_to(src).as_posix();info=tar.gettarinfo(str(f),arcname=rel);info.uid=info.gid=0;info.uname=info.gname='';info.mtime=0
+    rel=f.relative_to(src).as_posix();info=tar.gettarinfo(str(f),arcname=rel);info.uid=info.gid=0;info.uname=info.gname='';info.mtime=0;info.mode=0o644
     if rel=='data/urban/infill-detail/index.json':
      content=f.read_text().replace(str(src),'.').encode();info.size=len(content)
      tar.addfile(info,io.BytesIO(content));rows.append({'path':rel,'bytes':len(content),'sha256':hashlib.sha256(content).hexdigest()})
